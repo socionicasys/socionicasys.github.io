@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="description" content="Соционика, модель психики, информационный метаболизм, с точки зрения системного подхода" />
+<meta name="keywords" content="соционика" />
+<link rel="stylesheet" type="text/css" href="../assets/303fc3c5/gridview/styles.css?201408101514" />
+<script type="text/javascript" src="../assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="../assets/131831c9/jquery.ba-bbq.js"></script>
+<title>Протоколы | Школа системной соционики</title>
+	<link rel="alternate" type="application/atom+xml" href="../atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="../apple-touch-icon.png" />
+	<!--[if lt IE 9]>
+	<script src="/scripts/html5shiv.js?201408101352"></script>
+	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
+	<![endif]-->
+	<!--[if lt IE 7]>
+	<link rel="stylesheet" type="text/css" href="/styles/ie6.css?201408101352" media="all">
+	<![endif]-->
+</head>
+<body id="body">
+	<div id="wrap">
+		<header id="main-header">
+			<a id="logo-link" href="../index.html">
+				<h1>Школа системной соционики</h1>
+				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
+			</a>
+		</header>
+		<nav id="major-navigation">
+			<ul id="yw0">
+<li><a href="../index.html">Главная</a></li>
+<li><a href="../teorija">Теория</a></li>
+<li><a href="../praktika">Практика</a></li>
+<li class="active"><a href="../biblioteka">Библиотека</a></li>
+<li><a href="http://socionicasys.org/forum/">Форум</a></li>
+<li><a href="../praktika/testy-proverki-znanij">Тесты</a></li>
+</ul>		</nav>
+		<div id="content-area" class = "wide">
+			<div id="content-wrap" class = "wide">
+		<div id="content" class="hyphenate">
+		<section >
+	<h1>Протоколы идентификации ТИМа</h1>
+
+<p>Протоколы, созданные после июля 2010 года, были сгенерированны в программе
+<a href="../praktika/programma-informacionnyj-analiz">Информационный анализ</a> (ИА).
+Протоколы, созданные раньше, доступны в формате MS Word, а также переведены в формат ИА.</p>
+
+
+<div id="protocol-table" class="grid-view">
+<table class="items">
+<thead>
+<tr>
+<th id="protocol-table_c0"><a class="sort-link" href="protocol?Protocol_sort=name">Имя (псевдоним)</a></th><th id="protocol-table_c1"><a class="sort-link asc" href="protocol?Protocol_sort=tim.desc">ТИМ</a></th><th id="protocol-table_c2"><a class="sort-link" href="protocol?Protocol_sort=date">Дата</a></th><th title="Ссылки на протокол в формате ИА (программа «Информационный анализ»)" id="protocol-table_c3">ИА</th><th title="Ссылки на протокол в формате Microsoft Word" id="protocol-table_c4">Word</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td>Recede</td><td>ILE</td><td>2015.12</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/ILE_Recede.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="even"><td>Myst91</td><td>SLE</td><td>2015.12</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SLE_Myst91.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="odd"><td>Sequoia (KRina)<a title="Цель исследования: определение знаков функций, сходимость">*</a></td><td>Белые — знак минус</td><td>2009.02</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Sequoia_KRina.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Pozazon</td><td>ИЛИ</td><td>2009.10</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/ILI_Pozazon.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Pozazon.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>Danger</td><td>ИЛИ</td><td>2006.08</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Danger.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Юрий<a title="Анализ ответа по БС">*</a></td><td>ИЛИ</td><td>2015.02</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/Iyrij_BS.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="odd"><td>Жюлли</td><td>ИЛЭ</td><td>2005.06</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/ILE_Jullie.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/ILE_Jullie.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>OlegShv</td><td>ИЛЭ</td><td>2005.04</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/OlegShv.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>toxygene</td><td>ИЛЭ</td><td>2012.12</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/ILE_toxygene.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="even"><td>Львенок</td><td>ИЭИ</td><td>2005.07</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Lvenok.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>EXO</td><td>ИЭИ</td><td>2005.09</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/EXO.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>DrawingOnSand</td><td>ИЭИ</td><td>2005.11</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/protocol_DrawingOnSand.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>Nado</td><td>ИЭИ</td><td>2006.09</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Nado.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Lukaviy</td><td>ИЭИ</td><td>2007.01</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Lukaviy.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>wechsel_tm</td><td>ИЭИ</td><td>2010.02</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/IEI_wechsel.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="even"><td>Darvest</td><td>ИЭИ</td><td>2011.10</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/IEI_Darvest.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="odd"><td>Тамара Ивановна</td><td>ЛИИ</td><td>2008.03</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Tamara_Ivanovna.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Cosmos</td><td>ЛИИ</td><td>2007.02</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Cosmos.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>Nat</td><td>ЛИИ</td><td>2007.02</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/LII_Nat.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/protocol_Nat.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Nikanor<a title="Протокол очного типирования">*</a></td><td>ЛИИ</td><td>2009.02</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/LII_Nikanor.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Nikanor.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>Cookie</td><td>ЛИЭ</td><td>2006.04</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/LIE_cookie.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_cookie.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>uliska</td><td>ЛИЭ</td><td>2010.12</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/LIE_uliska.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="odd"><td>blackate</td><td>ЛСИ</td><td>2007.10</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/LSI_blackate.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/LSI_blackate.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Elhant</td><td>ЛСЭ</td><td>2010.08</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/LSE_Elhant.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="odd"><td>helly</td><td>СЛИ</td><td>2005.07</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SLI_helly.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/SLI_helly.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Mafia</td><td>СЛИ</td><td>2005.10</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Mafiya.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>kotik</td><td>СЛИ</td><td>2005.11</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SLI_kotik.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Kotik.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Radiovolna</td><td>СЛИ</td><td>2007.10</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SLI_Radiovolna.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Radiovolna_korotkiy.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>Forward</td><td>СЛЭ</td><td>2006.03</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SLE_Forward.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="even"><td>Дмитрий</td><td>СЛЭ</td><td>2012.08</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SLE_Dmitriy.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="odd"><td>Khaal</td><td>СЛЭ</td><td>2012.10</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SLE_Khaal.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="even"><td>Inhale</td><td>СЛЭ</td><td>2014.03</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SLE_Inhale.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="odd"><td>Барсёна</td><td>СЭИ</td><td>2006.12</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Barsia.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>vorona<a title="Протокол очного типирования">*</a></td><td>СЭИ</td><td>2010.09</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SEI_vorona.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="odd"><td>Эмилио</td><td>СЭИ</td><td>2010.12</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SEI_Emilio.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="even"><td>designer</td><td>СЭИ</td><td>2012.02</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SEI_designer.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="odd"><td>Kukushka</td><td>СЭЭ</td><td>2006.11</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SEE_Kukushka.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/SEE_Kukushka.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>topik</td><td>СЭЭ</td><td>2007.09</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_topik.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>Тагра</td><td>СЭЭ</td><td>2005.12</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/protocol_Tagra.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Litera</td><td>СЭЭ</td><td>2006.06</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Litera_poln.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>Ishtar</td><td>СЭЭ</td><td>2008.11</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/protocol_Ishtar.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>salva_res_ast</td><td>СЭЭ</td><td>2009.05</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SEE_salva_res_ast.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/salva_res_ast.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>Sonson</td><td>СЭЭ</td><td>2012.10</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SEE_Sonson.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="even"><td>bmarley</td><td>СЭЭ</td><td>2014.09</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/SEE_bmarley.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="odd"><td>Kora</td><td>СЭЭ/ЭСИ</td><td>2008.03</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Kora.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Илья Б.</td><td>ЭИИ</td><td>2006.07</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/EII_Ilya_B.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/EII_Ilya_B.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>good_faith</td><td>ЭИИ</td><td>2007.10</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/EII_good_faith.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/protocol_good_faith.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>VP</td><td>ЭИИ</td><td>2009.09</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/EII_VP.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_VP.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>busak</td><td>ЭИЭ</td><td>2005.09</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/EIE_busak.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/EIE_busak.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Stepa</td><td>ЭИЭ</td><td>2006.12</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protokol_Stepa.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>Blizzard</td><td>ЭИЭ</td><td>2007.02</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Blizzard.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Sherok</td><td>ЭИЭ</td><td>2007.12</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/EIE_Sherok.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Sherok_korotkiy.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>Pandora</td><td>ЭСИ</td><td>2010.08</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/ESI_Pandora.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="even"><td>Альберт<a title="Протокол очного типирования">*</a></td><td>ЭСИ</td><td>2009.02</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/ESI_Albert.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Albert.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>Mur</td><td>ЭСИ</td><td>2007.09</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Mur_01_09_07.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>serge</td><td>ЭСИ</td><td>2005.05</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/serge_.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>Faith</td><td>ЭСИ</td><td>2007.04</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_Faith.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>Elle</td><td>ЭСИ</td><td>2011.05</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/ESI_Elle.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="odd"><td>Марася</td><td>ЭСИ</td><td>2012.11</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/ESI_Marasia.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="even"><td>Irina</td><td>ЭСИ/СЭЭ</td><td>2006.02</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/protocol_Irina.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>AlexD</td><td>ЭСИ/СЭЭ</td><td>2008.03</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/Protocol_AlexD_korotkiy.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="even"><td>April</td><td>ЭСЭ</td><td>2005.12</td><td class="button-column"></td><td class="button-column"><a class="view" title="Скачать" href="../public/protocols/protocol_April.zip"><img src="../assets/303fc3c5/gridview/view.png" alt="Скачать" /></a></td></tr>
+<tr class="odd"><td>djina</td><td>ЭСЭ</td><td>2012.06</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/ESE_djina.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+<tr class="even"><td>Solidera</td><td>ЭСЭ</td><td>2014.01</td><td class="button-column"><a class="view" title="Просмотреть" href="../public/protocols/Protocol_IA/ESE_Solidera.htm"><img src="../assets/303fc3c5/gridview/view.png" alt="Просмотреть" /></a></td><td class="button-column"></td></tr>
+</tbody>
+</table><div class="keys" style="display:none" title="/biblioteka/protocol?Protocol_sort=tim"><span>65</span><span>66</span><span>44</span><span>28</span><span>29</span><span>64</span><span>3</span><span>4</span><span>58</span><span>18</span><span>19</span><span>20</span><span>21</span><span>22</span><span>51</span><span>52</span><span>9</span><span>11</span><span>12</span><span>50</span><span>30</span><span>47</span><span>17</span><span>2</span><span>39</span><span>40</span><span>41</span><span>42</span><span>49</span><span>55</span><span>56</span><span>62</span><span>5</span><span>6</span><span>7</span><span>53</span><span>23</span><span>24</span><span>25</span><span>26</span><span>27</span><span>46</span><span>57</span><span>63</span><span>45</span><span>37</span><span>38</span><span>43</span><span>13</span><span>14</span><span>15</span><span>16</span><span>1</span><span>31</span><span>32</span><span>33</span><span>35</span><span>48</span><span>59</span><span>34</span><span>36</span><span>8</span><span>54</span><span>61</span></div>
+</div></section>
+	</div>
+</div>
+		</div>
+	</div>
+	<footer id="main-footer">
+		<p>&copy; Школа системной соционики, Киев 2010&ndash;2016.</p>
+	</footer>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8823766-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- Yandex.Metrika -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter28748261 = new Ya.Metrika({id:28748261,
+                    clickmap:true,
+                    trackLinks:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika -->
+<script type="text/javascript" src="../assets/303fc3c5/gridview/jquery.yiigridview.js?201408101514"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#protocol-table').yiiGridView({'ajaxUpdate':['protocol-table'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

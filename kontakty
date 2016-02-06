@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="description" content="Соционика, модель психики, информационный метаболизм, с точки зрения системного подхода" />
+<meta name="keywords" content="соционика" />
+<script type="text/javascript" src="assets/131831c9/jquery.min.js"></script>
+<title>Контакты | Школа системной соционики</title>
+	<link rel="alternate" type="application/atom+xml" href="atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+	<!--[if lt IE 9]>
+	<script src="/scripts/html5shiv.js?201408101352"></script>
+	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
+	<![endif]-->
+	<!--[if lt IE 7]>
+	<link rel="stylesheet" type="text/css" href="/styles/ie6.css?201408101352" media="all">
+	<![endif]-->
+</head>
+<body id="body">
+	<div id="wrap">
+		<header id="main-header">
+			<a id="logo-link" href="index.html">
+				<h1>Школа системной соционики</h1>
+				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
+			</a>
+		</header>
+		<nav id="major-navigation">
+			<ul id="yw3">
+<li class="active"><a href="index.html">Главная</a></li>
+<li><a href="teorija">Теория</a></li>
+<li><a href="praktika">Практика</a></li>
+<li><a href="biblioteka">Библиотека</a></li>
+<li><a href="http://socionicasys.org/forum/">Форум</a></li>
+<li><a href="praktika/testy-proverki-znanij">Тесты</a></li>
+</ul>		</nav>
+		<div id="content-area" class = "narrow">
+			<div id="content-wrap">
+		<nav id="breadcrumbs">
+		<div class="breadcrumbs">
+<a href="index.html">Главная</a> &raquo; <span>Контакты</span></div>	</nav>
+		<div id="content" class="hyphenate">
+		<section >
+	<h1>Контакты Школы системной соционики</h1>
+
+<p>
+	Если у вас есть вопросы или предложения, вы можете поделиться ими по адресу
+	<a href="mailto:admin@socionicasys.org">admin@socionicasys.org</a>, или заполнив форму:
+</p>
+
+
+<div class="form">
+
+<form id="yw0" action="kontakty" method="post">
+<div style="display:none"><input type="hidden" value="1b66e9590d016686e2fdb421d74b87c8c7197aab" name="YII_CSRF_TOKEN" /></div>
+	
+	<div class="row">
+		<label for="ContactForm_name">Имя</label>		<input name="ContactForm[name]" id="ContactForm_name" type="text" />	</div>
+
+	<div class="row">
+		<label for="ContactForm_email">Ваш Email</label>		<input name="ContactForm[email]" id="ContactForm_email" type="text" />	</div>
+
+	<div class="row">
+		<label for="ContactForm_body">Сообщение</label>		<textarea rows="6" cols="50" name="ContactForm[body]" id="ContactForm_body"></textarea>	</div>
+
+		<div class="row">
+		<label for="ContactForm_verificationCode">Проверочный код</label>		<div>
+		<img id="yw1" src="captcha?v=56b5cd54c69ae" alt="" />		<input name="ContactForm[verificationCode]" id="ContactForm_verificationCode" type="text" />		</div>
+		<div class="hint">Пожалуйста, введите буквы с картинки для подтверждения своей человечности.</div>
+	</div>
+	
+	<div class="row buttons">
+		<input type="submit" name="yt0" value="Отправить" />	</div>
+
+</form>
+</div><!-- form -->
+
+</section>
+	</div>
+</div>
+<aside id="secondary-navigation">
+	<nav>
+		<ul id="yw2">
+<li class="active"><a href="index.html">Главная</a>
+<ul>
+<li><a href="chto-takoe-sistemnaja-socionika">Что такое системная соционика?</a></li>
+<li><a href="o-shkole">О Школе системной соционики</a></li>
+<li><a href="faq-po-socionike">FAQ по соционике</a></li>
+<li><a href="poisk">Поиск по темам</a></li>
+<li><a href="novosti">Новости</a></li>
+<li class="selected"><span>Контакты</span></li>
+</ul>
+</li>
+</ul>	</nav>
+	</aside>
+<aside id="random-quote">
+	<!--noindex-->
+<section class="random-quote">
+	<h1>Мысли человечества в аспектах</h1>
+	<blockquote class="hyphenate">
+		<p>«Не откладывайте на завтра то, что можно сделать сегодня»</p>	</blockquote>
+	<p class="random-quote-author">Б. Франклин</p>
+	<p class="random-quote-note">(ЧЛ, БИ)</p>
+</section>
+<!--/noindex-->
+</aside>
+		</div>
+	</div>
+	<footer id="main-footer">
+		<p>&copy; Школа системной соционики, Киев 2010&ndash;2016.</p>
+	</footer>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8823766-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- Yandex.Metrika -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter28748261 = new Ya.Metrika({id:28748261,
+                    clickmap:true,
+                    trackLinks:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika -->
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').after("<a id=\"yw1_button\" href="http://socionicasys.org/\&quot;\/captcha?refresh=1\&quot;">\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043d\u043e\u0432\u044b\u0439 \u043a\u043e\u0434<\/a>");
+$(document).on('click', '#yw1_button', function(){
+	$.ajax({
+		url: "\/captcha?refresh=1",
+		dataType: 'json',
+		cache: false,
+		success: function(data) {
+			$('#yw1').attr('src', data['url']);
+			$('body').data('captcha.hash', [data['hash1'], data['hash2']]);
+		}
+	});
+	return false;
+});
+
+$('#random-quote').hide().delay(750).fadeIn(1750);
+});
+/*]]>*/
+</script>
+</body>
+</html>

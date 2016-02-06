@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="description" content="дан список индикаторов размерности функций" />
+<meta name="keywords" content="параметр, индикатор, размерность, функция, маломерность, многомерность, одномерность, размерность норм, ситуативность, четвертая размерность, Ex, Nr, St, Tm" />
+<link rel="prev" href="chetyrehmernost" />
+<link rel="next" href="../znaki" />
+<script type="text/javascript" src="../../../../assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="../../../../scripts/hyphenate.js?201408101352"></script>
+<title>Индикаторы размерности функций | Школа системной соционики</title>
+	<link rel="alternate" type="application/atom+xml" href="../../../../atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../../../styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../../../styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="../../../../favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="../../../../apple-touch-icon.png" />
+	<!--[if lt IE 9]>
+	<script src="/scripts/html5shiv.js?201408101352"></script>
+	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
+	<![endif]-->
+	<!--[if lt IE 7]>
+	<link rel="stylesheet" type="text/css" href="/styles/ie6.css?201408101352" media="all">
+	<![endif]-->
+</head>
+<body id="body">
+	<div id="wrap">
+		<header id="main-header">
+			<a id="logo-link" href="../../../../index.html">
+				<h1>Школа системной соционики</h1>
+				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
+			</a>
+		</header>
+		<nav id="major-navigation">
+			<ul id="yw2">
+<li><a href="../../../../index.html">Главная</a></li>
+<li class="active"><a href="../../../../teorija">Теория</a></li>
+<li><a href="../../../../praktika">Практика</a></li>
+<li><a href="../../../../biblioteka">Библиотека</a></li>
+<li><a href="http://socionicasys.org/forum/">Форум</a></li>
+<li><a href="../../../../praktika/testy-proverki-znanij">Тесты</a></li>
+</ul>		</nav>
+		<div id="content-area" class = "narrow">
+			<div id="content-wrap">
+		<nav id="breadcrumbs">
+		<div class="breadcrumbs">
+<a href="../../../../teorija">Теория</a> &raquo; <a href="../../../dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <a href="../../funkcii.1">Функции модели А</a> &raquo; <a href="../razmernost">Размерность функций</a> &raquo; <span>Индикаторы размерности функций</span></div>	</nav>
+		<div id="content" class="hyphenate">
+		<article >
+	<h2>
+	Индикаторы размерности функций</h2>
+<p>
+	 </p>
+<table border="1" cellpadding="0" cellspacing="0" style="width:681px;" width="681"><tbody><tr><td style="width:54px;height:105px;">
+				<p align="center">
+					<strong>№</strong></p>
+				<p align="center">
+					<strong>индикатора</strong></p>
+			</td>
+			<td style="width:400px;height:105px;">
+				<p>
+					 </p>
+				<p>
+					<strong>Название индикатора</strong></p>
+			</td>
+			<td style="width:227px;height:105px;">
+				<p>
+					 </p>
+				<p>
+					<strong>Параметр функции, на который указывает индикатор</strong></p>
+				<p>
+					 </p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					1</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Описание непосредственного восприятия на уровне опыта</strong> (нравится/не нравится, я так ощущаю и т.д.); или описание собственного опыта в виде: «я такое наблюдаю», без сравнительных оценок с каким-либо эталоном (авторитетным источником, принятыми в обществе представлениями, правилами, договоренностями)</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Параметр опыта (Ex)</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					2</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Освоение чего-то  <strong>«методом тыка» (</strong>накопление опыта)</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Параметр опыта (Ex)</strong></p>
+				<p>
+					 </p>
+			</td>
+		</tr><tr><td style="width:54px;height:75px;">
+				<p align="center">
+					3</p>
+			</td>
+			<td style="width:400px;height:75px;">
+				<p>
+					<strong>Перечисление ситуаций опыта</strong></p>
+				<p>
+					(при наличии признаков перечисления пришедшего на ум опыта, то есть «ситуациями» называются разные опыты)</p>
+			</td>
+			<td style="width:227px;height:75px;">
+				<p>
+					<strong>Параметр опыта (Ex)</strong></p>
+				<p>
+					 </p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					4</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Отсутствие инструмента сравнения</strong>  информации:</p>
+				<p>
+					·                    невозможность приравняться к какой-то фиксированной норме, шаблону, правилу.</p>
+				<p>
+					·                    Знание норм, но неумение ими пользоваться</p>
+				<p>
+					·                    Использование заменителей норм</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td rowspan="2" style="width:54px;height:22px;">
+				<p align="center">
+					5</p>
+			</td>
+			<td rowspan="2" style="width:400px;height:22px;">
+				<p>
+					<strong>Своеобразность</strong> мышления, мышление не соответствует общепринятым представлениям, не учитывает их</p>
+			</td>
+			<td style="width:227px;height:22px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td style="width:227px;height:17px;">
+				<p>
+					<strong>Витал</strong></p>
+			</td>
+		</tr><tr><td rowspan="3" style="width:54px;height:16px;">
+				<p align="center">
+					6</p>
+			</td>
+			<td rowspan="3" style="width:400px;height:16px;">
+				<p>
+					<strong>Индивидуальность</strong> представления, обособление своего индивидуального мнения, индивидуального восприятия</p>
+			</td>
+			<td style="width:227px;height:16px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td style="width:227px;height:14px;">
+				<p>
+					<strong>Витал</strong></p>
+			</td>
+		</tr><tr><td style="width:227px;height:52px;">
+				<p>
+					<strong>В программе индивидуальность = не ф. 1, 2, 3</strong></p>
+			</td>
+		</tr><tr><td rowspan="2" style="width:54px;height:14px;">
+				<p align="center">
+					7</p>
+			</td>
+			<td rowspan="2" style="width:400px;height:14px;">
+				<p>
+					<strong>Неадекватность</strong> реакции - несоответствие общепринятому в сопровождении с болезненной УЭ</p>
+			</td>
+			<td style="width:227px;height:14px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td style="width:227px;height:14px;">
+				<p>
+					<strong>Знак «плюс»</strong></p>
+				<p>
+					при попадании<strong> плюсовой </strong>функции в зону минуса (т.е. в зону некомпетентности)</p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					8</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Можно понять только <strong>опытным путем,</strong> <strong>опора только на предыдущий опыт</strong></p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					9</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Совет воспринимается  как негативная критика или нападение</strong></p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;height:43px;">
+				<p align="center">
+					10</p>
+			</td>
+			<td style="width:400px;height:43px;">
+				<p>
+					<strong>Отказ от</strong> <strong>общепринятого,  </strong>если рамки общепринятого не принимаются как необходимость</p>
+			</td>
+			<td style="width:227px;height:43px;">
+				<p>
+					<strong>Одномерность</strong><strong>, </strong></p>
+			</td>
+		</tr><tr><td rowspan="2" style="width:54px;height:18px;">
+				<p align="center">
+					11</p>
+			</td>
+			<td rowspan="2" style="width:400px;height:18px;">
+				<p>
+					<strong>Повторяемость – </strong>постоянное попадание в прежний опыт</p>
+			</td>
+			<td style="width:227px;height:18px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td style="width:227px;height:16px;">
+				<p>
+					<strong>Витал</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					12</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Фиксация</strong>, <strong>стремление сохранять неизменность</strong> положения, страх его изменить</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					13</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Стремление «отрезать»</strong> часть информации о мире, «отвернуться», часто память «стирает следы» неудач.</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					14</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Возможна <strong>внушаемость</strong>. Нет критичности в оценке информации</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td rowspan="2" style="width:54px;height:16px;">
+				<p align="center">
+					15</p>
+			</td>
+			<td rowspan="2" style="width:400px;height:16px;">
+				<p>
+					<strong>Неадекватная самоуверенность</strong> (маска, демонстрируемая социуму, которая прячет страхи и неуверенность).</p>
+			</td>
+			<td style="width:227px;height:16px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td style="width:227px;height:11px;">
+				<p>
+					<strong>Суперид</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					16</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Нет самооценки по аспекту</strong>, <strong>теряется</strong> в оценке, в информации по аспекту, т.к. нет норм, на которые можно опереться в оценке</p>
+				<p>
+					 </p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Одномерность</strong></p>
+				<p>
+					 </p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					17</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Критерий оценки – количество потраченной энергии, сил.</strong></p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					18</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Критерий оценки – <strong>собственные ощущения</strong></p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Одномерность</strong></p>
+			</td>
+		</tr><tr><td rowspan="2" style="width:54px;height:22px;">
+				<p align="center">
+					19</p>
+			</td>
+			<td rowspan="2" style="width:400px;height:22px;">
+				<p>
+					<strong>Болезненность</strong> в восприятии информации, наличие <strong>страха,</strong> <strong>паники, комплекс неполноценности</strong></p>
+				<p>
+					 </p>
+			</td>
+			<td style="width:227px;height:22px;">
+				<p>
+					<strong>Одномерность</strong> функции, обычно, ф.4</p>
+			</td>
+		</tr><tr><td style="width:227px;height:22px;">
+				<p>
+					<strong>Знак «плюс» </strong></p>
+				<p>
+					при попадании <strong>плюсовой </strong>функции в зону минуса (некомпетентности)</p>
+			</td>
+		</tr><tr><td colspan="3" style="width:681px;">
+				<p align="center">
+					 </p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					20</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Мало градаций</strong> в аспекте</p>
+				<p>
+					Восприятие информации без оттенков, нюансов, как черно/белое, да/нет, правильно/не правильно, крайности.</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Мало</strong><strong>мерность</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					21</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Неуверенность</strong> в том, что говорит, в своем понимании, в своих действиях</p>
+				<p>
+					<strong>Неуверенная самооценка по аспекту</strong></p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Мало</strong><strong>мерность</strong></p>
+				<p>
+					<strong>разобраться</strong></p>
+			</td>
+		</tr><tr><td rowspan="2" style="width:54px;height:14px;">
+				<p align="center">
+					22</p>
+			</td>
+			<td rowspan="2" style="width:400px;height:14px;">
+				<p>
+					<strong>Нежелание говорить</strong> на определенную тему.</p>
+				<p>
+					Уход от ответа на вопрос</p>
+			</td>
+			<td style="width:227px;height:14px;">
+				<p>
+					<strong>Мало</strong><strong>мерность, </strong></p>
+				<p>
+					нечего сказать, обычно от <strong>Суперэго</strong></p>
+				<p>
+					Стремление «отрезать» часть жизни, какой-то неприятный опыт.</p>
+			</td>
+		</tr><tr><td style="width:227px;height:107px;">
+				<p>
+					<strong>Витальност</strong><strong>ь, </strong></p>
+				<p>
+					типируемый не хочет погружаться в этот аспект, это не интересно типируемому, не совпадает с его индивидуальным наполнением.</p>
+				<p>
+					Обычно, более вербализуемые блоки: эго и Суперид</p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					23</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Поспешность</strong>, <strong>торопливость, суетливость </strong>реакций</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Мало</strong><strong>мерность</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					24</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Суеверие, опора не веру</strong></p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Мало</strong><strong>мерность</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					25</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Присутствие элемента<strong> фатальности, неизбежности</strong>, которая исходит от субъективности восприятия</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Мало</strong><strong>мерность</strong></p>
+			</td>
+		</tr><tr><td rowspan="2" style="width:54px;height:7px;">
+				<p align="center">
+					26</p>
+			</td>
+			<td rowspan="2" style="width:400px;height:7px;">
+				<p>
+					<strong>Не может привести примеры</strong></p>
+			</td>
+			<td style="width:227px;height:7px;">
+				<p>
+					<strong>Мало</strong><strong>мерность</strong></p>
+			</td>
+		</tr><tr><td style="width:227px;height:7px;">
+				<p>
+					<strong>Витал</strong></p>
+			</td>
+		</tr><tr><td rowspan="2" style="width:54px;height:14px;">
+				<p align="center">
+					27</p>
+			</td>
+			<td rowspan="2" style="width:400px;height:14px;">
+				<p>
+					<strong>«Бзики», «пунктики», «странности»</strong></p>
+			</td>
+			<td style="width:227px;height:14px;">
+				<p>
+					<strong>Мало</strong><strong>мерность</strong></p>
+			</td>
+		</tr><tr><td style="width:227px;height:14px;">
+				<p>
+					<strong>Витал</strong></p>
+			</td>
+		</tr><tr><td rowspan="2" style="width:54px;height:54px;">
+				<p align="center">
+					28</p>
+			</td>
+			<td rowspan="2" style="width:400px;height:54px;">
+				<p>
+					<strong>УЭ маломерных функций</strong>: ощущение психического напряжения, психической усталости, испытывание неприятных, негативных состояний, энергетически затратное.</p>
+				<p>
+					Негативная оценка воспринимается <strong>болезненно.</strong></p>
+			</td>
+			<td style="width:227px;height:54px;">
+				<p>
+					<strong>Мало</strong><strong>мерность</strong></p>
+				<p>
+					 </p>
+			</td>
+		</tr><tr><td style="width:227px;height:76px;">
+				<p>
+					<strong>Знак «плюс»</strong></p>
+				<p>
+					Попадание <strong>плюсовой </strong>функции в зону минуса (некомпетентности)</p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					29</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Склонность скрывать свои слабости</strong></p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Мало</strong><strong>мерность</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					30</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Обобщения</strong> типа: любой, у каждого, для всех, всегда, никогда и т.д., которые по смыслу отражают фиксированную, негибкую позицию</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Мало</strong><strong>мерность</strong></p>
+			</td>
+		</tr><tr><td colspan="3" style="width:681px;">
+				<p align="center">
+					 </p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					31</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Ссылка (опора) на <strong>авторитетный источник</strong> информации – человек, учебник, словарь и т.д.</p>
+				<p>
+					Ссылка на то, что так обучали, как у других</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Размерность норм</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					32</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Использование в жизни и ссылка на <strong>нормативные представления, понятия, документы, правила, законы, способы, приемы </strong>и т.д.</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Размерность норм</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					33</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Использование и ссылка на <strong>общепринятое </strong></p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Размерность норм</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					34</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Обязательность, долженствование, правильность</strong>:</p>
+				<p>
+					 «нужно», «надо»,  «правильно», «должно», «необходимо», «нормально»</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Размерность норм</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					35</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Утверждение неких <strong>негибких </strong>постулатов, правил</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Размерность норм</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					36</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Использование <strong>штампов</strong>, <strong>устойчивых выражений</strong> (также поговорок, пословиц). Стереотипность мышления.</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Размерность норм</strong></p>
+			</td>
+		</tr><tr><td colspan="3" style="width:681px;">
+				<p align="center">
+					 </p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					37</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Рассмотрение вопроса в<strong> привязке к конкретным условиям, ситуациям</strong></p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Параметр St</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					38</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Много градаций</strong> в аспекте</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Многомерность</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;height:29px;">
+				<p align="center">
+					39</p>
+			</td>
+			<td style="width:400px;height:29px;">
+				<p>
+					<strong>Выход за рамки</strong> <strong>общепринятого </strong>(расширение рамок общепринятого), если есть понимание норм, они учитываются, но есть понимание, как можно быть гибким в конкретной ситуации</p>
+			</td>
+			<td style="width:227px;height:29px;">
+				<p>
+					<strong>Многомерность</strong><strong>, </strong></p>
+				<p>
+					 </p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					40</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Отказ от «правильности»,</strong> сужающей рамки.</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Многомерность</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;height:37px;">
+				<p align="center">
+					41</p>
+			</td>
+			<td style="width:400px;height:37px;">
+				<p>
+					<strong>Уверенное, обоснованное утверждение своей точки зрения</strong></p>
+				<p>
+					<strong>Уверенная самооценка </strong>по аспекту</p>
+				<p>
+					<strong>УЭ многомерных функций</strong></p>
+			</td>
+			<td style="width:227px;height:37px;">
+				<p>
+					<strong>Многомерность</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					42</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Оценка и самооценка есть, но есть и <strong>безразличие</strong> к этой оценке, не нуждается в оценке</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Многомерность</strong>, чаще Эго.</p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					43</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					<strong>Разворачивание «кинопленки времени»</strong> внутри аспекта, то есть постоянное во времени прослеживание информации по аспекту</p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Параметр времени</strong> <strong>(</strong><strong>Tm</strong><strong>)</strong></p>
+			</td>
+		</tr><tr><td style="width:54px;">
+				<p align="center">
+					44</p>
+			</td>
+			<td style="width:400px;">
+				<p>
+					Отождествление себя с данным аспектом <strong>=Я</strong></p>
+				<p>
+					Либо аспект приравнивается к <strong>жизни</strong></p>
+			</td>
+			<td style="width:227px;">
+				<p>
+					<strong>Параметр времени (</strong><strong>Tm</strong><strong>)</strong> (первая функция)</p>
+			</td>
+		</tr></tbody></table><p>
+	<br /><span style="font-size:14px;line-height:1.5;">Дополнительную информацию об индикаторах функций, примеры к таблице можете прочитать в книге </span><span class="name" style="font-size:14px;line-height:1.5;">Эглит И. М.</span><span style="font-size:14px;line-height:1.5;"> </span><a href="../../../../biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa" style="font-size:14px;line-height:1.5;">Определение соционического типа</a></p>
+<p>
+	<a href="../../../../praktika/spravochnik-po-indikatoram" style="font-size:14.3999996185303px;line-height:16.7999992370605px;">Программа Справочник индикаторов</a></p>
+<nav id="nav-controls">
+	<ul>
+				<li id="prev-link"><a href="chetyrehmernost">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="../znaki">Следующая страница »</a></li>
+			</ul>
+</nav>
+</article>
+	</div>
+</div>
+<aside id="secondary-navigation">
+	<nav>
+		<ul id="yw1">
+<li class="active"><a href="../../../../teorija">Теория</a>
+<ul>
+<li class="active"><a href="../../../dlja-novichkov">Соционика от новичка до эксперта</a>
+<ul>
+<li><a href="../../chto-takoe-socionica">Что такое соционика?</a></li>
+<li><a href="../../sistemy">Системный подход</a></li>
+<li><a href="../../aspekty">Информационные аспекты</a></li>
+<li><a href="../../model">Модель ТИМа</a></li>
+<li><a href="../../bloki-i-kolca">Блоки и кольца модели А</a></li>
+<li class="active"><a href="../../funkcii.1">Функции модели А</a>
+<ul>
+<li class="active"><a href="../razmernost">Размерность функций</a>
+<ul>
+<li><a href="odnomernost">Одномерность</a></li>
+<li><a href="dvumernost">Двумерность</a></li>
+<li><a href="trehmernost">Трехмерность</a></li>
+<li><a href="chetyrehmernost">Четырехмерность</a></li>
+<li class="selected"><span>Индикаторы размерности функций</span></li>
+</ul>
+</li>
+<li><a href="../znaki">Знаки функций</a></li>
+<li><a href="../konspekt-svojstva-funkcij">Конспект «Свойства функций»</a></li>
+<li><a href="../harakteristiki-i-upravljajushchie-emocii-funkcij">Основные свойства и управляющие эмоции функций</a></li>
+</ul>
+</li>
+<li><a href="../../opisanie-modelej">Описания моделей ТИМа</a></li>
+<li><a href="../../mezhtimnye-otnoshenija.1">Интертипные отношения</a></li>
+</ul>
+</li>
+<li><a href="../../../po-ermaku">Соционика по Ермаку</a></li>
+</ul>
+</li>
+</ul>	</nav>
+	</aside>
+<aside id="random-quote">
+	<!--noindex-->
+<section class="random-quote">
+	<h1>Мысли человечества в аспектах</h1>
+	<blockquote class="hyphenate">
+		<p>«Перед человеком к разуму три пути: путь размышления — это самый благородный; путь подражания — это самый легкий; путь личного опыта — самый тяжелый путь.
+
+»</p>	</blockquote>
+	<p class="random-quote-author">Конфуций</p>
+	<p class="random-quote-note">(БЛ)</p>
+</section>
+<!--/noindex-->
+</aside>
+		</div>
+	</div>
+	<footer id="main-footer">
+		<p>&copy; Школа системной соционики, Киев 2010&ndash;2016.</p>
+	</footer>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8823766-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- Yandex.Metrika -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter28748261 = new Ya.Metrika({id:28748261,
+                    clickmap:true,
+                    trackLinks:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika -->
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+$('#random-quote').hide().delay(750).fadeIn(1750);
+});
+/*]]>*/
+</script>
+</body>
+</html>
