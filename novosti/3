@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Соционика, модель психики, информационный метаболизм, с точки зрения системного подхода" />
 <meta name="keywords" content="соционика" />
-<link rel="stylesheet" type="text/css" href="../assets/303fc3c5/listview/styles.css?201408101514" />
-<link rel="stylesheet" type="text/css" href="../assets/555b66cd/pager.css?201408102249" />
-<script type="text/javascript" src="../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../assets/131831c9/jquery.ba-bbq.js"></script>
+<link rel="stylesheet" type="text/css" href="/assets/303fc3c5/listview/styles.css?201408101514" />
+<link rel="stylesheet" type="text/css" href="/assets/555b66cd/pager.css?201408102249" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/131831c9/jquery.ba-bbq.js"></script>
 <title>Новости | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw4">
-<li class="active"><a href="../index.html">Главная</a></li>
-<li><a href="../teorija">Теория</a></li>
-<li><a href="../praktika">Практика</a></li>
-<li><a href="../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../praktika/testy-proverki-znanij">Тесты</a></li>
+<li class="active"><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../index.html">Главная</a> &raquo; <span>Новости</span></div>	</nav>
+<a href="/">Главная</a> &raquo; <span>Новости</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<section >
 	<div id="yw1" class="list-view">
@@ -54,7 +54,7 @@
 	<p><time class="published updated" pubdate="" datetime="2013-01-26">26.01.2013</time></p>
 </header> 
 <p>
-	В библиотеку сайта добавлена статья <a href="../biblioteka/statji/iskazhenija-tima">Эглит И.М. "Искажения ТИМа"</a></p>
+	В библиотеку сайта добавлена статья <a href="http://socionicasys.org/biblioteka/statji/iskazhenija-tima">Эглит И.М. "Искажения ТИМа"</a></p>
 </article>
 <article class="news-item" id="item-56">
 <header>
@@ -76,13 +76,13 @@
 <p>
 	В Библиотеку добавлены новые статьи:</p>
 <p>
-	<a href="../biblioteka/statji/ego-skvoz-prizmu-socioniki">Эглит И.М. ЭГО сквозь призму соционики</a></p>
+	<a href="http://socionicasys.org/biblioteka/statji/ego-skvoz-prizmu-socioniki">Эглит И.М. ЭГО сквозь призму соционики</a></p>
 <p>
-	<a href="../biblioteka/statji/model-kak-sloenyj-pirog">Эглит И.М. Модель как слоеный пирог</a></p>
+	<a href="http://socionicasys.org/biblioteka/statji/model-kak-sloenyj-pirog">Эглит И.М. Модель как слоеный пирог</a></p>
 <p>
-	<a href="../biblioteka/statji/ispolzovanie-znakov-funkcij-v-praktike-diagnostiki-tima-v-shss">Эглит И.М. Использование знаков функций в практике диагностики ТИМа в ШСС</a> (по докладу на круглом столе в декабре 2011г.)</p>
+	<a href="http://socionicasys.org/biblioteka/statji/ispolzovanie-znakov-funkcij-v-praktike-diagnostiki-tima-v-shss">Эглит И.М. Использование знаков функций в практике диагностики ТИМа в ШСС</a> (по докладу на круглом столе в декабре 2011г.)</p>
 <p>
-	<a href="../biblioteka/statji/tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov">Эглит И. М. Точность диагностики ТИМа. Сравнение двух подходов.</a> (по докладу на семинаре о методике ШСС в апреле 2012 г.)</p>
+	<a href="http://socionicasys.org/biblioteka/statji/tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov">Эглит И. М. Точность диагностики ТИМа. Сравнение двух подходов.</a> (по докладу на семинаре о методике ШСС в апреле 2012 г.)</p>
 </article>
 <article class="news-item" id="item-54">
 <header>
@@ -104,9 +104,9 @@
 	<p><time class="published updated" pubdate="" datetime="2012-01-15">15.01.2012</time></p>
 </header> 
 <p>
-	На сайте ШСС начали размещать <a href="../praktika/testy-proverki-znanij">ТЕСТЫ ДЛЯ ПРОВЕРКИ ЗНАНИЙ</a><br />
+	На сайте ШСС начали размещать <a href="http://socionicasys.org/praktika/testy-proverki-znanij">ТЕСТЫ ДЛЯ ПРОВЕРКИ ЗНАНИЙ</a><br />
 	Вы сможете перепроверить правильность своего понимания и определения аспектов информации, блоков функций, знаков и размерностей функций.<br />
-	Пока размещены <a href="../praktika/testy-proverki-znanij/testy-na-opredelenie-aspektov-informacii">три теста на определение аспектов информации</a>. В дальнейшем тесты будут добавляться, следите на обновлениями.</p>
+	Пока размещены <a href="http://socionicasys.org/praktika/testy-proverki-znanij/testy-na-opredelenie-aspektov-informacii">три теста на определение аспектов информации</a>. В дальнейшем тесты будут добавляться, следите на обновлениями.</p>
 </article>
 <article class="news-item" id="item-52">
 <header>
@@ -116,9 +116,9 @@
 <p>
 	В ШСС проведено исследование переводов управления и направленности горизонтальных блоков в модели А. С результатами исследования можно ознакомиться в статьях:</p>
 <p>
-	<a href="../biblioteka/statji/issledovanie-perevodov-upravlenija-v-modeli-a">Эглит И. М., Тумольская В. А. Исследование переводов управления в модели А </a></p>
+	<a href="http://socionicasys.org/biblioteka/statji/issledovanie-perevodov-upravlenija-v-modeli-a">Эглит И. М., Тумольская В. А. Исследование переводов управления в модели А </a></p>
 <p>
-	<a href="../biblioteka/statji/issledovanie-napravlennosti-v-gorizontalnyh-blokah-modeli-a">Тумольская В. А., Эглит И. М. Исследование направленности горизонтальных блоков в модели А</a></p>
+	<a href="http://socionicasys.org/biblioteka/statji/issledovanie-napravlennosti-v-gorizontalnyh-blokah-modeli-a">Тумольская В. А., Эглит И. М. Исследование направленности горизонтальных блоков в модели А</a></p>
 <p>
 	 </p>
 </article>
@@ -217,35 +217,35 @@
 <p>
 	Для тех, кто интересуется личностным ростом и развитием, предлагается интереснейшая статья об управляющих эмоциях, в которой знания работы психики с точки зрения модели ТИМа пересекаются со знаниями учения буддизма об отравляющих эмоциях - причине сансары. Показывается возможность найти свой путь работы с энергией управления, с опорой на знание своего ТИМа.</p>
 <p>
-	<a href="../biblioteka/statji/ob-upravljajushchih-emocijah-i-modeli-tim">Виктор Пятницкий "Об управляющих эмоциях и модели ТИМ"</a></p>
+	<a href="http://socionicasys.org/biblioteka/statji/ob-upravljajushchih-emocijah-i-modeli-tim">Виктор Пятницкий "Об управляющих эмоциях и модели ТИМ"</a></p>
 </article>
 </div>
-<div class="pager">Перейти к странице: <ul id="yw2" class="yiiPager"><li class="first"><a href="../novosti">&lt;&lt; Первая</a></li>
-<li class="previous"><a href="2">&lt; Предыдущая</a></li>
-<li class="page"><a href="../novosti">1</a></li>
-<li class="page"><a href="2">2</a></li>
-<li class="page selected"><a href="3">3</a></li>
-<li class="page"><a href="4">4</a></li>
-<li class="page"><a href="5">5</a></li>
-<li class="page"><a href="6">6</a></li>
-<li class="page"><a href="7">7</a></li>
-<li class="page"><a href="8">8</a></li>
-<li class="next"><a href="4">Следующая &gt;</a></li>
-<li class="last"><a href="8">Последняя &gt;&gt;</a></li></ul></div><div class="keys" style="display:none" title="/novosti/3"><span>57</span><span>56</span><span>55</span><span>54</span><span>53</span><span>52</span><span>51</span><span>50</span><span>49</span><span>48</span></div>
+<div class="pager">Перейти к странице: <ul id="yw2" class="yiiPager"><li class="first"><a href="/novosti">&lt;&lt; Первая</a></li>
+<li class="previous"><a href="/novosti/2">&lt; Предыдущая</a></li>
+<li class="page"><a href="/novosti">1</a></li>
+<li class="page"><a href="/novosti/2">2</a></li>
+<li class="page selected"><a href="/novosti/3">3</a></li>
+<li class="page"><a href="/novosti/4">4</a></li>
+<li class="page"><a href="/novosti/5">5</a></li>
+<li class="page"><a href="/novosti/6">6</a></li>
+<li class="page"><a href="/novosti/7">7</a></li>
+<li class="page"><a href="/novosti/8">8</a></li>
+<li class="next"><a href="/novosti/4">Следующая &gt;</a></li>
+<li class="last"><a href="/novosti/8">Последняя &gt;&gt;</a></li></ul></div><div class="keys" style="display:none" title="/novosti/3"><span>57</span><span>56</span><span>55</span><span>54</span><span>53</span><span>52</span><span>51</span><span>50</span><span>49</span><span>48</span></div>
 </div></section>
 	</div>
 </div>
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw3">
-<li class="active"><a href="../index.html">Главная</a>
+<li class="active"><a href="/">Главная</a>
 <ul>
-<li><a href="../chto-takoe-sistemnaja-socionika">Что такое системная соционика?</a></li>
-<li><a href="../o-shkole">О Школе системной соционики</a></li>
-<li><a href="../faq-po-socionike">FAQ по соционике</a></li>
-<li><a href="../poisk">Поиск по темам</a></li>
+<li><a href="/chto-takoe-sistemnaja-socionika">Что такое системная соционика?</a></li>
+<li><a href="/o-shkole">О Школе системной соционики</a></li>
+<li><a href="/faq-po-socionike">FAQ по соционике</a></li>
+<li><a href="/poisk">Поиск по темам</a></li>
 <li class="selected"><span>Новости</span></li>
-<li><a href="../kontakty">Контакты</a></li>
+<li><a href="/kontakty">Контакты</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -255,9 +255,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Жизнь принуждает нас ко многим добровольным действиям»</p>	</blockquote>
-	<p class="random-quote-author">Ежи Лец</p>
-	<p class="random-quote-note">(ЧС)</p>
+		<p>«Не та красива, у которой хвалят руку или ногу, а та, у кого весь облик не позволит восхищаться отдельными чертами»</p>	</blockquote>
+	<p class="random-quote-author">Сенека</p>
+	<p class="random-quote-note">(БС)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -299,9 +299,9 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
-<script type="text/javascript" src="../assets/303fc3c5/listview/jquery.yiilistview.js?201408101514"></script>
+<script type="text/javascript" src="/assets/303fc3c5/listview/jquery.yiilistview.js?201408101514"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 jQuery(function($) {

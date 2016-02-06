@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="На странице приведена пользовательская инструкция для программы «Информационный анализ». Программа помогает в проведении соционического анализа текста." />
 <meta name="keywords" content="Информационный анализ, инструмент соционика, анализ текста, идентификация ТИМ, типирование, соционика, системная соционика" />
-<link rel="prev" href="../programma-informacionnyj-analiz" />
-<link rel="next" href="../spravochnik-po-indikatoram" />
-<script type="text/javascript" src="../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/praktika/programma-informacionnyj-analiz" />
+<link rel="next" href="/praktika/spravochnik-po-indikatoram" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Инструкция пользователя программы «Информационный анализ» | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li class="active"><a href="../../praktika">Практика</a></li>
-<li><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li class="active"><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../praktika">Практика</a> &raquo; <a href="../programma-informacionnyj-analiz">Программа «Информационный анализ»</a> &raquo; <span>Инструкция пользователя</span></div>	</nav>
+<a href="/praktika">Практика</a> &raquo; <a href="/praktika/programma-informacionnyj-analiz">Программа «Информационный анализ»</a> &raquo; <span>Инструкция пользователя</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -56,13 +56,13 @@
 <p>
 	Программа <strong>самостоятельно НЕ определяет ТИМ</strong>. Она выполняет функцию калькуляции отмеченных экспертом параметров функций.</p>
 <p>
-	Соционический анализ основывается на теории ШСС (<a href="../../index.html">Школа системной соционики</a>), исходя из концепций модели А, размерностей функций, знаков функций.</p>
+	Соционический анализ основывается на теории ШСС (<a href="http://socionicasys.org/">Школа системной соционики</a>), исходя из концепций модели А, размерностей функций, знаков функций.</p>
 <p>
 	Программа написана на языке Java.</p>
 <h3>
 	Лицензия</h3>
 <p>
-	Программа распространяется на условиях Публичной лицензии ШСС (см. <a href="instrukcija-polzovatelja#prilozhenije">приложение</a>).</p>
+	Программа распространяется на условиях Публичной лицензии ШСС (см. <a href="#prilozhenije">приложение</a>).</p>
 <h3>
 	Требования к компьютеру</h3>
 <ol><li>
@@ -100,7 +100,7 @@
 		<p>
 			<strong>Окно для комментариев</strong> (центр, нижняя часть), сюда записываются дополнительные комментарии относительно фрагмента анализа, выделенного в центральном окне, которые эксперт хочет внести в протокол типирования.</p>
 		<p>
-			<a class="gallery-link" href="../../images/screenshots/analyst_01.png"><img alt="Структура окна ИА" height="350" src="../../images/screenshots/analyst_01_thumbnail.png" width="500" /></a></p>
+			<a class="gallery-link" href="/images/screenshots/analyst_01.png"><img alt="Структура окна ИА" height="350" src="/images/screenshots/analyst_01_thumbnail.png" width="500" /></a></p>
 	</li>
 	<li>
 		<p>
@@ -109,13 +109,13 @@
 				<p>
 					<strong>«Анализ»</strong> показывает соответствие и несоответствие каждого из отмеченных экспертом фрагментов текста каждому из 16 ТИМов. Если фрагмент соответствует модели обработки информации для данного ТИМа, значение в столбце «Соответствие» для данного ТИМа увеличивается на 1. Если нет, соответственно, увеличивается значение в столбце «Несоответствие» для данного ТИМа. Наиболее вероятным ТИМом является тот, у которого количество несоответствий — наименьшее.</p>
 				<p>
-					<a class="gallery-link" href="../../images/screenshots/analyst_02.png"><img alt="Соответвия и несоответствия соционическим ТИМам в ИА" height="350" src="../../images/screenshots/analyst_02_thumbnail.png" width="500" /></a></p>
+					<a class="gallery-link" href="/images/screenshots/analyst_02.png"><img alt="Соответвия и несоответствия соционическим ТИМам в ИА" height="350" src="/images/screenshots/analyst_02_thumbnail.png" width="500" /></a></p>
 			</li>
 			<li>
 				<p>
 					<strong>«Навигация»</strong> позволяет просмотреть анализ в виде древа классификаций: по функциям, размерностям, знакам, блокам.</p>
 				<p>
-					<a class="gallery-link" href="../../images/screenshots/analyst_03.png"><img alt="Навигация в программе Информационный аналитик" height="350" src="../../images/screenshots/analyst_03_thumbnail.png" width="500" /></a></p>
+					<a class="gallery-link" href="/images/screenshots/analyst_03.png"><img alt="Навигация в программе Информационный аналитик" height="350" src="/images/screenshots/analyst_03_thumbnail.png" width="500" /></a></p>
 			</li>
 			<li>
 				<p>
@@ -125,14 +125,14 @@
 				<p>
 					Этот коэффициент применяется для выделения наиболее вероятного ТИМа.</p>
 				<p>
-					<a class="gallery-link" href="../../images/screenshots/analyst_04.png"><img alt="График соответствия" height="350" src="../../images/screenshots/analyst_04_thumbnail.png" width="500" /></a></p>
+					<a class="gallery-link" href="/images/screenshots/analyst_04.png"><img alt="График соответствия" height="350" src="/images/screenshots/analyst_04_thumbnail.png" width="500" /></a></p>
 			</li>
 		</ol></li>
 	<li>
 		<p>
 			<strong>Правая «панель разметки»</strong> предназначена для ввода параметров функций (аспект/блок; знак; размерность; ментал/витал). Панель разметки может отделяться от остальной части, удерживанием левой кнопкой мыши за рябую полоску вверху. Возвращение на место панели производится перенесением ее в правый нижний угол (или закрытием).</p>
 		<p>
-			<a class="gallery-link" href="../../images/screenshots/analyst_05.png"><img alt="Правая панель ИА может быть перемещена" height="169" src="../../images/screenshots/analyst_05_thumbnail.png" width="500" /></a></p>
+			<a class="gallery-link" href="/images/screenshots/analyst_05.png"><img alt="Правая панель ИА может быть перемещена" height="169" src="/images/screenshots/analyst_05_thumbnail.png" width="500" /></a></p>
 	</li>
 	<li>
 		<strong>Меню</strong>
@@ -178,13 +178,13 @@
 			<td>
 				Любое примечание для сведения. Отображается в «шапке» протокола.</td>
 		</tr></tbody></table><p>
-	<a class="gallery-link" href="../../images/screenshots/analyst_06.png"><img alt="Окно «Свойства документа»" height="350" src="../../images/screenshots/analyst_06_thumbnail.png" width="500" /></a></p>
+	<a class="gallery-link" href="/images/screenshots/analyst_06.png"><img alt="Окно «Свойства документа»" height="350" src="/images/screenshots/analyst_06_thumbnail.png" width="500" /></a></p>
 <p>
 	Работа начинается с введения текста, который будет анализироваться, в центральное окно.</p>
 <p>
 	Анализ начинается с выделения фрагмента, который подлежит анализу. Без такого выделения панель разметки будет неактивной, анализ и внесение комментариев недоступны.</p>
 <p>
-	<a class="gallery-link" href="../../images/screenshots/analyst_07.png"><img alt="Панель «Аспект/Блок» ИА" height="189" src="../../images/screenshots/analyst_07_thumbnail.png" width="500" /></a></p>
+	<a class="gallery-link" href="/images/screenshots/analyst_07.png"><img alt="Панель «Аспект/Блок» ИА" height="189" src="/images/screenshots/analyst_07_thumbnail.png" width="500" /></a></p>
 <p>
 	При выделении фрагмента текста для анализа первой активируется панель <strong>«Аспект/Блок»</strong>. Если в этой панели не выбран аспект или блок или перевод, то все панели разметки, находящие ниже, будут неактивны.</p>
 <p>
@@ -194,7 +194,7 @@
 <p>
 	После введения «аспекта/блока» активируются остальные панели разметки.</p>
 <p>
-	На панели <strong>«Размерность»</strong> типировщик имеет возможность указать размерность функции, которая относится к выделенному фрагменту (см. <a href="instrukcija-polzovatelja#algoritm-analiza">Алгоритм анализа текста</a>):</p>
+	На панели <strong>«Размерность»</strong> типировщик имеет возможность указать размерность функции, которая относится к выделенному фрагменту (см. <a href="#algoritm-analiza">Алгоритм анализа текста</a>):</p>
 <dl><dt>
 		Ex</dt>
 	<dd>
@@ -300,7 +300,7 @@
 </ol><p>
 	В шапке протокола отражается информация, внесенная в окно «свойства документа».</p>
 <p>
-	<a class="gallery-link" href="../../images/screenshots/analyst_08.png"><img alt="Шапка созданного протокола" height="350" src="../../images/screenshots/analyst_08_thumbnail.png" width="500" /></a></p>
+	<a class="gallery-link" href="/images/screenshots/analyst_08.png"><img alt="Шапка созданного протокола" height="350" src="/images/screenshots/analyst_08_thumbnail.png" width="500" /></a></p>
 <p>
 	Каждый выделенный и прокомментированный фрагмент в сохраняемом протоколе нумеруется. Выбранные на панели разметки параметры функций фиксируются в протоколе в столбце «анализ эксперта» под номером фрагмента (эти же данные отражаются в строке состояния внизу интерфейса программы). В столбец «анализ эксперта» также вносятся комментарии.</p>
 <h3>
@@ -318,32 +318,32 @@
 <p>
 	Все остальное — <span class="underlined">подчеркивание</span>.</p>
 <p>
-	<a class="gallery-link" href="../../images/screenshots/analyst_09.png"><img alt="Цветовая разметка в протоколе" height="350" src="../../images/screenshots/analyst_09_thumbnail.png" width="500" /></a></p>
+	<a class="gallery-link" href="/images/screenshots/analyst_09.png"><img alt="Цветовая разметка в протоколе" height="350" src="/images/screenshots/analyst_09_thumbnail.png" width="500" /></a></p>
 <p>
 	Анализируемый текст отображается в виде таблицы, которая может разбиваться на строки. Для того, чтобы при сохранения документа создалась новая строка таблицы, введите 2 раза &lt;Enter&gt; в нужном месте анализируемого текста. Обычно, для удобства восприятия анализа в отдельную строку таблицы выделяется вопрос и ответ на него. Если ответ большой, текст делят на ячейки дополнительно (чтобы комментарии в правом столбце находились напротив анализируемых фрагментов текста в левом столбце).</p>
 <p>
 	Протокол завершается <strong>отчетом</strong>, который генерируется программой (если установлен флажок «Установки» → «Генерировать отчет при сохранении»).</p>
 <p>
-	<a class="gallery-link" href="../../images/screenshots/analyst_10.png"><img alt="Настройка «Генерировать отчет при сохранении»" height="172" src="../../images/screenshots/analyst_10_thumbnail.png" width="500" /></a></p>
+	<a class="gallery-link" href="/images/screenshots/analyst_10.png"><img alt="Настройка «Генерировать отчет при сохранении»" height="172" src="/images/screenshots/analyst_10_thumbnail.png" width="500" /></a></p>
 <p>
 	В отчет входят таблицы:</p>
 <ol><li>
 		<p>
 			«Выявленные параметры функций ИМ».</p>
 		<p>
-			<a class="gallery-link" href="../../images/screenshots/analyst_11.png"><img alt="Таблица «Выявленные параметры функций ИМ» в протоколе" height="350" src="../../images/screenshots/analyst_11_thumbnail.png" width="500" /></a></p>
+			<a class="gallery-link" href="/images/screenshots/analyst_11.png"><img alt="Таблица «Выявленные параметры функций ИМ» в протоколе" height="350" src="/images/screenshots/analyst_11_thumbnail.png" width="500" /></a></p>
 	</li>
 	<li>
 		<p>
 			«Переводы управления».</p>
 		<p>
-			<a class="gallery-link" href="../../images/screenshots/analyst_12.png"><img alt="Таблица «Переводы управления» в протоколе" height="350" src="../../images/screenshots/analyst_12_thumbnail.png" width="500" /></a></p>
+			<a class="gallery-link" href="/images/screenshots/analyst_12.png"><img alt="Таблица «Переводы управления» в протоколе" height="350" src="/images/screenshots/analyst_12_thumbnail.png" width="500" /></a></p>
 	</li>
 	<li>
 		<p>
 			«Соответствие ТИМу».</p>
 		<p>
-			<a class="gallery-link" href="../../images/screenshots/analyst_13.png"><img alt="Таблица «Соответствие ТИМу» в протоколе" height="350" src="../../images/screenshots/analyst_13_thumbnail.png" width="500" /></a></p>
+			<a class="gallery-link" href="/images/screenshots/analyst_13.png"><img alt="Таблица «Соответствие ТИМу» в протоколе" height="350" src="/images/screenshots/analyst_13_thumbnail.png" width="500" /></a></p>
 	</li>
 </ol><h3>
 	Примечание</h3>
@@ -354,19 +354,19 @@
 <h2>
 	Литература</h2>
 <ol class="literature"><li>
-		<a href="../../index.html">Сайт Школы системной соционики</a>.</li>
+		<a href="http://socionicasys.org/">Сайт Школы системной соционики</a>.</li>
 	<li>
-		<span class="name">Ермак В. Д.</span> <a href="../../biblioteka/knigi#ermak-kak-nauchitsja-ponimat-ludej">Как научиться понимать людей. Соционика — новый метод познания человека</a>. — М.: Астрель: Издательство АСТ, 2003.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/knigi#ermak-kak-nauchitsja-ponimat-ludej">Как научиться понимать людей. Соционика — новый метод познания человека</a>. — М.: Астрель: Издательство АСТ, 2003.</li>
 	<li>
-		<span class="name">Ермак В. Д.</span> <a href="../../biblioteka/knigi#ermak-klassicheskaja-socionika">Классическая соционика</a>. — М.: Черная Белка, 2009.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/knigi#ermak-klassicheskaja-socionika">Классическая соционика</a>. — М.: Черная Белка, 2009.</li>
 	<li>
-		<span class="name">Эглит И. М.</span> <a href="../../biblioteka/statji/znaki-funkcij">Знаки психических функций в модели А</a> // Соционика, ментология и психология личности. — 2007. — № 5.</li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/statji/znaki-funkcij">Знаки психических функций в модели А</a> // Соционика, ментология и психология личности. — 2007. — № 5.</li>
 	<li>
-		<span class="name">Эглит И. М.</span> <a href="../../biblioteka/statji/praktika-primenenija-protokolov">Практика применения протоколов при заочной идентификации ТИМ психики в интернете</a> // Соционика, ментология и психология личности. — 2005. — № 5.</li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/statji/praktika-primenenija-protokolov">Практика применения протоколов при заочной идентификации ТИМ психики в интернете</a> // Соционика, ментология и психология личности. — 2005. — № 5.</li>
 	<li>
-		<span class="name">Эглит И. М.</span> <a href="../../biblioteka/statji/razmernost-funkcij">Размерность функций</a> // Соционика, ментология и психология личности. — 2007. — № 2.</li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/statji/razmernost-funkcij">Размерность функций</a> // Соционика, ментология и психология личности. — 2007. — № 2.</li>
 	<li>
-		<span class="name">Эглит И. М.</span> <a href="../../biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа. Самоучитель от А до Я</a>. — М.: Черная Белка, 2010.</li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа. Самоучитель от А до Я</a>. — М.: Черная Белка, 2010.</li>
 </ol><h2 id="prilozhenije">
 	Приложение</h2>
 <h3>
@@ -389,8 +389,8 @@
 	<small>Программа ИА создана <span class="name">В. В. Пятницким</span>, ШСС, 2010 ©</small></p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="../programma-informacionnyj-analiz">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="../spravochnik-po-indikatoram">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/praktika/programma-informacionnyj-analiz">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/praktika/spravochnik-po-indikatoram">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -399,22 +399,22 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../praktika">Практика</a>
+<li class="active"><a href="/praktika">Практика</a>
 <ul>
-<li><a href="../otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
-<li><a href="../metodika">Методика удаленной диагностики</a></li>
-<li class="active"><a href="../programma-informacionnyj-analiz">Программа «Информационный анализ»</a>
+<li><a href="/praktika/otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
+<li><a href="/praktika/metodika">Методика удаленной диагностики</a></li>
+<li class="active"><a href="/praktika/programma-informacionnyj-analiz">Программа «Информационный анализ»</a>
 <ul>
 <li class="selected"><span>Инструкция пользователя</span></li>
 </ul>
 </li>
-<li><a href="../spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
-<li><a href="../metodika/ekspertnaja-rabota">Экспертная работа в соционике</a></li>
-<li><a href="../etapy-obuchenija">Этапы обучения</a></li>
-<li><a href="../uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
-<li><a href="../analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
-<li><a href="../experimenty">Эксперименты и исследования ШСС</a></li>
-<li><a href="../socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
+<li><a href="/praktika/spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
+<li><a href="/praktika/metodika/ekspertnaja-rabota">Экспертная работа в соционике</a></li>
+<li><a href="/praktika/etapy-obuchenija">Этапы обучения</a></li>
+<li><a href="/praktika/uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
+<li><a href="/praktika/analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
+<li><a href="/praktika/experimenty">Эксперименты и исследования ШСС</a></li>
+<li><a href="/praktika/socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -424,9 +424,11 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Тоска на сердце человека подавляет его, а доброе слово развеселяет его»</p>	</blockquote>
-	<p class="random-quote-author">Библия</p>
-	<p class="random-quote-note">(ЧЭ)</p>
+		<p>«Давай наставления только тому, кто ищет знаний, обнаружив свое невежество. Оказывай помощь только тому, кто не умеет внятно высказать свои заветные думы. Обучай только того, кто способен, узнав про один угол квадрата, представить себе остальные три.
+
+»</p>	</blockquote>
+	<p class="random-quote-author">Конфуций</p>
+	<p class="random-quote-note">(ЧИ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -468,7 +470,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

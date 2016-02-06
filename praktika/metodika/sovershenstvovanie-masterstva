@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Даны рекомендации по совершенствованию мастерства экспертов: рассмотрены основные ошибки типировщиков, которых необходимо избегать, указаны такие требования профессиональной подготовки, как сходимость с группой экспертов и воспроизводимость результатов." />
 <meta name="keywords" content="диагностика ТИМа, определение ТИМа, типирование, эксперт, типировщик, мастерство эксперта, мастерство типировщика, совершенствование мастерства, ошибки типировщиков, сходимость результатов, воспроизводимость результатов, группа экспертов" />
-<link rel="prev" href="posle-diagnostiki" />
-<link rel="next" href="../programma-informacionnyj-analiz" />
-<script type="text/javascript" src="../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/praktika/metodika/posle-diagnostiki" />
+<link rel="next" href="/praktika/programma-informacionnyj-analiz" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Совершенствование мастерства | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li class="active"><a href="../../praktika">Практика</a></li>
-<li><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li class="active"><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../praktika">Практика</a> &raquo; <a href="../metodika">Методика удаленной диагностики</a> &raquo; <span>Совершенствование мастерства</span></div>	</nav>
+<a href="/praktika">Практика</a> &raquo; <a href="/praktika/metodika">Методика удаленной диагностики</a> &raquo; <span>Совершенствование мастерства</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -89,17 +89,17 @@
 <p>
 	<strong>Оценка воспроизводимости результата</strong> — это оценка степени близости индивидуальных оценок эксперта, проведенных через определенные промежутки времени. Проверка воспроизводимости результатов может быть установлена путем повторного анализа той же информации через некоторый промежуток времени. А также путем анализа новой информации от одного и того же типируемого при условии достаточности информации для анализа и воспроизведения результата — определения ТИМ психики [2].</p>
 <hr /><ol class="literature"><li>
-		<span class="name">Ермак В. Д.</span> <a href="../../biblioteka/statji/tipovedenije-i-socionika">Типоведение и соционика. Феноменология, классификация и моделирование в исследовании психики</a> // Соционика, ментология и психология личности. — 1999. — № 6.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/statji/tipovedenije-i-socionika">Типоведение и соционика. Феноменология, классификация и моделирование в исследовании психики</a> // Соционика, ментология и психология личности. — 1999. — № 6.</li>
 	<li>
-		<span class="name">Эглит И. М.</span>, <span class="name">Пятницкий В. В.</span> <a href="../../biblioteka/statji/expertnaja-rabota">Экспертная работа в соционике</a> // Соционика, ментология и психология личности. — 2009. — № 2.</li>
+		<span class="name">Эглит И. М.</span>, <span class="name">Пятницкий В. В.</span> <a href="/biblioteka/statji/expertnaja-rabota">Экспертная работа в соционике</a> // Соционика, ментология и психология личности. — 2009. — № 2.</li>
 	<li>
 		<a href="http://socionicasys.org/forum/viewtopic.php?f=73&amp;t=4441">Психика типировщика и ее ловушки</a></li>
 	<li>
-		<a href="../experimenty/sverka-shodimosti-v-shss">Сверка сходимости в ШСС</a></li>
+		<a href="http://socionicasys.org/praktika/experimenty/sverka-shodimosti-v-shss">Сверка сходимости в ШСС</a></li>
 </ol><nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="posle-diagnostiki">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="../programma-informacionnyj-analiz">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/praktika/metodika/posle-diagnostiki">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/praktika/programma-informacionnyj-analiz">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -108,35 +108,35 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../praktika">Практика</a>
+<li class="active"><a href="/praktika">Практика</a>
 <ul>
-<li><a href="../otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
-<li class="active"><a href="../metodika">Методика удаленной диагностики</a>
+<li><a href="/praktika/otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
+<li class="active"><a href="/praktika/metodika">Методика удаленной диагностики</a>
 <ul>
-<li><a href="osobennosti-udalennogo-tipirovanija">Особенности удаленной диагностики</a></li>
-<li><a href="procedura-diagnostiki">Процедура диагностики</a></li>
-<li><a href="anketirovanie">Анкетирование и требование к вопросам</a></li>
-<li><a href="sochinenija">Сочинения</a></li>
-<li><a href="pogruzhenie-v-aspektnuju-sredu">«Погружение» в аспектную среду</a></li>
-<li><a href="testirovanie-strahov">Тестирование страхов</a></li>
-<li><a href="samoocenka-tipiruemyh">Самооценка типируемых</a></li>
-<li><a href="ob-otvetah-tipiruemyh">Об ответах типируемых </a></li>
-<li><a href="obshchie-pravila-analiza">Общие правила анализа </a></li>
-<li><a href="edinica-analiza-teksta">Единица анализа текста</a></li>
-<li><a href="indikatory-funkcij">Индикаторы функций</a></li>
-<li><a href="protokoly-diagnostiki">Протоколы диагностики ТИМа</a></li>
-<li><a href="posle-diagnostiki">После диагностики ТИМа</a></li>
+<li><a href="/praktika/metodika/osobennosti-udalennogo-tipirovanija">Особенности удаленной диагностики</a></li>
+<li><a href="/praktika/metodika/procedura-diagnostiki">Процедура диагностики</a></li>
+<li><a href="/praktika/metodika/anketirovanie">Анкетирование и требование к вопросам</a></li>
+<li><a href="/praktika/metodika/sochinenija">Сочинения</a></li>
+<li><a href="/praktika/metodika/pogruzhenie-v-aspektnuju-sredu">«Погружение» в аспектную среду</a></li>
+<li><a href="/praktika/metodika/testirovanie-strahov">Тестирование страхов</a></li>
+<li><a href="/praktika/metodika/samoocenka-tipiruemyh">Самооценка типируемых</a></li>
+<li><a href="/praktika/metodika/ob-otvetah-tipiruemyh">Об ответах типируемых </a></li>
+<li><a href="/praktika/metodika/obshchie-pravila-analiza">Общие правила анализа </a></li>
+<li><a href="/praktika/metodika/edinica-analiza-teksta">Единица анализа текста</a></li>
+<li><a href="/praktika/metodika/indikatory-funkcij">Индикаторы функций</a></li>
+<li><a href="/praktika/metodika/protokoly-diagnostiki">Протоколы диагностики ТИМа</a></li>
+<li><a href="/praktika/metodika/posle-diagnostiki">После диагностики ТИМа</a></li>
 <li class="selected"><span>Совершенствование мастерства</span></li>
 </ul>
 </li>
-<li><a href="../programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
-<li><a href="../spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
-<li><a href="ekspertnaja-rabota">Экспертная работа в соционике</a></li>
-<li><a href="../etapy-obuchenija">Этапы обучения</a></li>
-<li><a href="../uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
-<li><a href="../analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
-<li><a href="../experimenty">Эксперименты и исследования ШСС</a></li>
-<li><a href="../socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
+<li><a href="/praktika/programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
+<li><a href="/praktika/spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
+<li><a href="/praktika/metodika/ekspertnaja-rabota">Экспертная работа в соционике</a></li>
+<li><a href="/praktika/etapy-obuchenija">Этапы обучения</a></li>
+<li><a href="/praktika/uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
+<li><a href="/praktika/analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
+<li><a href="/praktika/experimenty">Эксперименты и исследования ШСС</a></li>
+<li><a href="/praktika/socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -146,8 +146,8 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Если вы ленивы, почитайте за счастье, если вам указывают на это, давая шанс исправиться. Лень — всегда ваш недостаток. Это знак того, что человек слишком долго пребывал в бесполезности»</p>	</blockquote>
-	<p class="random-quote-author">Идрис Шах</p>
+		<p>«Тот, кто хочет, делает больше, чем тот, кто может»</p>	</blockquote>
+	<p class="random-quote-author">Г. Марри</p>
 	<p class="random-quote-note">(ЧЛ)</p>
 </section>
 <!--/noindex-->
@@ -190,7 +190,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

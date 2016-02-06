@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Подробно исследовано понятие искажения ТИМа, его связь с закономерностью возрастного развития психики. Описаны характерные проявления и причины искажений. Рассмотрены особенности диагностики типируемых с искажениями работы модели ТИМа." />
 <meta name="keywords" content="искажение ТИМа, модель ТИМа, диагностика ТИМа, определение ТИМа, типирование" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Искажения ТИМа | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Искажения ТИМа</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Искажения ТИМа</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -60,7 +60,7 @@
 <p style="margin-left:53.3pt;">
 	·         Суперид – от 3 до 7 лет</p>
 <p style="margin-left:53.3pt;">
-	·         Стажировка<a class="footnote" href="iskazhenija-tima#footnote-1" id="backref-1" title="Ермак стажировкой называет наработку в этот период информационного наполнения психических функций. Я бы назвала стажировку периодом реализации по данному блоку.">1</a> Витала – от 7 до 14 лет</p>
+	·         Стажировка<a class="footnote" href="#footnote-1" id="backref-1" title="Ермак стажировкой называет наработку в этот период информационного наполнения психических функций. Я бы назвала стажировку периодом реализации по данному блоку.">1</a> Витала – от 7 до 14 лет</p>
 <p style="margin-left:53.3pt;">
 	·         Суперэго – от 14 до 21 года</p>
 <p style="margin-left:53.3pt;">
@@ -230,15 +230,15 @@
 <p>
 	Определение искаженного ТИМа - сложный процесс, когда многомерные функции выглядят как маломерные, сам типируемый не уверен в себе, часто желаемое выдается за действительное, нет принятия себя по тем функциям, в которых не было принятия взрослыми. Поиск причин искажения часто начинается во время диагностики, а продолжается в процессе самонаблюдений после нее.</p>
 <p>
-	Наиболее частое искажение, встречаемое в процессе диагностики, – отсутствие многомерных реакций, когда по всем функциям типируемый выдает шаблонные ответы. В таких случаях мы рекомендуем выявлять одномерные функции. Если есть возможность определить хотя бы в некоторых функциях знаки, то это позволит выдвинуть предположение о блоках функций, также блоки определяются постоянной связкой двух функций (см. <a href="opredelenie-blokov-funkcij">«Определение блоков функций»</a>). Если можно определить витальность/ментальность каких-либо функций, то вся собранная информация позволяет диагностировать ТИМ без выявления многомерности. В таком случае приходится констатировать факт искажения работы модели ТИМа.</p>
+	Наиболее частое искажение, встречаемое в процессе диагностики, – отсутствие многомерных реакций, когда по всем функциям типируемый выдает шаблонные ответы. В таких случаях мы рекомендуем выявлять одномерные функции. Если есть возможность определить хотя бы в некоторых функциях знаки, то это позволит выдвинуть предположение о блоках функций, также блоки определяются постоянной связкой двух функций (см. <a href="http://socionicasys.org/biblioteka/statji/opredelenie-blokov-funkcij">«Определение блоков функций»</a>). Если можно определить витальность/ментальность каких-либо функций, то вся собранная информация позволяет диагностировать ТИМ без выявления многомерности. В таком случае приходится констатировать факт искажения работы модели ТИМа.</p>
 <p>
 	В данный момент я вижу только один инструмент, который позволяет определить ТИМ при наличии искажения – это размерность функций. Как бы ни был искажен ТИМ, размерность функций не меняется. Многомерные функции могут быть не заполненными в свое время, а маломерные функции - усиленно натренированы, но они все равно обрабатывают информацию в рамках своих размерностей. Наполнение не меняет качества обработки информации. И если типировщик опирается не на признаки, а на размерность функций, неуклонно ищет индикаторы размерностей, а не внешние черты типа, то он определит ТИМ верно даже при наличии искажения.</p>
 <h2>
 	Литература</h2>
 <ol class="literature"><li>
-		<span class="name">Ермак В. Д.</span> <a href="vozrastnoje-razvitije">Возрастное развитие и информационное наполнение психики — становление индивидуальности и личности человека</a> // СМиПЛ, № 3, 2004.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/statji/vozrastnoje-razvitije">Возрастное развитие и информационное наполнение психики — становление индивидуальности и личности человека</a> // СМиПЛ, № 3, 2004.</li>
 </ol><hr /><p id="footnote-1">
-	<a href="vozrastnoje-razvitije"> </a><a class="footnote" href="iskazhenija-tima#backref-1">1</a>Ермак стажировкой называет наработку в этот период информационного наполнения психических функций. Я бы назвала стажировку периодом реализации по данному блоку.</p>
+	<a href="http://socionicasys.org/biblioteka/statji/vozrastnoje-razvitije"> </a><a class="footnote" href="#backref-1">1</a>Ермак стажировкой называет наработку в этот период информационного наполнения психических функций. Я бы назвала стажировку периодом реализации по данному блоку.</p>
 </article>
 	</div>
 </div>
@@ -280,7 +280,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="" />
 <meta name="keywords" content="" />
-<script type="text/javascript" src="../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Книги | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,29 +22,29 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../index.html">Главная</a></li>
-<li><a href="../teorija">Теория</a></li>
-<li><a href="../praktika">Практика</a></li>
-<li class="active"><a href="../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../biblioteka">Библиотека</a> &raquo; <span>Книги</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <span>Книги</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h2 id="ermak-kak-nauchitsja-ponimat-ludej" style="clear:left;">
-	<img alt="Обложка книги Ермак В. Д. Как научиться понимать людей" src="../images/pictures/Yermak_old.jpg" style="width:200px;height:323px;float:left;padding-bottom:.5em;margin-left:-13em;" /><span class="name">Ермак В. Д.</span><br />
+	<img alt="Обложка книги Ермак В. Д. Как научиться понимать людей" src="/images/pictures/Yermak_old.jpg" style="width:200px;height:323px;float:left;padding-bottom:.5em;margin-left:-13em;" /><span class="name">Ермак В. Д.</span><br />
 	Как научиться понимать людей</h2>
 <p>
 	Соционика — новый метод познания человека.</p>
@@ -53,7 +53,7 @@
 <p>
 	В книге рассматривается современная системная концепция соционики Аугустинавичюте–Медведева–Ермака. Соционика — наука об информационной природе психики человека, типах информационного метаболизма психики и информационном взаимодействии человека с окружающим миром и людьми. Это инструмент, при помощи которого можно определить основные характеристики собственной личности, личностные характеристики партнёров, отношения в группах и коллективах.</p>
 <h2 id="ermak-klassicheskaja-socionika" style="clear:left;">
-	<img alt="Обложка книги Ермак В. Д. Классическая соционика" src="../images/pictures/Yermak.jpg" style="width:200px;height:276px;float:left;padding-bottom:.5em;margin-left:-13em;" /><span class="name">Ермак В. Д.</span><br />
+	<img alt="Обложка книги Ермак В. Д. Классическая соционика" src="/images/pictures/Yermak.jpg" style="width:200px;height:276px;float:left;padding-bottom:.5em;margin-left:-13em;" /><span class="name">Ермак В. Д.</span><br />
 	Классическая соционика</h2>
 <p>
 	Серия: Библиотека Socionica.<br />
@@ -63,7 +63,7 @@
 <p>
 	<a href="http://www.socion.org/product_info.php?cPath=6&amp;products_id=128"><span style="font-size:14.399999618530273px;background-color:rgb(255,255,255);">Купить на сайте издательства</span></a></p>
 <h2 id="eglit-opredelenije-socionicheskogo-tipa" style="clear:left;">
-	<img alt="Обложка книги Эглит И. М. Определение соционического типа" src="../images/pictures/Eglit_kniga.jpg" style="width:200px;height:295px;float:left;padding-bottom:.5em;margin-left:-13em;" /><span class="name">Эглит И. М.</span><br />
+	<img alt="Обложка книги Эглит И. М. Определение соционического типа" src="/images/pictures/Eglit_kniga.jpg" style="width:200px;height:295px;float:left;padding-bottom:.5em;margin-left:-13em;" /><span class="name">Эглит И. М.</span><br />
 	Определение соционического типа. Самоучитель от А до Я</h2>
 <p>
 	Серия: Библиотека Socionica. Прикладная соционика.<br />
@@ -71,11 +71,11 @@
 <p>
 	Перед вами первое обучающее пособие для тех, кто хочет самостоятельно определять тип информационного метаболизма психики. Подробно и в популярной форме изложен теоретический материал. В пособие включены более 500 примеров, иллюстрирующих мышление представителей разных ТИМов, предложены упражнения для самообучения по всем ключевым темам, описаны результаты длительных наблюдений и экспериментов, проведенные в Киевской школе системной соционики. Впервые публикуется сборник индикаторов соционических функций с иллюстрациями и примерами. </p>
 <p>
-	<a href="video/7">Презентация</a></p>
+	<a href="/biblioteka/video/7">Презентация</a></p>
 <p>
-	Книга в продаже. Обращаться по тел. +38 (044) 540 ‒ 50 ‒ 30. Стоимость - 80 грн. В продаже появилось <a href="http://socionicasys.org/forum/statji/ehglit-i-m-opredelenie-socionicheskogo-tipa-t3444-60.html#p181380">второе издание</a>, стоимость 100 грн. <span style="font-size:14.399999618530273px;background-color:rgb(255,255,255);line-height:1.5;"> Купить второе издание в Киеве </span><span style="font-size:14px;line-height:1.5;">+38 095 27 27 522. Купить второе издание в Москве </span><span style="font-size:14px;"><span style="color:rgb(0,0,0);font-family:tahoma, arial, verdana, sans-serif, 'Lucida Sans';line-height:16.5px;">+7 964 702 68 52, </span><span style="color:rgb(0,0,0);font-family:tahoma, arial, verdana, sans-serif, 'Lucida Sans';line-height:16.5px;">+7 915 340 90 52 - 350 руб.</span></span></p>
+	Книга в продаже. Обращаться по тел. +38 (044) 540 ‒ 50 ‒ 30. Стоимость - 80 грн. В продаже появилось <a href="/forum/statji/ehglit-i-m-opredelenie-socionicheskogo-tipa-t3444-60.html#p181380">второе издание</a>, стоимость 100 грн. <span style="font-size:14.399999618530273px;background-color:rgb(255,255,255);line-height:1.5;"> Купить второе издание в Киеве </span><span style="font-size:14px;line-height:1.5;">+38 095 27 27 522. Купить второе издание в Москве </span><span style="font-size:14px;"><span style="color:rgb(0,0,0);font-family:tahoma, arial, verdana, sans-serif, 'Lucida Sans';line-height:16.5px;">+7 964 702 68 52, </span><span style="color:rgb(0,0,0);font-family:tahoma, arial, verdana, sans-serif, 'Lucida Sans';line-height:16.5px;">+7 915 340 90 52 - 350 руб.</span></span></p>
 <h2 id="ermak-lichnost" style="clear:left;">
-	<img alt="Обложка книги Ермак В. Д. Личность и индивидуальность" src="../images/pictures/Ermak_lichnost_cover.png" style="width:200px;height:277px;float:left;padding-bottom:.5em;margin-left:-13em;" /><span class="name">Ермак В. Д.</span><br />
+	<img alt="Обложка книги Ермак В. Д. Личность и индивидуальность" src="/images/pictures/Ermak_lichnost_cover.png" style="width:200px;height:277px;float:left;padding-bottom:.5em;margin-left:-13em;" /><span class="name">Ермак В. Д.</span><br />
 	Личность и индивидуальность</h2>
 <p>
 	Серия: Библиотека Socionica.<br />
@@ -127,7 +127,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

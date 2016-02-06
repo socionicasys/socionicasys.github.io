@@ -6,16 +6,16 @@
 <meta name="keywords" content="трехмерность, ситуативность, параметр ситуации, St, вторая функция, творческая функция, седьмая функция, ситуативный подход, ситуативные градации, многомерная функция
 
 " />
-<link rel="prev" href="dvumernost" />
-<link rel="next" href="chetyrehmernost" />
-<script type="text/javascript" src="../../../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/dlja-novichkov/funkcii/razmernost/dvumernost" />
+<link rel="next" href="/teorija/dlja-novichkov/funkcii/razmernost/chetyrehmernost" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Трехмерность | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -27,25 +27,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../../../index.html">Главная</a></li>
-<li class="active"><a href="../../../../teorija">Теория</a></li>
-<li><a href="../../../../praktika">Практика</a></li>
-<li><a href="../../../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../../../teorija">Теория</a> &raquo; <a href="../../../dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <a href="../../funkcii.1">Функции модели А</a> &raquo; <a href="../razmernost">Размерность функций</a> &raquo; <span>Трехмерность</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <a href="/teorija/dlja-novichkov/funkcii">Функции модели А</a> &raquo; <a href="/teorija/dlja-novichkov/funkcii/razmernost">Размерность функций</a> &raquo; <span>Трехмерность</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -59,7 +59,7 @@
 <p>
 	Например, индивидуальный подход в обучении является ситуативным, а когда всех «под одну гребенку» — это нормативное обучение. «Белый верх, темный низ» — это нормативно, а с учетом особенностей фигуры, пола, настроения, цели и т. д. — ситуативно. Если в двумерной функции — минимум градаций, которые можно обобщить полярностями «правильно/неправильно», то в трехмерной функции 2 <em>появляется множество оттенков, тонкостей, нюансов</em>. Это уже не грубый инструмент дровосека — размахнулся и отрубил, это тонкая настройка и подстройка. Сколько находится средств языка, чтобы передать всю гамму ситуативных градаций! Какое разнообразие подходов! И каждая новая ситуация — новое решение.</p>
 <p>
-	<img alt="«Ситуативность»" class="aside" src="../../../../images/pictures/illustration-16.png" />При ситуативной обработке информации человеку трудно согласиться с узкими рамками нормативной «правильности»:</p>
+	<img alt="«Ситуативность»" class="aside" src="/images/pictures/illustration-16.png" />При ситуативной обработке информации человеку трудно согласиться с узкими рамками нормативной «правильности»:</p>
 <blockquote>
 	<p>
 		<em>— Как понять, какие отношения с людьми правильные, а какие нет?</em></p>
@@ -77,17 +77,17 @@
 <p>
 	Трехмерная функция поднимается над нормами. Но это не значит, что она игнорирует общепринятые представления. Каждая следующая размерность базируется на фундаменте предыдущих. Без опыта и норм не было бы ситуативности.</p>
 <p>
-	<strong>Вторая функция модели</strong> является не только инструментом (об этом шла речь в теме «<a href="../../bloki-i-kolca">Блоки функций</a>»), но и <em>полем проявления</em> (или условием, средой реализации) первой функции. Это поле — очень гибкое, податливое, приспосабливаемое под задачи ф. 1. <em>Первая функция проявляется в аспекте второй функции</em>. Если условия ф. 2 не подходят, они меняются на другие, лучшие.</p>
+	<strong>Вторая функция модели</strong> является не только инструментом (об этом шла речь в теме «<a href="/teorija/dlja-novichkov/bloki-i-kolca">Блоки функций</a>»), но и <em>полем проявления</em> (или условием, средой реализации) первой функции. Это поле — очень гибкое, податливое, приспосабливаемое под задачи ф. 1. <em>Первая функция проявляется в аспекте второй функции</em>. Если условия ф. 2 не подходят, они меняются на другие, лучшие.</p>
 <p>
-	ЛСЭ <img alt="ЧЛ" height="12" src="../../../../images/symbols/aspect_P.png?1" title="ЧЛ" width="12" /><img alt="БС" height="12" src="../../../../images/symbols/aspect_S.png?1" title="БС" width="12" /> выявляет всевозможные свойства в этом объектном мире. Он мастер среди вещей, среди объектов, он ими жонглирует, превращает, он видит в них недоступные другим, скрытые свойства и открывает их. Он хозяин материи, творец в материальном мире. Все вышеописанное — аспект ЧЛ <span class="nowrap"><img alt="" height="12" src="../../../../images/symbols/aspect_P.png?1" title="ЧЛ" width="12" />.</span> А для того чтобы сделать шедевр, нужно создать максимально удобные условия и убрать лишнее <span class="nowrap"><img alt="БС" height="12" src="../../../../images/symbols/aspect_S.png?1" title="БС" width="12" />.</span> ЛСЭ действует в поле сенсорики, пространства, форм, размеров <span class="nowrap"><img alt="БС" height="12" src="../../../../images/symbols/aspect_S.png?1" title="БС" width="12" />.</span></p>
+	ЛСЭ <img alt="ЧЛ" height="12" src="/images/symbols/aspect_P.png?1" title="ЧЛ" width="12" /><img alt="БС" height="12" src="/images/symbols/aspect_S.png?1" title="БС" width="12" /> выявляет всевозможные свойства в этом объектном мире. Он мастер среди вещей, среди объектов, он ими жонглирует, превращает, он видит в них недоступные другим, скрытые свойства и открывает их. Он хозяин материи, творец в материальном мире. Все вышеописанное — аспект ЧЛ <span class="nowrap"><img alt="" height="12" src="/images/symbols/aspect_P.png?1" title="ЧЛ" width="12" />.</span> А для того чтобы сделать шедевр, нужно создать максимально удобные условия и убрать лишнее <span class="nowrap"><img alt="БС" height="12" src="/images/symbols/aspect_S.png?1" title="БС" width="12" />.</span> ЛСЭ действует в поле сенсорики, пространства, форм, размеров <span class="nowrap"><img alt="БС" height="12" src="/images/symbols/aspect_S.png?1" title="БС" width="12" />.</span></p>
 <p>
-	В отличие от ЛСЭ, ЛИЭ <img alt="ЧЛ" height="12" src="../../../../images/symbols/aspect_P.png?1" title="ЧЛ" width="12" /><img alt="БИ" height="12" src="../../../../images/symbols/aspect_T.png?1" title="БИ" width="12" /> действует в поле событий, изменений, в поле времени <span class="nowrap"><img alt="БИ" height="12" src="../../../../images/symbols/aspect_T.png?1" title="БИ" width="12" />.</span> Он чутко улавливает течение времени и то, какая в данный момент <img alt="БИ" height="12" src="../../../../images/symbols/aspect_T.png?1" title="БИ" width="12" /> требуется деятельность <span class="nowrap"><img alt="ЧЛ" height="12" src="../../../../images/symbols/aspect_P.png?1" title="ЧЛ" width="12" />,</span> что нужно будет в будущем <span class="nowrap"><img alt="БИ" height="12" src="../../../../images/symbols/aspect_T.png?1" title="БИ" width="12" />.</span></p>
+	В отличие от ЛСЭ, ЛИЭ <img alt="ЧЛ" height="12" src="/images/symbols/aspect_P.png?1" title="ЧЛ" width="12" /><img alt="БИ" height="12" src="/images/symbols/aspect_T.png?1" title="БИ" width="12" /> действует в поле событий, изменений, в поле времени <span class="nowrap"><img alt="БИ" height="12" src="/images/symbols/aspect_T.png?1" title="БИ" width="12" />.</span> Он чутко улавливает течение времени и то, какая в данный момент <img alt="БИ" height="12" src="/images/symbols/aspect_T.png?1" title="БИ" width="12" /> требуется деятельность <span class="nowrap"><img alt="ЧЛ" height="12" src="/images/symbols/aspect_P.png?1" title="ЧЛ" width="12" />,</span> что нужно будет в будущем <span class="nowrap"><img alt="БИ" height="12" src="/images/symbols/aspect_T.png?1" title="БИ" width="12" />.</span></p>
 <p>
-	ИЛЭ <img alt="ЧИ" height="12" src="../../../../images/symbols/aspect_I.png?1" title="ЧИ" width="12" /><img alt="БЛ" height="12" src="../../../../images/symbols/aspect_L.png?1" title="БЛ" width="12" /> видит возможности в мире объектов, реальных или виртуальных (БЛ — это соотношение объектов), ИЭЭ <span class="nowrap"><img alt="ЧИ" height="12" src="../../../../images/symbols/aspect_I.png?1" title="ЧИ" width="12" /><img alt="БЭ" height="12" src="../../../../images/symbols/aspect_R.png?1" title="БЭ" width="12" /></span> проявляет (выявляет) возможности (суть личности) в мире отношений.</p>
+	ИЛЭ <img alt="ЧИ" height="12" src="/images/symbols/aspect_I.png?1" title="ЧИ" width="12" /><img alt="БЛ" height="12" src="/images/symbols/aspect_L.png?1" title="БЛ" width="12" /> видит возможности в мире объектов, реальных или виртуальных (БЛ — это соотношение объектов), ИЭЭ <span class="nowrap"><img alt="ЧИ" height="12" src="/images/symbols/aspect_I.png?1" title="ЧИ" width="12" /><img alt="БЭ" height="12" src="/images/symbols/aspect_R.png?1" title="БЭ" width="12" /></span> проявляет (выявляет) возможности (суть личности) в мире отношений.</p>
 <p>
-	Эмоции ЭСЭ <img alt="ЧЭ" height="12" src="../../../../images/symbols/aspect_E.png?1" title="ЧЭ" width="12" /><img alt="БС" height="12" src="../../../../images/symbols/aspect_S.png?1" title="БС" width="12" /> непосредственно связаны с областью сенсорики (комфорта, удобства, красоты), эмоции ЭИЭ <span class="nowrap"><img alt="ЧЭ" height="12" src="../../../../images/symbols/aspect_E.png?1" title="ЧЭ" width="12" /><img alt="БИ" height="12" src="../../../../images/symbols/aspect_T.png?1" title="БИ" width="12" /></span> проявляются в области событий, изменений, глобальных процессов времени («пронести энтузиазм сквозь невзгоды и трудности»).</p>
+	Эмоции ЭСЭ <img alt="ЧЭ" height="12" src="/images/symbols/aspect_E.png?1" title="ЧЭ" width="12" /><img alt="БС" height="12" src="/images/symbols/aspect_S.png?1" title="БС" width="12" /> непосредственно связаны с областью сенсорики (комфорта, удобства, красоты), эмоции ЭИЭ <span class="nowrap"><img alt="ЧЭ" height="12" src="/images/symbols/aspect_E.png?1" title="ЧЭ" width="12" /><img alt="БИ" height="12" src="/images/symbols/aspect_T.png?1" title="БИ" width="12" /></span> проявляются в области событий, изменений, глобальных процессов времени («пронести энтузиазм сквозь невзгоды и трудности»).</p>
 <p>
-	СЭЭ <img alt="ЧС" height="12" src="../../../../images/symbols/aspect_F.png?1" title="ЧС" width="12" /><img alt="БЭ" height="12" src="../../../../images/symbols/aspect_R.png?1" title="БЭ" width="12" /> проявляет свое влияние в области отношений, СЛЭ <span class="nowrap"><img alt="ЧС" height="12" src="../../../../images/symbols/aspect_F.png?1" title="ЧС" width="12" /><img alt="БЛ" height="12" src="../../../../images/symbols/aspect_L.png?1" title="БЛ" width="12" /> —</span> в области структур (правил, законов, схем).</p>
+	СЭЭ <img alt="ЧС" height="12" src="/images/symbols/aspect_F.png?1" title="ЧС" width="12" /><img alt="БЭ" height="12" src="/images/symbols/aspect_R.png?1" title="БЭ" width="12" /> проявляет свое влияние в области отношений, СЛЭ <span class="nowrap"><img alt="ЧС" height="12" src="/images/symbols/aspect_F.png?1" title="ЧС" width="12" /><img alt="БЛ" height="12" src="/images/symbols/aspect_L.png?1" title="БЛ" width="12" /> —</span> в области структур (правил, законов, схем).</p>
 <p>
 	Одно из названий второй функции — творческая. Мы творим только по второй функции? Нет. Даже по одномерной функции человек может творить, в смысле — создавать новое. Многие творческие люди — художники, дизайнеры, скульпторы, модельеры — создают свои новые творения по одномерным функциям. Это их индивидуальное видение мира удивляет нас своей необычностью, нешаблонностью, эпатажем, а иногда странностью и непонятностью. Соционический термин «творческая функция» следует понимать как «функция, результирующая целеполагание первой функции, творящая «продукцию» первой функции».</p>
 <p>
@@ -101,7 +101,7 @@
 <p>
 	Еще одно отличие функции 7 — это индивидуальная направленность работы. По большому счету все, что обрабатывается в Иде, — нужно только для себя. Это мне нужна логичность, или этичность, или комфорт и т.д. По функциям Ида отношение к социуму примерно такое: «не мешайте мне жить и проявлять себя так, как мне нравится, как мне удобно». И если вдруг в ф. 7 поступает информация, которая не согласуется с индивидуальным пониманием человека, его это может раздражать. Никаких требований к социуму по седьмой функции человек не предъявляет до тех пор, пока что-то (исходящее от других людей) не входит в противоречие с его индивидуальными программами. Эти программы нарабатывались в раннем детстве, они привычны и вполне справляются с возникающими ситуативными задачами. Но они очень индивидуальны.</p>
 <p>
-	Из сказанного видно, что работа седьмой функции похожа на нормативную: опора на давно установленные, «закостенелые», индивидуально выработанные приемы и способы действия. Вы спросите, а как же тогда отличить работу нормативной функции от работы витальной ситуативной? Это можно сделать по специфическим реакциям, по размерности обработки информации. Многомерная функция, в отличие от нормативной, способна спокойно работать в разных ситуациях, в том числе и в неблагоприятных, принимает негативный результат как нормальное явление — это не повод для особых расстройств, а повод исправить, изменить подход (сообразуясь с ситуацией), изучить результат. Неприятно? Да. Но не страшно. В функции 7 есть своеобразная «упертая» уверенность в своей правоте<a class="footnote" href="trehmernost#footnote-1" id="backref-1" title="Возможно, поэтому некоторые соционики называют ее «ограничительной»">1</a>. Но внешних признаков для определения функции недостаточно, ее нужно «измерить», т. е. убедиться в ее ситуативности.</p>
+	Из сказанного видно, что работа седьмой функции похожа на нормативную: опора на давно установленные, «закостенелые», индивидуально выработанные приемы и способы действия. Вы спросите, а как же тогда отличить работу нормативной функции от работы витальной ситуативной? Это можно сделать по специфическим реакциям, по размерности обработки информации. Многомерная функция, в отличие от нормативной, способна спокойно работать в разных ситуациях, в том числе и в неблагоприятных, принимает негативный результат как нормальное явление — это не повод для особых расстройств, а повод исправить, изменить подход (сообразуясь с ситуацией), изучить результат. Неприятно? Да. Но не страшно. В функции 7 есть своеобразная «упертая» уверенность в своей правоте<a class="footnote" href="#footnote-1" id="backref-1" title="Возможно, поэтому некоторые соционики называют ее «ограничительной»">1</a>. Но внешних признаков для определения функции недостаточно, ее нужно «измерить», т. е. убедиться в ее ситуативности.</p>
 <p>
 	В связи с витальностью работы функции 7 ответы на вопросы от этой функции звучат не как размышления (ментал), а как <em>вспоминание того, что обычно происходит</em>.</p>
 <p>
@@ -119,21 +119,21 @@
 </ul><p>
 	<strong>Читайте по данной теме:</strong></p>
 <ol class="literature"><li>
-		<span class="name">Эглит И. М.</span> <a href="../../../../biblioteka/statji/razmernost-funkcij">Размерность функций</a>.</li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/statji/razmernost-funkcij">Размерность функций</a>.</li>
 	<li>
-		<span class="name">Эглит И. М.</span> <a href="../../../../biblioteka/statji/praktika-primenenija-protokolov">Практика применения протоколов при заочной идентификации ТИМ психики в интернете</a>.</li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/statji/praktika-primenenija-protokolov">Практика применения протоколов при заочной идентификации ТИМ психики в интернете</a>.</li>
 	<li>
-		<span class="name">Эглит И. М.</span> <a href="../../../../biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа</a></li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа</a></li>
 	<li>
 		<a href="http://socionicasys.org/forum/viewtopic.php?f=73&amp;t=4438">Определение ситуативности</a> (материалы форума)</li>
 </ol><hr /><p id="footnote-1">
-	<span class="note"><a class="footnote" href="trehmernost#backref-1">1</a> Возможно, поэтому некоторые соционики называют ее «ограничительной».</span></p>
+	<span class="note"><a class="footnote" href="#backref-1">1</a> Возможно, поэтому некоторые соционики называют ее «ограничительной».</span></p>
 <p>
 	 </p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="dvumernost">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="chetyrehmernost">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/teorija/dlja-novichkov/funkcii/razmernost/dvumernost">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/teorija/dlja-novichkov/funkcii/razmernost/chetyrehmernost">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -142,36 +142,36 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li class="active"><a href="../../../dlja-novichkov">Соционика от новичка до эксперта</a>
+<li class="active"><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a>
 <ul>
-<li><a href="../../chto-takoe-socionica">Что такое соционика?</a></li>
-<li><a href="../../sistemy">Системный подход</a></li>
-<li><a href="../../aspekty">Информационные аспекты</a></li>
-<li><a href="../../model">Модель ТИМа</a></li>
-<li><a href="../../bloki-i-kolca">Блоки и кольца модели А</a></li>
-<li class="active"><a href="../../funkcii.1">Функции модели А</a>
+<li><a href="/teorija/dlja-novichkov/chto-takoe-socionica">Что такое соционика?</a></li>
+<li><a href="/teorija/dlja-novichkov/sistemy">Системный подход</a></li>
+<li><a href="/teorija/dlja-novichkov/aspekty">Информационные аспекты</a></li>
+<li><a href="/teorija/dlja-novichkov/model">Модель ТИМа</a></li>
+<li><a href="/teorija/dlja-novichkov/bloki-i-kolca">Блоки и кольца модели А</a></li>
+<li class="active"><a href="/teorija/dlja-novichkov/funkcii">Функции модели А</a>
 <ul>
-<li class="active"><a href="../razmernost">Размерность функций</a>
+<li class="active"><a href="/teorija/dlja-novichkov/funkcii/razmernost">Размерность функций</a>
 <ul>
-<li><a href="odnomernost">Одномерность</a></li>
-<li><a href="dvumernost">Двумерность</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/razmernost/odnomernost">Одномерность</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/razmernost/dvumernost">Двумерность</a></li>
 <li class="selected"><span>Трехмерность</span></li>
-<li><a href="chetyrehmernost">Четырехмерность</a></li>
-<li><a href="indikatory-razmernosti-funkcij">Индикаторы размерности функций</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/razmernost/chetyrehmernost">Четырехмерность</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/razmernost/indikatory-razmernosti-funkcij">Индикаторы размерности функций</a></li>
 </ul>
 </li>
-<li><a href="../znaki">Знаки функций</a></li>
-<li><a href="../konspekt-svojstva-funkcij">Конспект «Свойства функций»</a></li>
-<li><a href="../harakteristiki-i-upravljajushchie-emocii-funkcij">Основные свойства и управляющие эмоции функций</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/znaki">Знаки функций</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/konspekt-svojstva-funkcij">Конспект «Свойства функций»</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/harakteristiki-i-upravljajushchie-emocii-funkcij">Основные свойства и управляющие эмоции функций</a></li>
 </ul>
 </li>
-<li><a href="../../opisanie-modelej">Описания моделей ТИМа</a></li>
-<li><a href="../../mezhtimnye-otnoshenija.1">Интертипные отношения</a></li>
+<li><a href="/teorija/dlja-novichkov/opisanie-modelej">Описания моделей ТИМа</a></li>
+<li><a href="/teorija/dlja-novichkov/mezhtimnye-otnoshenija">Интертипные отношения</a></li>
 </ul>
 </li>
-<li><a href="../../../po-ermaku">Соционика по Ермаку</a></li>
+<li><a href="/teorija/po-ermaku">Соционика по Ермаку</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -181,9 +181,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Красота есть лишь обещание счастья»</p>	</blockquote>
-	<p class="random-quote-author">Стендаль</p>
-	<p class="random-quote-note">(БС, ЧЭ)</p>
+		<p>«Проще что-то сразу делать хорошо, чем потом объяснять, почему это сделано плохо»</p>	</blockquote>
+	<p class="random-quote-author">Г. Лонгфелло</p>
+	<p class="random-quote-note">(ЧЛ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -225,7 +225,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

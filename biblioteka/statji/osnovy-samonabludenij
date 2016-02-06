@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Данная статья адресована тем, кто желает овладеть техникой отслеживания и анализа своих мыслей и реакций согласно модели ИМ." />
 <meta name="keywords" content="самонаблюдение, определение ТИМ, самотипирование, осознанность, внутренние реакции, практика, модель А, ТИМ, соционика" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Основы соционического самонаблюдения | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Основы соционического самонаблюдения</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Основы соционического самонаблюдения</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -222,7 +222,7 @@
 <p>
 	Вам нужно привыкнуть к мысли, что следить за собой придется постоянно, а не время от времени. Конечно, сразу так не получится, начинать нужно с минимума — 20-минутной практики.</p>
 <p>
-	Вы сами не замечаете, что ваша психика (ум в терминологии восточных учений<a class="footnote" href="osnovy-samonabludenij#footnote-1" id="backref-1" title="Ум в восточных учениях включает не только мышление, но и эмоциональную сферу.">1</a>), постоянно сканирует информацию из окружающего мира.</p>
+	Вы сами не замечаете, что ваша психика (ум в терминологии восточных учений<a class="footnote" href="#footnote-1" id="backref-1" title="Ум в восточных учениях включает не только мышление, но и эмоциональную сферу.">1</a>), постоянно сканирует информацию из окружающего мира.</p>
 <p>
 	Как это происходит? Для того чтобы это узнать, вам нужно научиться наблюдать за каждым движением своего ума, узнать, как он функционирует. Вам кажется, что вы сами что-то думаете. Но если вы последите за своим умом, то поймете, что вы практически не управляете этим процессом.</p>
 <p>
@@ -296,7 +296,7 @@
 <p>
 	У нашей психики есть наблюдаемое свойство — <strong>стремление зафиксировать</strong>, удержать…</p>
 <p>
-	Это свойство корнями уходит в такое образование нашего ума как эго<a class="footnote" href="osnovy-samonabludenij#footnote-2" id="backref-2" title="Имеется в виду не соционическое Эго, а то, от которого происходит слово «эгоист», эго как «Я отдельный от других».">2</a>. Это его важнейшая характеристика. Эго удерживает, стремится что-то зафиксировать, сделать неподвижным, отдельным — это выделение себя от остального и фиксирование этого положения отделенности (выделенности). Таким образом, фиксация неразрывно связана с ограничением.</p>
+	Это свойство корнями уходит в такое образование нашего ума как эго<a class="footnote" href="#footnote-2" id="backref-2" title="Имеется в виду не соционическое Эго, а то, от которого происходит слово «эгоист», эго как «Я отдельный от других».">2</a>. Это его важнейшая характеристика. Эго удерживает, стремится что-то зафиксировать, сделать неподвижным, отдельным — это выделение себя от остального и фиксирование этого положения отделенности (выделенности). Таким образом, фиксация неразрывно связана с ограничением.</p>
 <p>
 	Как это качество фиксирования проявляется в функциях модели ИМ?</p>
 <p>
@@ -887,17 +887,17 @@
 <ol class="literature"><li>
 		<span class="name">Букалов А. В.</span> <a href="http://www.socionics.ibc.com.ua/pdf/as-p203.pdf">Структура и размерность функций информационного метаболизма</a> // Соционика, ментология и психология личности. — 1995. — № 2. — С. 5­-9.</li>
 	<li>
-		<span class="name">Эглит И. М.</span> <a href="../knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа. Самоучитель от А до Я</a>. — М.: Черная Белка, 2010. — 304 с.</li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа. Самоучитель от А до Я</a>. — М.: Черная Белка, 2010. — 304 с.</li>
 	<li>
-		<span class="name">Ермак В. Д.</span> <a href="../knigi#ermak-klassicheskaja-socionika">Классическая соционика</a>. — М.: Черная Белка, 2009.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/knigi#ermak-klassicheskaja-socionika">Классическая соционика</a>. — М.: Черная Белка, 2009.</li>
 	<li>
-		<span class="name">Эглит И. М.</span>, <span class="name">Пятницкий В. В.</span> <a href="issledovanie-strahov">Исследование страхов в одномерных функциях</a> // Соционика, ментология и психология личности. — 2009. — № 4.</li>
+		<span class="name">Эглит И. М.</span>, <span class="name">Пятницкий В. В.</span> <a href="/biblioteka/statji/issledovanie-strahov">Исследование страхов в одномерных функциях</a> // Соционика, ментология и психология личности. — 2009. — № 4.</li>
 	<li>
 		<span class="name">Чогьям Трунгпа</span>. <a href="http://modernlib.ru/books/trungpa_chogyam_rinpoche/shambala_svyaschenniy_put_voina/read/">Шамбала: священный путь воина</a>.</li>
 </ol><hr /><p id="footnote-1">
-	<a class="footnote" href="osnovy-samonabludenij#backref-1">1</a> Ум в восточных учениях включает не только мышление, но и эмоциональную сферу.</p>
+	<a class="footnote" href="#backref-1">1</a> Ум в восточных учениях включает не только мышление, но и эмоциональную сферу.</p>
 <p id="footnote-2">
-	<a class="footnote" href="osnovy-samonabludenij#backref-2">2</a> Имеется в виду не соционическое Эго, а то, от которого происходит слово «эгоист», эго как «Я отдельный от других».</p>
+	<a class="footnote" href="#backref-2">2</a> Имеется в виду не соционическое Эго, а то, от которого происходит слово «эгоист», эго как «Я отдельный от других».</p>
 <p>
 	<a href="http://socionicasys.org/forum/statji/ehglit-i-m-osnovy-socionicheskikh-samonablyudenij-t3835.html">Обсуждение на форуме</a></p>
 </article>
@@ -941,7 +941,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

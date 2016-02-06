@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Раскрывается смысл понятий информации и информационного метаболизма" />
 <meta name="keywords" content="соционика, информационный метаболизм, информационный обмен, взаимодействие объектов" />
-<link rel="prev" href="../dlja-novichkov" />
-<link rel="next" href="sistemy" />
-<script type="text/javascript" src="../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/dlja-novichkov" />
+<link rel="next" href="/teorija/dlja-novichkov/sistemy" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Что такое соционика? | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../index.html">Главная</a></li>
-<li class="active"><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../teorija">Теория</a> &raquo; <a href="../dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <span>Что такое соционика?</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <span>Что такое соционика?</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -55,7 +55,7 @@
 <p>
 	Давайте на примере. Вы смотрите на яблоко и получаете о нем информацию: зеленое оно или спелое, видите его форму, видите повреждения на нем, если имели до этого дело с яблоками, то можете и сорт узнать. Вы получили информацию о яблоке. Вы уже изменились. У Вас могут начать выделяться слюни от желания съесть его, или наоборот не возникнет такое желание. Это все реакция на полученную информацию. Вы встречаетесь с человеком и чувствуете, что вам приятно на него смотреть — это тоже реакция на полученную информацию о человеке. Вы видите его доброжелательную улыбку, или красивую внешность, и результатом будет ваше доброжелательное отношение к человеку. Вы прочитали в газете или услышали в новостях о том, что где-то произошло землетрясение. Это тоже для вас информация, хоть Вы там и не были. Значит, информация может передаваться не только непосредственно, но и посредством материального носителя (бумага, магнитная лента, в цифровом виде).</p>
 <p>
-	<img alt="«Информационный обмен»" class="aside" src="../../images/pictures/illustration-05.png" /></p>
+	<img alt="«Информационный обмен»" class="aside" src="/images/pictures/illustration-05.png" /></p>
 <p>
 	А теперь попробуйте заменить в определении, слова "элементы системы" на себя и тот объект, с которым вы вступили в контакт, а слово "метрика" словом "параметр", или словом "величина", и вы получите такое определение.</p>
 <p class="definition">
@@ -63,11 +63,11 @@
 <p>
 	Информация <em>не может существовать</em> без взаимодействия чего-то с чем-то (или взаимодействия элементов систем). Информация возникает при таком взаимодействии. Нет взаимодействия — нет и информации. Есть просто объекты и люди. Представьте себе, что на другом конце города в какой-то квартире стоит стул. А Вы вот тут, у себя дома. Вы не видите, не трогаете, не сидите на этом стуле. Есть ли у Вас с ним взаимодействие? Есть ли у Вас информация об этом стуле? Иногда люди представляют себе информацию, как нечто, что уже есть в объекте, отдельно существующую во внешнем мире информацию. А человек «получает» эту информацию, как письмо. Но в объектах внешнего мира содержится не информация, а только свойства этих объектов. А информация возникает только в психике, как наше восприятие этих свойств объекта (человека, эмоции и чего угодно).</p>
 <p>
-	<a href="chto-takoe-socionica">Обсуждение статьи на форуме</a></p>
+	<a href="http://socionicasys.org/teorija/dlja-novichkov/chto-takoe-socionica">Обсуждение статьи на форуме</a></p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="../dlja-novichkov">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="sistemy">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/teorija/dlja-novichkov">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/teorija/dlja-novichkov/sistemy">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -76,21 +76,21 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li class="active"><a href="../dlja-novichkov">Соционика от новичка до эксперта</a>
+<li class="active"><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a>
 <ul>
 <li class="selected"><span>Что такое соционика?</span></li>
-<li><a href="sistemy">Системный подход</a></li>
-<li><a href="aspekty">Информационные аспекты</a></li>
-<li><a href="model">Модель ТИМа</a></li>
-<li><a href="bloki-i-kolca">Блоки и кольца модели А</a></li>
-<li><a href="funkcii.1">Функции модели А</a></li>
-<li><a href="opisanie-modelej">Описания моделей ТИМа</a></li>
-<li><a href="mezhtimnye-otnoshenija.1">Интертипные отношения</a></li>
+<li><a href="/teorija/dlja-novichkov/sistemy">Системный подход</a></li>
+<li><a href="/teorija/dlja-novichkov/aspekty">Информационные аспекты</a></li>
+<li><a href="/teorija/dlja-novichkov/model">Модель ТИМа</a></li>
+<li><a href="/teorija/dlja-novichkov/bloki-i-kolca">Блоки и кольца модели А</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii">Функции модели А</a></li>
+<li><a href="/teorija/dlja-novichkov/opisanie-modelej">Описания моделей ТИМа</a></li>
+<li><a href="/teorija/dlja-novichkov/mezhtimnye-otnoshenija">Интертипные отношения</a></li>
 </ul>
 </li>
-<li><a href="../po-ermaku">Соционика по Ермаку</a></li>
+<li><a href="/teorija/po-ermaku">Соционика по Ермаку</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -100,9 +100,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Ничему не удивляться есть, разумеется, признак глупости, а не ума»</p>	</blockquote>
-	<p class="random-quote-author">Достоевский</p>
-	<p class="random-quote-note">(ЧИ)</p>
+		<p>«Превозмогать себя и возвращаться к должному в себе — вот что такое истинная человечность. Быть человечным или не быть — это зависит только от нас самих»</p>	</blockquote>
+	<p class="random-quote-author">Конфуций</p>
+	<p class="random-quote-note">( ЧИ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -144,7 +144,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

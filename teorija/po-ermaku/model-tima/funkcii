@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Рассмотрены восемь психических функций как элементы структуры модели ТИМ, их назначение и параметры." />
 <meta name="keywords" content="психическая функция, модель ТИМ, параметры функции, назначение функции, эго, суперэго, суперид, ид, параметр опыта, параметр норм, параметр ситуации, параметр времени" />
-<link rel="prev" href="http://socionicasys.org/teorija/po-ermaku/model-tima/bloki-i-superbloki" />
-<link rel="next" href="http://socionicasys.org/teorija/po-ermaku/model-tima/funkcii/razmernosti" />
-<script type="text/javascript" src="../../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/po-ermaku/model-tima/bloki-i-superbloki" />
+<link rel="next" href="/teorija/po-ermaku/model-tima/funkcii/razmernosti" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Функции | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,31 +25,31 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../../index.html">Главная</a></li>
-<li class="active"><a href="../../../teorija">Теория</a></li>
-<li><a href="../../../praktika">Практика</a></li>
-<li><a href="../../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../../teorija">Теория</a> &raquo; <a href="../../po-ermaku">Соционика по Ермаку</a> &raquo; <a href="../model-tima">Модель ТИМa</a> &raquo; <span>Функции</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/po-ermaku">Соционика по Ермаку</a> &raquo; <a href="/teorija/po-ermaku/model-tima">Модель ТИМa</a> &raquo; <span>Функции</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
 	Функции</h1>
 <p>
-	Элементы структуры модели — психические функции — это своеобразные <em>виртуальные процессоры</em> (машины обработки информации), каждый из которых имеет (по аналогии с компьютером) свою «<em>операционную систему</em>», определяемую назначением (ролью) психической функции в системной структуре модели ТИМ психики и комбинацией <a href="http://socionicasys.org/teorija/po-ermaku/model-tima/funkcii/razmernosti">параметров обработки информации</a> (<em>Ex, Nr, St</em> и <em>Tm</em>), а также «<em>прикладную рабочую программу</em>», определяемую тем информационным аспектом, который данная функция обрабатывает. Различие в назначении элемента структуры, т. е. его места в структуре модели, ведёт к различию в «операционной системе» того виртуального процессора, который моделирует психическую функцию. Ниже кратко описаны назначение и параметры каждой из функций. Подробнее — см. [1–3].</p>
+	Элементы структуры модели — психические функции — это своеобразные <em>виртуальные процессоры</em> (машины обработки информации), каждый из которых имеет (по аналогии с компьютером) свою «<em>операционную систему</em>», определяемую назначением (ролью) психической функции в системной структуре модели ТИМ психики и комбинацией <a href="/teorija/po-ermaku/model-tima/funkcii/razmernosti">параметров обработки информации</a> (<em>Ex, Nr, St</em> и <em>Tm</em>), а также «<em>прикладную рабочую программу</em>», определяемую тем информационным аспектом, который данная функция обрабатывает. Различие в назначении элемента структуры, т. е. его места в структуре модели, ведёт к различию в «операционной системе» того виртуального процессора, который моделирует психическую функцию. Ниже кратко описаны назначение и параметры каждой из функций. Подробнее — см. [1–3].</p>
 <h2>
 	Блок Эго</h2>
 <p>
@@ -149,15 +149,15 @@
 <h2>
 	Литература</h2>
 <ol class="literature"><li>
-		<span class="name">Ермак В. Д.</span> <a href="../../../biblioteka/statji/struktura-psihiki">Структура и функционирование психики человека с системной точки зрения</a> // Соционика, ментология и психология личности. — 1996, № 3. — С. 72–79</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/statji/struktura-psihiki">Структура и функционирование психики человека с системной точки зрения</a> // Соционика, ментология и психология личности. — 1996, № 3. — С. 72–79</li>
 	<li>
 		<span class="name">Ермак В. Д.</span> Как научиться понимать людей. Соционика — новый метод познания человека. — М.: Астрель: Издательство АСТ, 2003.</li>
 	<li>
 		<span class="name">Ермак В. Д.</span> Классическая соционика. — М.: Черная Белка, 2009.</li>
 </ol><nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="http://socionicasys.org/teorija/po-ermaku/model-tima/bloki-i-superbloki">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="http://socionicasys.org/teorija/po-ermaku/model-tima/funkcii/razmernosti">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/teorija/po-ermaku/model-tima/bloki-i-superbloki">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/teorija/po-ermaku/model-tima/funkcii/razmernosti">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -166,32 +166,32 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li><a href="../../dlja-novichkov">Соционика от новичка до эксперта</a></li>
-<li class="active"><a href="../../po-ermaku">Соционика по Ермаку</a>
+<li><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a></li>
+<li class="active"><a href="/teorija/po-ermaku">Соционика по Ермаку</a>
 <ul>
-<li><a href="../obzor">Краткий обзор науки</a></li>
-<li><a href="../sistemnyj-podhod">Системный подход</a></li>
-<li><a href="../inform-potok">Информационный поток</a></li>
-<li class="active"><a href="../model-tima">Модель ТИМa</a>
+<li><a href="/teorija/po-ermaku/obzor">Краткий обзор науки</a></li>
+<li><a href="/teorija/po-ermaku/sistemnyj-podhod">Системный подход</a></li>
+<li><a href="/teorija/po-ermaku/inform-potok">Информационный поток</a></li>
+<li class="active"><a href="/teorija/po-ermaku/model-tima">Модель ТИМa</a>
 <ul>
-<li><a href="http://socionicasys.org/teorija/po-ermaku/model-tima/bloki-i-superbloki">Блоки и суперблоки</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/bloki-i-superbloki">Блоки и суперблоки</a></li>
 <li class="selected active"><span>Функции</span>
 <ul>
-<li><a href="http://socionicasys.org/teorija/po-ermaku/model-tima/funkcii/razmernosti">Размерность функций</a></li>
-<li><a href="http://socionicasys.org/teorija/po-ermaku/model-tima/funkcii/znaki">Знаки функций</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/funkcii/razmernosti">Размерность функций</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/funkcii/znaki">Знаки функций</a></li>
 </ul>
 </li>
-<li><a href="rac-irrac">(Ир-)рациональность</a></li>
-<li><a href="extra-intro">Экстраверсия/интроверсия</a></li>
-<li><a href="opisanie-modelej">Описание моделей ТИМа (Ермак, Росланкина)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/rac-irrac">(Ир-)рациональность</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/extra-intro">Экстраверсия/интроверсия</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej">Описание моделей ТИМа (Ермак, Росланкина)</a></li>
 </ul>
 </li>
-<li><a href="../vozrastnoje-razvitije">Возрастное развитие</a></li>
-<li><a href="../i-timy">Интегральные ТИМы</a></li>
-<li><a href="../otnoshenija">Межтипные отношения</a></li>
-<li><a href="../identifikacija">Идентификация ТИМа</a></li>
+<li><a href="/teorija/po-ermaku/vozrastnoje-razvitije">Возрастное развитие</a></li>
+<li><a href="/teorija/po-ermaku/i-timy">Интегральные ТИМы</a></li>
+<li><a href="/teorija/po-ermaku/otnoshenija">Межтипные отношения</a></li>
+<li><a href="/teorija/po-ermaku/identifikacija">Идентификация ТИМа</a></li>
 </ul>
 </li>
 </ul>
@@ -203,8 +203,8 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Сентиментальные люди взбалтывают своё чувство так долго, что оно дает наконец пену. Тогда они воображают, что у них сердце полно, что их чувство течет через край, но все это не более, как воздух»</p>	</blockquote>
-	<p class="random-quote-author">Карл Людвиг Бёрне</p>
+		<p>«…долгая печаль не в природе человеческой, особенно женской»</p>	</blockquote>
+	<p class="random-quote-author">Пушкин</p>
 	<p class="random-quote-note">(ЧЭ)</p>
 </section>
 <!--/noindex-->
@@ -247,7 +247,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

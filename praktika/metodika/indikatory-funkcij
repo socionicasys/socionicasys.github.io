@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Дано определение индикатора функции, приведен формат описания индикатора и основные правила использования списка индикаторов." />
 <meta name="keywords" content="Индикатор, индикаторы функций, диагностика ТИМа, определение ТИМа, типирование, выделение индикаторов, анализ текста, список индикаторов, анализ индикторов, положение функции, параметр функции, ТИМ психики, управляющие эмоции" />
-<link rel="prev" href="edinica-analiza-teksta" />
-<link rel="next" href="protokoly-diagnostiki" />
-<script type="text/javascript" src="../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/praktika/metodika/edinica-analiza-teksta" />
+<link rel="next" href="/praktika/metodika/protokoly-diagnostiki" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Индикаторы функций | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li class="active"><a href="../../praktika">Практика</a></li>
-<li><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li class="active"><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../praktika">Практика</a> &raquo; <a href="../metodika">Методика удаленной диагностики</a> &raquo; <span>Индикаторы функций</span></div>	</nav>
+<a href="/praktika">Практика</a> &raquo; <a href="/praktika/metodika">Методика удаленной диагностики</a> &raquo; <span>Индикаторы функций</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -53,7 +53,7 @@
 <p class="definition">
 	<span class="term">Индикатор</span> — это указатель (контекстный смысловой признак), позволяющий идентифицировать функцию ИМ, обрабатывающую соответствующий аспект информационного потока (определить её параметры: размерность, знак, ментальность/витальность, место в модели).</p>
 <p>
-	В результате анализа материалов, полученных во время типирований<a class="footnote" href="indikatory-funkcij#footnote-1" id="backref-1" title="Около 50 протоколов типирования.">1</a>, проведенных экспертами Школы системной соционики (Киев), был составлен список индикаторов функций. Описание индикаторов представлено в следующем формате:</p>
+	В результате анализа материалов, полученных во время типирований<a class="footnote" href="#footnote-1" id="backref-1" title="Около 50 протоколов типирования.">1</a>, проведенных экспертами Школы системной соционики (Киев), был составлен список индикаторов функций. Описание индикаторов представлено в следующем формате:</p>
 <ul><li>
 		<strong>условное название индикатора</strong>, его краткое описание;</li>
 	<li>
@@ -76,33 +76,33 @@
 				<em>минус функции</em> — нет ограничения области компетенции, глобальность, негатив, направленность во вне.</li>
 		</ul></li>
 </ul><p>
-	Чтобы правильно использовать список индикаторов<a class="footnote" href="indikatory-funkcij#footnote-2" id="backref-2" title="С полным списком индикаторов с примерами по всем функциям можно ознакомиться в книге Эглит И. М. Определение соционического типа.">2</a>, необходимо четко понимать, что при работе с индикаторами не может быть механического подсчета слов и фраз. Следует обратить внимание на то, что почти каждый индикатор не однозначен, и выбор правильного значения зависит от сопоставления многих выявленных индикаторов и видения картины в целом. Поэтому следует избегать механического выискивания индикаторов и бездумного приписывания каждому индикатору единственно возможного значения. Анализ выявленных индикаторов позволяет сделать вывод о месте в модели той или иной функции.</p>
+	Чтобы правильно использовать список индикаторов<a class="footnote" href="#footnote-2" id="backref-2" title="С полным списком индикаторов с примерами по всем функциям можно ознакомиться в книге Эглит И. М. Определение соционического типа.">2</a>, необходимо четко понимать, что при работе с индикаторами не может быть механического подсчета слов и фраз. Следует обратить внимание на то, что почти каждый индикатор не однозначен, и выбор правильного значения зависит от сопоставления многих выявленных индикаторов и видения картины в целом. Поэтому следует избегать механического выискивания индикаторов и бездумного приписывания каждому индикатору единственно возможного значения. Анализ выявленных индикаторов позволяет сделать вывод о месте в модели той или иной функции.</p>
 <p>
 	Отслеживание управляющих эмоций (УЭ) - является новым в методике диагностики ТИМа. Теория УЭ принадлежит участнику школы, ученику В.Д.Ермака - В.В. Пятницкому.<br />
 	"Управляющие эмоции являются обязательной составляющей любой информационной обработки. При естественном функционировании психики человек не в состоянии изменить свои управляющие эмоции (он может только пытаться их скрыть от себя и других), потому эти сигналы психики могут являться достаточно надежным индикатором функции".<br />
 	На данном этапе УЭ входят в группу индикторов диагностики ТИМа.</p>
 <hr /><p id="footnote-1">
-	<a class="footnote" href="indikatory-funkcij#backref-1">1</a> Более 50 протоколов типирования.</p>
+	<a class="footnote" href="#backref-1">1</a> Более 50 протоколов типирования.</p>
 <p id="footnote-2">
-	<a class="footnote" href="indikatory-funkcij#backref-2">2</a> С полным списком индикаторов с примерами по всем функциям можно ознакомиться в книге <span class="name">Эглит И. М.</span> <a href="../../biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа</a>.</p>
+	<a class="footnote" href="#backref-2">2</a> С полным списком индикаторов с примерами по всем функциям можно ознакомиться в книге <span class="name">Эглит И. М.</span> <a href="/biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа</a>.</p>
 <p>
 	Дополнительно читайте:</p>
 <ol><li>
-		<a href="../../teorija/dlja-novichkov/funkcii/razmernost/indikatory-razmernosti-funkcij">Индикаторы размерности функций</a></li>
+		<a href="/teorija/dlja-novichkov/funkcii/razmernost/indikatory-razmernosti-funkcij">Индикаторы размерности функций</a></li>
 	<li>
-		<a href="../../teorija/dlja-novichkov/funkcii/znaki/indikatory">Индикаторы знака функции</a></li>
+		<a href="/teorija/dlja-novichkov/funkcii/znaki/indikatory">Индикаторы знака функции</a></li>
 	<li>
-		<a href="../../teorija/dlja-novichkov/bloki-i-kolca/indikatory-vitala-mentala">Индикаторы витала/ментала</a></li>
+		<a href="/teorija/dlja-novichkov/bloki-i-kolca/indikatory-vitala-mentala">Индикаторы витала/ментала</a></li>
 	<li>
-		Подробнее о<span style="font-size:16px;background-color:rgb(255,255,255);"> некоторых непростых моментах анализа текстов: </span><a href="../analiz-teksta-nekotorye-osobennosti">Анализ текста</a></li>
+		Подробнее о<span style="font-size:16px;background-color:rgb(255,255,255);"> некоторых непростых моментах анализа текстов: </span><a href="http://socionicasys.org/praktika/analiz-teksta-nekotorye-osobennosti">Анализ текста</a></li>
 	<li>
-		<a href="../spravochnik-po-indikatoram">Программа Справочник индикаторов</a></li>
+		<a href="http://socionicasys.org/praktika/spravochnik-po-indikatoram">Программа Справочник индикаторов</a></li>
 	<li>
-		<a href="../../teorija/dlja-novichkov/funkcii/harakteristiki-i-upravljajushchie-emocii-funkcij"><span style="font-size:16px;line-height:16.7999992370605px;background-color:rgb(255,255,255);">Основные свойства и управляющие эмоции функций ИМ</span></a></li>
+		<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/harakteristiki-i-upravljajushchie-emocii-funkcij"><span style="font-size:16px;line-height:16.7999992370605px;background-color:rgb(255,255,255);">Основные свойства и управляющие эмоции функций ИМ</span></a></li>
 </ol><nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="edinica-analiza-teksta">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="protokoly-diagnostiki">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/praktika/metodika/edinica-analiza-teksta">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/praktika/metodika/protokoly-diagnostiki">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -111,35 +111,35 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../praktika">Практика</a>
+<li class="active"><a href="/praktika">Практика</a>
 <ul>
-<li><a href="../otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
-<li class="active"><a href="../metodika">Методика удаленной диагностики</a>
+<li><a href="/praktika/otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
+<li class="active"><a href="/praktika/metodika">Методика удаленной диагностики</a>
 <ul>
-<li><a href="osobennosti-udalennogo-tipirovanija">Особенности удаленной диагностики</a></li>
-<li><a href="procedura-diagnostiki">Процедура диагностики</a></li>
-<li><a href="anketirovanie">Анкетирование и требование к вопросам</a></li>
-<li><a href="sochinenija">Сочинения</a></li>
-<li><a href="pogruzhenie-v-aspektnuju-sredu">«Погружение» в аспектную среду</a></li>
-<li><a href="testirovanie-strahov">Тестирование страхов</a></li>
-<li><a href="samoocenka-tipiruemyh">Самооценка типируемых</a></li>
-<li><a href="ob-otvetah-tipiruemyh">Об ответах типируемых </a></li>
-<li><a href="obshchie-pravila-analiza">Общие правила анализа </a></li>
-<li><a href="edinica-analiza-teksta">Единица анализа текста</a></li>
+<li><a href="/praktika/metodika/osobennosti-udalennogo-tipirovanija">Особенности удаленной диагностики</a></li>
+<li><a href="/praktika/metodika/procedura-diagnostiki">Процедура диагностики</a></li>
+<li><a href="/praktika/metodika/anketirovanie">Анкетирование и требование к вопросам</a></li>
+<li><a href="/praktika/metodika/sochinenija">Сочинения</a></li>
+<li><a href="/praktika/metodika/pogruzhenie-v-aspektnuju-sredu">«Погружение» в аспектную среду</a></li>
+<li><a href="/praktika/metodika/testirovanie-strahov">Тестирование страхов</a></li>
+<li><a href="/praktika/metodika/samoocenka-tipiruemyh">Самооценка типируемых</a></li>
+<li><a href="/praktika/metodika/ob-otvetah-tipiruemyh">Об ответах типируемых </a></li>
+<li><a href="/praktika/metodika/obshchie-pravila-analiza">Общие правила анализа </a></li>
+<li><a href="/praktika/metodika/edinica-analiza-teksta">Единица анализа текста</a></li>
 <li class="selected"><span>Индикаторы функций</span></li>
-<li><a href="protokoly-diagnostiki">Протоколы диагностики ТИМа</a></li>
-<li><a href="posle-diagnostiki">После диагностики ТИМа</a></li>
-<li><a href="sovershenstvovanie-masterstva">Совершенствование мастерства</a></li>
+<li><a href="/praktika/metodika/protokoly-diagnostiki">Протоколы диагностики ТИМа</a></li>
+<li><a href="/praktika/metodika/posle-diagnostiki">После диагностики ТИМа</a></li>
+<li><a href="/praktika/metodika/sovershenstvovanie-masterstva">Совершенствование мастерства</a></li>
 </ul>
 </li>
-<li><a href="../programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
-<li><a href="../spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
-<li><a href="ekspertnaja-rabota">Экспертная работа в соционике</a></li>
-<li><a href="../etapy-obuchenija">Этапы обучения</a></li>
-<li><a href="../uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
-<li><a href="../analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
-<li><a href="../experimenty">Эксперименты и исследования ШСС</a></li>
-<li><a href="../socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
+<li><a href="/praktika/programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
+<li><a href="/praktika/spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
+<li><a href="/praktika/metodika/ekspertnaja-rabota">Экспертная работа в соционике</a></li>
+<li><a href="/praktika/etapy-obuchenija">Этапы обучения</a></li>
+<li><a href="/praktika/uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
+<li><a href="/praktika/analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
+<li><a href="/praktika/experimenty">Эксперименты и исследования ШСС</a></li>
+<li><a href="/praktika/socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -149,9 +149,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Будьте строги к себе и мягки к другим. Так вы оградите себя от людской неприязни»</p>	</blockquote>
-	<p class="random-quote-author">Конфуций</p>
-	<p class="random-quote-note">(БЭ, ЧС)</p>
+		<p>«Рано или поздно наступает минута, когда впереди только прошлое, а будущее — позади»</p>	</blockquote>
+	<p class="random-quote-author">Лешек Кумор</p>
+	<p class="random-quote-note">(БИ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -193,7 +193,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

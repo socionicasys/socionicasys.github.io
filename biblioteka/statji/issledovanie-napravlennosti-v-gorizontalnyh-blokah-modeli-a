@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Обнаружение в речи направленности горизонтальных блоков затруднено, выявленная направленность блока не всегда соответствует теоретической направленности блока модели диагностируемого ТИМа" />
 <meta name="keywords" content="направленность блоков, горизонтальные блоки, модель А, диагностика ТИМа, блок функций, определение ТИМа" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Исследование направленности горизонтальных блоков в модели А | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Исследование направленности горизонтальных блоков в модели А</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Исследование направленности горизонтальных блоков в модели А</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -58,7 +58,7 @@
 <p>
 	<strong>Цель исследования</strong>: изучение направленности горизонтальных блоков в модели А.</p>
 <p>
-	Данное исследование является продолжением изучения переводов управления в модели А, результаты которого представлены в работе Эглит И. М., Тумольской В. А. <a href="issledovanie-perevodov-upravlenija-v-modeli-a"><strong>«</strong>Исследование переводов управления в модели А»</a> [3].</p>
+	Данное исследование является продолжением изучения переводов управления в модели А, результаты которого представлены в работе Эглит И. М., Тумольской В. А. <a href="/biblioteka/statji/issledovanie-perevodov-upravlenija-v-modeli-a"><strong>«</strong>Исследование переводов управления в модели А»</a> [3].</p>
 <p>
 	<strong>Блоком функций </strong>будем считать пару функций, выполняющую определенные задачи с точки зрения модели А. Функции блока тесно взаимодействуют друг с другом и могут быть рассмотрены как единое смысловое целое. <strong>Горизонтальными блоками</strong> в модели А, согласно устоявшейся терминологии, будем называть пары функций: 1˗2, 3˗4, 5˗6, 7˗8.</p>
 <p>
@@ -70,7 +70,7 @@
 <p>
 	Данная закономерность, обнаруженная в блоках Эго и Ид, послужила основанием для дальнейшего исследования направленности горизонтальных блоков. Его целью было выяснить, насколько уверенно определяется направленность горизонтальных блоков, и соответствует ли она диагностированному ТИМу.</p>
 <p>
-	Исследование проводилось на основе протоколов типирований ШСС, которые содержат полный текст процесса типирования: все вопросы и ответы типируемого без исключений (кроме эпизодов, которые типируемый не желает выставлять в публичный доступ), зафиксированные индикаторы параметров функций, комментарии типировщиков и вывод относительно ТИМа. Протоколы находятся в открытом доступе в электронном виде на сайте ШСС: <a href="../protocol">http://socionicasys.org/biblioteka/protocol</a>.</p>
+	Исследование проводилось на основе протоколов типирований ШСС, которые содержат полный текст процесса типирования: все вопросы и ответы типируемого без исключений (кроме эпизодов, которые типируемый не желает выставлять в публичный доступ), зафиксированные индикаторы параметров функций, комментарии типировщиков и вывод относительно ТИМа. Протоколы находятся в открытом доступе в электронном виде на сайте ШСС: <a href="/biblioteka/protocol">http://socionicasys.org/biblioteka/protocol</a>.</p>
 <p>
 	В исследовании проанализировано 23 протокола диагностики ТИМа, в которых зафиксировано 520 горизонтальных блоков. Из них:</p>
 <ul><li>
@@ -284,7 +284,7 @@
 		</tr></tbody></table><p>
 	 </p>
 <p style="text-align:center;">
-	<img alt="" src="../../images/diagrams/horizontal_blocks.png" style="width:617px;height:301px;" /></p>
+	<img alt="" src="/images/diagrams/horizontal_blocks.png" style="width:617px;height:301px;" /></p>
 <p>
 	<strong>Результаты:</strong></p>
 <ol><li>
@@ -310,7 +310,7 @@
 	<li>
 		<em>Эглит И. М.</em> Блоки и кольца // Эглит И. М. Определение соционического типа. Самоучитель от А до Я. — М: Чёрная белка, 2010. — С. 39.</li>
 	<li>
-		<em>Эглит И. М., Тумольская В. А. </em><a href="issledovanie-perevodov-upravlenija-v-modeli-a">Исследование переводов управления в модели А.</a></li>
+		<em>Эглит И. М., Тумольская В. А. </em><a href="/biblioteka/statji/issledovanie-perevodov-upravlenija-v-modeli-a">Исследование переводов управления в модели А.</a></li>
 </ol><p>
 	<a href="http://socionicasys.org/forum/statji/issledovanie-napravlennosti-gorizontalnykh-blokov-t4334.html">Обсуждение на форуме</a></p>
 </article>
@@ -354,7 +354,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

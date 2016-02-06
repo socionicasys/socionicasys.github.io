@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Описана последовательность обучения эксперта, начиная с азов. Указаны основные особенности каждого этапа обучения." />
 <meta name="keywords" content="обучение эксперта, эксперт ШСС, обучение типированию, обучение диагностики, типировщик, соционическое типирование, ошибки типирования, диагностика ТИМа, определение ТИМа, типирование, выделение индикаторов" />
-<link rel="prev" href="nash-opyt" />
-<link rel="next" href="../uchimsja-zadavat-voprosy" />
-<script type="text/javascript" src="../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/praktika/etapy-obuchenija/nash-opyt" />
+<link rel="next" href="/praktika/uchimsja-zadavat-voprosy" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Шаги начинающего соционика | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li class="active"><a href="../../praktika">Практика</a></li>
-<li><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li class="active"><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../praktika">Практика</a> &raquo; <a href="../etapy-obuchenija">Этапы обучения</a> &raquo; <span>Шаги начинающего соционика</span></div>	</nav>
+<a href="/praktika">Практика</a> &raquo; <a href="/praktika/etapy-obuchenija">Этапы обучения</a> &raquo; <span>Шаги начинающего соционика</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -72,8 +72,8 @@
 	9. Участие в живом типировании заполняет те пробелы, которые были во время обучения. Как бы подробно ни была выписана методика (даже четырехмерным ментальным деловым логиком), все равно есть часть неявной информации, которая передается в живом опыте диагностики. Ведь каждый человек все равно воспринимает поступающую информацию сквозь призму своего ТИМа и своего наполнения модели. И именно поэтому лучше один раз самому сделать, чем сто раз услышать.</p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="nash-opyt">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="../uchimsja-zadavat-voprosy">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/praktika/etapy-obuchenija/nash-opyt">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/praktika/uchimsja-zadavat-voprosy">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -82,23 +82,23 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../praktika">Практика</a>
+<li class="active"><a href="/praktika">Практика</a>
 <ul>
-<li><a href="../otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
-<li><a href="../metodika">Методика удаленной диагностики</a></li>
-<li><a href="../programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
-<li><a href="../spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
-<li><a href="../metodika/ekspertnaja-rabota">Экспертная работа в соционике</a></li>
-<li class="active"><a href="../etapy-obuchenija">Этапы обучения</a>
+<li><a href="/praktika/otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
+<li><a href="/praktika/metodika">Методика удаленной диагностики</a></li>
+<li><a href="/praktika/programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
+<li><a href="/praktika/spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
+<li><a href="/praktika/metodika/ekspertnaja-rabota">Экспертная работа в соционике</a></li>
+<li class="active"><a href="/praktika/etapy-obuchenija">Этапы обучения</a>
 <ul>
-<li><a href="nash-opyt">Наш опыт</a></li>
+<li><a href="/praktika/etapy-obuchenija/nash-opyt">Наш опыт</a></li>
 <li class="selected"><span>Шаги начинающего соционика</span></li>
 </ul>
 </li>
-<li><a href="../uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
-<li><a href="../analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
-<li><a href="../experimenty">Эксперименты и исследования ШСС</a></li>
-<li><a href="../socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
+<li><a href="/praktika/uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
+<li><a href="/praktika/analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
+<li><a href="/praktika/experimenty">Эксперименты и исследования ШСС</a></li>
+<li><a href="/praktika/socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -108,9 +108,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Никакое совместное действие невозможно без навязывания некоторому числу людей чужой воли, то есть без авторитета»</p>	</blockquote>
-	<p class="random-quote-author">Ф. Энгельс</p>
-	<p class="random-quote-note">(ЧС, БЛ)</p>
+		<p>«Женщины созданы, чтобы их любили, а не понимали»</p>	</blockquote>
+	<p class="random-quote-author">О. Уайльд</p>
+	<p class="random-quote-note">(БЭ, ЧИ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -152,7 +152,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

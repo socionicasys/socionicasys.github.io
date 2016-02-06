@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Описаны приемы работы с негативными управляющими эмоциями одномерных функций, которые были выработаны в процессе практической работы экспертами ШСС." />
 <meta name="keywords" content="соционика, функции ИМ, одномерная функция, болезненные реакции" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Приемы работы с одномерными функциями | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Приемы работы с одномерными функциями</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Приемы работы с одномерными функциями</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -84,7 +84,7 @@
 <p style="margin-left:53.3pt;">
 	·         Разрешение возможно либо в виде выхода, отпускания как ненужной этой энергии (если вы смогли ее отделить), либо в виде смирения, принятия такого своего качества (если отделение не происходит, такое возможно в одномерной функции). Но в любом случае, должно прийти состояние облегчения.</p>
 <p style="margin-left:53.3pt;">
-	·         Проверка. Мысленное возвращение в бывшую болезненную зону. Та проблема, которая вызывала каждый раз негативное состояние, вспоминание о ней, не должна больше вызывать негативную реакцию. Если такого результата нет, то вы не дошли до корня.<a href="priemy-raboty-s-odnomernymi-funkcijami#_ftn1" title="">[1]</a></p>
+	·         Проверка. Мысленное возвращение в бывшую болезненную зону. Та проблема, которая вызывала каждый раз негативное состояние, вспоминание о ней, не должна больше вызывать негативную реакцию. Если такого результата нет, то вы не дошли до корня.<a href="#_ftn1" title="">[1]</a></p>
 <p style="margin-left:53.3pt;">
 	·         Постарайтесь не откладывать надолго работу с болезненной эмоцией. Со временем из ближайшей памяти стирается яркость воспоминаний, детали, даже сказанные слова, остается только память о том, что было что-то неприятное, тяжелое, и к этому неприятному не хочется возвращаться. Начинается процесс отрезания, сокрытия больного места. Лучше всего следить за энергией в самой болезненной ситуации. Если не получается, то после нее, но пока эмоции еще не сошли, можно записывать мысли, перебирая возможные причины, отслеживая своё состояние и сравнивая интенсивность эмоционального отклика. Из самонаблюдений эксперта:</p>
 <blockquote>
@@ -104,7 +104,7 @@
 <p>
 	<span style="font-size:14px;line-height:1.5;">Этот метод отличается от перевода в многомерную функцию. Если происходит перевод, то мы решаем проблему инструментом многомерной функции, но это не разряжает энергетическое состояние. А целью этого способа является использование противоположного полюса (противоположной управляющей эмоции) для разрядки, то есть главная цель - отпустить энергию из одномерной функции. Главный критерий успешности - боль уходит, обиды растворяются, ты вспоминаешь ситуацию безболезненно и становишься таким же, как до ситуации получения болевого удара.</span></p>
 <h6>
-	Метод «стула»<a href="priemy-raboty-s-odnomernymi-funkcijami#_ftn2" title=""><strong>[2]</strong></a></h6>
+	Метод «стула»<a href="#_ftn2" title=""><strong>[2]</strong></a></h6>
 <p>
 	Одномерная функция не позволяет мысленно принять ситуацию другого исхода, того, который мы считаем для себя неприемлемым. А поскольку мысли в этом направлении нет, то нечему и сбываться.</p>
 <p>
@@ -174,11 +174,11 @@
 <div>
 	<br clear="all" /><hr align="left" size="1" width="33%" /><div id="ftn1">
 		<p>
-			<a href="priemy-raboty-s-odnomernymi-funkcijami#_ftnref1" title="">[1]</a>              Я привела здесь технику так называемого Седона-метода, с моей точки зрения, очень эффективный.</p>
+			<a href="#_ftnref1" title="">[1]</a>              Я привела здесь технику так называемого Седона-метода, с моей точки зрения, очень эффективный.</p>
 	</div>
 	<div id="ftn2">
 		<p>
-			<a href="priemy-raboty-s-odnomernymi-funkcijami#_ftnref2" title="">[2]</a>              Авторское название, не имеет никакого отношения к созвучным психотерапевтическим техникам</p>
+			<a href="#_ftnref2" title="">[2]</a>              Авторское название, не имеет никакого отношения к созвучным психотерапевтическим техникам</p>
 	</div>
 </div>
 <p>
@@ -224,7 +224,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

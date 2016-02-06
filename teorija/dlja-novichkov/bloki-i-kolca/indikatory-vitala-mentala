@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="дан список индикаторов витала/ментала" />
 <meta name="keywords" content="витал, ментал, функция, блок, суперблок, соционика" />
-<link rel="prev" href="funkcii-v-blokah-dva-poljusa-aspektnoj-leksiki" />
-<link rel="next" href="../funkcii.1" />
-<script type="text/javascript" src="../../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/dlja-novichkov/bloki-i-kolca/funkcii-v-blokah-dva-poljusa-aspektnoj-leksiki" />
+<link rel="next" href="/teorija/dlja-novichkov/funkcii" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Индикаторы витала/ментала | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../../index.html">Главная</a></li>
-<li class="active"><a href="../../../teorija">Теория</a></li>
-<li><a href="../../../praktika">Практика</a></li>
-<li><a href="../../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../../teorija">Теория</a> &raquo; <a href="../../dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <a href="../bloki-i-kolca">Блоки и кольца модели А</a> &raquo; <span>Индикаторы витала/ментала</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <a href="/teorija/dlja-novichkov/bloki-i-kolca">Блоки и кольца модели А</a> &raquo; <span>Индикаторы витала/ментала</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h2>
@@ -337,15 +337,15 @@
 					<strong>Суперид</strong></p>
 			</td>
 		</tr></tbody></table><p>
-	<a href="http://socionicasys.org/forum/viewtopic.php?f=73&amp;t=4448" style="font-size:14px;line-height:1.5;">Витал/ментал</a><span style="font-size:14px;line-height:1.5;"> - сборник статей на форуме</span>Дополнительную информацию об индикаторах функций, примеры к таблице можете прочитать в книге <span class="name">Эглит И. М.</span> <a href="../../../biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа</a>.</p>
+	<a href="http://socionicasys.org/forum/viewtopic.php?f=73&amp;t=4448" style="font-size:14px;line-height:1.5;">Витал/ментал</a><span style="font-size:14px;line-height:1.5;"> - сборник статей на форуме</span>Дополнительную информацию об индикаторах функций, примеры к таблице можете прочитать в книге <span class="name">Эглит И. М.</span> <a href="/biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа</a>.</p>
 <p>
-	<a href="../../../praktika/spravochnik-po-indikatoram" style="font-size:14.3999996185303px;line-height:16.7999992370605px;background-color:rgb(255,255,255);">Программа Справочник индикаторов</a></p>
+	<a href="http://socionicasys.org/praktika/spravochnik-po-indikatoram" style="font-size:14.3999996185303px;line-height:16.7999992370605px;background-color:rgb(255,255,255);">Программа Справочник индикаторов</a></p>
 <p>
 	 </p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="funkcii-v-blokah-dva-poljusa-aspektnoj-leksiki">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="../funkcii.1">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/teorija/dlja-novichkov/bloki-i-kolca/funkcii-v-blokah-dva-poljusa-aspektnoj-leksiki">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/teorija/dlja-novichkov/funkcii">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -354,26 +354,26 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li class="active"><a href="../../dlja-novichkov">Соционика от новичка до эксперта</a>
+<li class="active"><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a>
 <ul>
-<li><a href="../chto-takoe-socionica">Что такое соционика?</a></li>
-<li><a href="../sistemy">Системный подход</a></li>
-<li><a href="../aspekty">Информационные аспекты</a></li>
-<li><a href="../model">Модель ТИМа</a></li>
-<li class="active"><a href="../bloki-i-kolca">Блоки и кольца модели А</a>
+<li><a href="/teorija/dlja-novichkov/chto-takoe-socionica">Что такое соционика?</a></li>
+<li><a href="/teorija/dlja-novichkov/sistemy">Системный подход</a></li>
+<li><a href="/teorija/dlja-novichkov/aspekty">Информационные аспекты</a></li>
+<li><a href="/teorija/dlja-novichkov/model">Модель ТИМа</a></li>
+<li class="active"><a href="/teorija/dlja-novichkov/bloki-i-kolca">Блоки и кольца модели А</a>
 <ul>
-<li><a href="funkcii-v-blokah-dva-poljusa-aspektnoj-leksiki">Функции в блоках: два полюса аспектной лексики</a></li>
+<li><a href="/teorija/dlja-novichkov/bloki-i-kolca/funkcii-v-blokah-dva-poljusa-aspektnoj-leksiki">Функции в блоках: два полюса аспектной лексики</a></li>
 <li class="selected"><span>Индикаторы витала/ментала</span></li>
 </ul>
 </li>
-<li><a href="../funkcii.1">Функции модели А</a></li>
-<li><a href="../opisanie-modelej">Описания моделей ТИМа</a></li>
-<li><a href="../mezhtimnye-otnoshenija.1">Интертипные отношения</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii">Функции модели А</a></li>
+<li><a href="/teorija/dlja-novichkov/opisanie-modelej">Описания моделей ТИМа</a></li>
+<li><a href="/teorija/dlja-novichkov/mezhtimnye-otnoshenija">Интертипные отношения</a></li>
 </ul>
 </li>
-<li><a href="../../po-ermaku">Соционика по Ермаку</a></li>
+<li><a href="/teorija/po-ermaku">Соционика по Ермаку</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -383,9 +383,11 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Кто изучил науки, а к делу их не применяет, словно тот, кто арык прорыл, а поле не засеял, или засеял, а урожаем не воспользовался»</p>	</blockquote>
-	<p class="random-quote-author">А. Навои</p>
-	<p class="random-quote-note">(БЛ и ЧЛ)</p>
+		<p>«К оружию следует прибегать в последнюю очередь, когда другие средства окажутся недостаточны.
+
+»</p>	</blockquote>
+	<p class="random-quote-author">Н. Макиавелли</p>
+	<p class="random-quote-note">(ЧС)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -427,7 +429,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

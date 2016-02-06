@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Соционика, модель психики, информационный метаболизм, с точки зрения системного подхода" />
 <meta name="keywords" content="соционика" />
-<link rel="stylesheet" type="text/css" href="../assets/303fc3c5/listview/styles.css?201408101514" />
-<link rel="stylesheet" type="text/css" href="../assets/555b66cd/pager.css?201408102249" />
-<script type="text/javascript" src="../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../assets/131831c9/jquery.ba-bbq.js"></script>
+<link rel="stylesheet" type="text/css" href="/assets/303fc3c5/listview/styles.css?201408101514" />
+<link rel="stylesheet" type="text/css" href="/assets/555b66cd/pager.css?201408102249" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/131831c9/jquery.ba-bbq.js"></script>
 <title>Новости | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw4">
-<li class="active"><a href="../index.html">Главная</a></li>
-<li><a href="../teorija">Теория</a></li>
-<li><a href="../praktika">Практика</a></li>
-<li><a href="../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../praktika/testy-proverki-znanij">Тесты</a></li>
+<li class="active"><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../index.html">Главная</a> &raquo; <span>Новости</span></div>	</nav>
+<a href="/">Главная</a> &raquo; <span>Новости</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<section >
 	<div id="yw1" class="list-view">
@@ -96,7 +96,7 @@
 	<p><time class="published updated" pubdate="" datetime="2011-07-19">19.07.2011</time></p>
 </header> 
 <p>
-	В библиотеку сайта добавлен видеоурок <a href="../biblioteka/video/34">Знаки функций. Часть 3. Функции ЧЭ, БЭ, ЧИ, БИ</a></p>
+	В библиотеку сайта добавлен видеоурок <a href="http://socionicasys.org/biblioteka/video/34">Знаки функций. Часть 3. Функции ЧЭ, БЭ, ЧИ, БИ</a></p>
 </article>
 <article class="news-item" id="item-45">
 <header>
@@ -104,7 +104,7 @@
 	<p><time class="published updated" pubdate="" datetime="2011-03-31">31.03.2011</time></p>
 </header> 
 <p>
-	В библиотеку сайта добавлен видеоурок <a href="../biblioteka/video/33">Знаки функций. Функции ЧЛ, БЛ, ЧС, БС</a></p>
+	В библиотеку сайта добавлен видеоурок <a href="http://socionicasys.org/biblioteka/video/33">Знаки функций. Функции ЧЛ, БЛ, ЧС, БС</a></p>
 </article>
 <article class="news-item" id="item-44">
 <header>
@@ -112,7 +112,7 @@
 	<p><time class="published updated" pubdate="" datetime="2011-03-29">29.03.2011</time></p>
 </header> 
 <p>
-	В Библиотеку добавлен видеоурок  <a href="../biblioteka/video/32">"Суперблоки Ментал и Витал"</a></p>
+	В Библиотеку добавлен видеоурок  <a href="http://socionicasys.org/biblioteka/video/32">"Суперблоки Ментал и Витал"</a></p>
 </article>
 <article class="news-item" id="item-43">
 <header>
@@ -120,7 +120,7 @@
 	<p><time class="published updated" pubdate="" datetime="2011-03-27">27.03.2011</time></p>
 </header> 
 <p>
-	Мы продолжаем знакомить вас с теорией соционики в форме обучающих видеолекций. Сегодня на сайт добавлен видеоматериал по теме <a href="../biblioteka/video/31">"Знаки функций. Часть 1 - область компетенции"</a></p>
+	Мы продолжаем знакомить вас с теорией соционики в форме обучающих видеолекций. Сегодня на сайт добавлен видеоматериал по теме <a href="http://socionicasys.org/biblioteka/video/31">"Знаки функций. Часть 1 - область компетенции"</a></p>
 </article>
 <article class="news-item" id="item-42">
 <header>
@@ -128,7 +128,7 @@
 	<p><time class="published updated" pubdate="" datetime="2011-03-23">23.03.2011</time></p>
 </header> 
 <p>
-	Добавлена видеолекция  <a href="../biblioteka/video/30">"Размерность функций. Параметр Tm"</a>. Лекция включает видеоматериалы, иллюстирирующие параметр времени.</p>
+	Добавлена видеолекция  <a href="http://socionicasys.org/biblioteka/video/30">"Размерность функций. Параметр Tm"</a>. Лекция включает видеоматериалы, иллюстирирующие параметр времени.</p>
 </article>
 <article class="news-item" id="item-41">
 <header>
@@ -136,7 +136,7 @@
 	<p><time class="published updated" pubdate="" datetime="2011-03-16">16.03.2011</time></p>
 </header> 
 <p>
-	Добавлена видеолекция <a href="../biblioteka/video/29">"Размерность функций. Параметр St"</a></p>
+	Добавлена видеолекция <a href="http://socionicasys.org/biblioteka/video/29">"Размерность функций. Параметр St"</a></p>
 </article>
 <article class="news-item" id="item-40">
 <header>
@@ -144,7 +144,7 @@
 	<p><time class="published updated" pubdate="" datetime="2011-03-16">16.03.2011</time></p>
 </header> 
 <p>
-	Добавлена видеолекция <a href="../biblioteka/video/28">"Размерность функций. Параметр Nr"</a></p>
+	Добавлена видеолекция <a href="http://socionicasys.org/biblioteka/video/28">"Размерность функций. Параметр Nr"</a></p>
 </article>
 <article class="news-item" id="item-39">
 <header>
@@ -152,7 +152,7 @@
 	<p><time class="published updated" pubdate="" datetime="2011-03-15">15.03.2011</time></p>
 </header> 
 <p>
-	Новый видеоматериал для обучения <a href="../biblioteka/video/27">"Размерность функций. Параметр Ex"</a></p>
+	Новый видеоматериал для обучения <a href="http://socionicasys.org/biblioteka/video/27">"Размерность функций. Параметр Ex"</a></p>
 </article>
 <article class="news-item" id="item-38">
 <header>
@@ -162,34 +162,34 @@
 <p>
 	«Наука — это систематическое расширение области человеческого незнания» (Роберт Гутовский)</p>
 <p>
-	Чтобы ответить на вопросы, которые чаще всего возникают в процессе обучения, чтобы прояснить более детально, более подробно некоторые непростые моменты анализа текстов, в раздел «Практика» добавлена новая страница <a href="../praktika/analiz-teksta-nekotorye-osobennosti">«Анализ текста: некоторые особенности»</a>, которая будет постоянно пополняться новыми статьми.</p></article>
+	Чтобы ответить на вопросы, которые чаще всего возникают в процессе обучения, чтобы прояснить более детально, более подробно некоторые непростые моменты анализа текстов, в раздел «Практика» добавлена новая страница <a href="/praktika/analiz-teksta-nekotorye-osobennosti">«Анализ текста: некоторые особенности»</a>, которая будет постоянно пополняться новыми статьми.</p></article>
 </div>
-<div class="pager">Перейти к странице: <ul id="yw2" class="yiiPager"><li class="first"><a href="../novosti">&lt;&lt; Первая</a></li>
-<li class="previous"><a href="3">&lt; Предыдущая</a></li>
-<li class="page"><a href="../novosti">1</a></li>
-<li class="page"><a href="2">2</a></li>
-<li class="page"><a href="3">3</a></li>
-<li class="page selected"><a href="4">4</a></li>
-<li class="page"><a href="5">5</a></li>
-<li class="page"><a href="6">6</a></li>
-<li class="page"><a href="7">7</a></li>
-<li class="page"><a href="8">8</a></li>
-<li class="next"><a href="5">Следующая &gt;</a></li>
-<li class="last"><a href="8">Последняя &gt;&gt;</a></li></ul></div><div class="keys" style="display:none" title="/novosti/4"><span>47</span><span>46</span><span>45</span><span>44</span><span>43</span><span>42</span><span>41</span><span>40</span><span>39</span><span>38</span></div>
+<div class="pager">Перейти к странице: <ul id="yw2" class="yiiPager"><li class="first"><a href="/novosti">&lt;&lt; Первая</a></li>
+<li class="previous"><a href="/novosti/3">&lt; Предыдущая</a></li>
+<li class="page"><a href="/novosti">1</a></li>
+<li class="page"><a href="/novosti/2">2</a></li>
+<li class="page"><a href="/novosti/3">3</a></li>
+<li class="page selected"><a href="/novosti/4">4</a></li>
+<li class="page"><a href="/novosti/5">5</a></li>
+<li class="page"><a href="/novosti/6">6</a></li>
+<li class="page"><a href="/novosti/7">7</a></li>
+<li class="page"><a href="/novosti/8">8</a></li>
+<li class="next"><a href="/novosti/5">Следующая &gt;</a></li>
+<li class="last"><a href="/novosti/8">Последняя &gt;&gt;</a></li></ul></div><div class="keys" style="display:none" title="/novosti/4"><span>47</span><span>46</span><span>45</span><span>44</span><span>43</span><span>42</span><span>41</span><span>40</span><span>39</span><span>38</span></div>
 </div></section>
 	</div>
 </div>
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw3">
-<li class="active"><a href="../index.html">Главная</a>
+<li class="active"><a href="/">Главная</a>
 <ul>
-<li><a href="../chto-takoe-sistemnaja-socionika">Что такое системная соционика?</a></li>
-<li><a href="../o-shkole">О Школе системной соционики</a></li>
-<li><a href="../faq-po-socionike">FAQ по соционике</a></li>
-<li><a href="../poisk">Поиск по темам</a></li>
+<li><a href="/chto-takoe-sistemnaja-socionika">Что такое системная соционика?</a></li>
+<li><a href="/o-shkole">О Школе системной соционики</a></li>
+<li><a href="/faq-po-socionike">FAQ по соционике</a></li>
+<li><a href="/poisk">Поиск по темам</a></li>
 <li class="selected"><span>Новости</span></li>
-<li><a href="../kontakty">Контакты</a></li>
+<li><a href="/kontakty">Контакты</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -199,9 +199,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«О будущем не терзайтесь. Его нет. Его вы ткёте своим настоящим»</p>	</blockquote>
-	<p class="random-quote-author">К. Е. Антарова</p>
-	<p class="random-quote-note">(БИ)</p>
+		<p>«Только истинно человечный человек способен и любить, и ненавидеть»</p>	</blockquote>
+	<p class="random-quote-author">Конфуций</p>
+	<p class="random-quote-note">(БЭ, ЧИ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -243,9 +243,9 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
-<script type="text/javascript" src="../assets/303fc3c5/listview/jquery.yiilistview.js?201408101514"></script>
+<script type="text/javascript" src="/assets/303fc3c5/listview/jquery.yiilistview.js?201408101514"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 jQuery(function($) {

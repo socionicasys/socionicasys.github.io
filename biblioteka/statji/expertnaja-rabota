@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Рассматривается методика экспертной оценки в приложении к процессу определения ТИМ психики в соционике, описаны компоненты экспертной работы, сформулированы критерии качества для инструмента оценки, для оцениваемой информации, для эталона сравнения." />
 <meta name="keywords" content="Экспертная оценка, метод экспертной оценки, эталон сравнения, объект экспертизы, субъект экспертизы, ТИМ, идентификация, определение ТИМ, диагностика ТИМ, типирование" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Экспертная работа в соционике | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Экспертная работа в соционике</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Экспертная работа в соционике</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -433,11 +433,11 @@
 <ol><li>
 		<span class="name">Денисова А. Л.</span>, <span class="name">Зайцев Е. В.</span> Теория и практика экспертной оценки товаров и услуг: Учеб. пособие. — Тамбов: Изд-во Тамб. гос. техн. ун-та, 2002. — 72 с.</li>
 	<li>
-		<span class="name">Ермак В. Д.</span> <a href="iskusstvo-voprosov">Искусство вопросов и некоторые вопросы интервьюирования в процессе идентификации ТИМ психики</a> // Соционика, ментология и психология личности. — 2006. — № 6.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/statji/iskusstvo-voprosov">Искусство вопросов и некоторые вопросы интервьюирования в процессе идентификации ТИМ психики</a> // Соционика, ментология и психология личности. — 2006. — № 6.</li>
 	<li>
-		<span class="name">Ермак В. Д.</span> <a href="../knigi#ermak-kak-nauchitsja-ponimat-ludej">Как научиться понимать людей. Соционика — новый метод познания человека</a>. — М.: ООО «Астрель»: ООО «Издательство АСТ», 2003. — 523, [5] с.:ил. — (Ты и твой тип).</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/knigi#ermak-kak-nauchitsja-ponimat-ludej">Как научиться понимать людей. Соционика — новый метод познания человека</a>. — М.: ООО «Астрель»: ООО «Издательство АСТ», 2003. — 523, [5] с.:ил. — (Ты и твой тип).</li>
 	<li>
-		<span class="name">Ермак В. Д.</span> <a href="../../userimages/theory/ART75(REPT20)_identifikaciya.doc">Проблемы идентификации. Некоторые особенности верификации модели ТИМ психики</a> // Доклад на XXIII Международной конференции по соционике. — Киев. — 2007.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/statji/problemy-identifikacii">Проблемы идентификации. Некоторые особенности верификации модели ТИМ психики</a> // Доклад на XXIII Международной конференции по соционике. — Киев. — 2007.</li>
 	<li>
 		<span class="name">Орлов А. И.</span> <a href="http://antorlov.chat.ru/expertoc.htm">Современный этап развития теории экспертных оценок</a>.</li>
 	<li>
@@ -453,11 +453,11 @@
 	<li>
 		<a href="http://ref.net.ua/work/det-36221.html">Экспертный метод оценки риска</a>.</li>
 	<li>
-		<span class="name">Эглит И. М.</span>, <span class="name">Еремеева Н. Г.</span>, <span class="name">Тенетилов Г. В.</span>, <span class="name">Фломан Н. Н</span>. <a href="o-vozmozhnosti-falsifikacii">О возможности фальсификации типируемым своего ТИМа психики при вербальном типировании</a> // Соционика, ментология и психология личности. — 2008. — № 1.</li>
+		<span class="name">Эглит И. М.</span>, <span class="name">Еремеева Н. Г.</span>, <span class="name">Тенетилов Г. В.</span>, <span class="name">Фломан Н. Н</span>. <a href="/biblioteka/statji/o-vozmozhnosti-falsifikacii">О возможности фальсификации типируемым своего ТИМа психики при вербальном типировании</a> // Соционика, ментология и психология личности. — 2008. — № 1.</li>
 	<li>
 		<span class="name">Эглит И. М</span>. Влияние ТИМа типировщика на результаты типирования // Доклад на XXIII международной конференции по соционике. — Киев. — 2007.</li>
 	<li>
-		<span class="name">Эглит И. М</span>. <a href="praktika-primenenija-protokolov">Практика применения протоколов при заочной идентификации ТИМ психики в Интернете</a> // Соционика, ментология и психология личности — 2005. — № 5.</li>
+		<span class="name">Эглит И. М</span>. <a href="/biblioteka/statji/praktika-primenenija-protokolov">Практика применения протоколов при заочной идентификации ТИМ психики в Интернете</a> // Соционика, ментология и психология личности — 2005. — № 5.</li>
 </ol><p>
 	<a href="http://socionicasys.org/forum/statji/ehglit-i-pyatnickij-v-ehkspertnaya-rabota-v-socionike-t2753.html">Обсуждение на форуме</a></p>
 </article>
@@ -501,7 +501,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

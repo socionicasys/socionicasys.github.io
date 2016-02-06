@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Приведен краткий обзор возникновения и развития соционики, ее предмета и объекта. Рассмотрен принцип выделения 16 типов информационного метаболизма, объединения ТИМов в квадры и социон. Дан взгляд на соционику и ее роль с точки зрения системного подхода." />
 <meta name="keywords" content="соционика, история соционики, Аушра Аугустинавичюте, ТИМ, тип информционного метаболизма,информационный метаболизм, аспект, психические функции, системный подход, модель ТИМ, идентификация ТИМ, интертипные отношения, квадра, социон, приложения соционики." />
-<link rel="prev" href="../po-ermaku" />
-<link rel="next" href="sistemnyj-podhod" />
-<script type="text/javascript" src="../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/po-ermaku" />
+<link rel="next" href="/teorija/po-ermaku/sistemnyj-podhod" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Краткий обзор науки | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../index.html">Главная</a></li>
-<li class="active"><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../teorija">Теория</a> &raquo; <a href="../po-ermaku">Соционика по Ермаку</a> &raquo; <span>Краткий обзор науки</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/po-ermaku">Соционика по Ермаку</a> &raquo; <span>Краткий обзор науки</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -51,7 +51,7 @@
 <p>
 	Истоки соционики можно обнаружить в работах выдающихся психологов ХХ века Зигмунда Фрейда и Карла Густава Юнга. Первый в начале века выявил три уровня человеческой психики, а второй развил эти идеи и создал первую научную типологию психики человека (1921 г.). В последующие десятилетия эту типологию совершенствовали (<span class="name">И. Майерс-Бриггс</span>), кое-что уточняли (<span class="name">П. Ганнушкин</span>, <span class="name">Э. Кречмер</span>, <span class="name">А. Личко</span>, <span class="name">К. Леонгард</span> и др.), однако типология оставалась только констатацией наличия 16 типов психики. Само по себе это кое-что даёт для практики, поэтому типология <span class="name">К. Г. Юнга</span> — <span class="name">И. Майерс-Бриггс</span> до сих пор используется, например, в США.</p>
 <p>
-	<img alt="Аушра Аугустинавичюте" src="../../images/pictures/Aushra.jpg" style="float:left;margin-right:1em;border-top-color:#888888;border-left-color:#888888;border-right-color:#888888;border-bottom-color:#888888;border-top-width:1px;border-left-width:1px;border-right-width:1px;border-bottom-width:1px;border-top-style:solid;border-left-style:solid;border-right-style:solid;border-bottom-style:solid;width:175px;height:233px;margin-top:5px;margin-bottom:5px;" />Литовская исследовательница Аушра Аугустинавичюте сделала решающий шаг — на основе типологии <span class="name">K. Г. Юнга</span> и теории информационного метаболизма А. Кемпинского построила модель психики человека (1968 г.), которая хорошо отображает структуру и механизмы функционирования психики человека (Homo psychicus). Так возникла <span class="term">соционика</span>, которая рассматривает личность, группу, этнос, нацию как носителей определенного типа информационного метаболизма (обмена информацией с окружающим миром, структуры и механизмов функционирования психики), ценностные ориентиры которых, а также взаимодействие друг с другом и с окружающим миром определяются структурой психики каждого типа; каждому типу информационного метаболизма (ТИМ) соответствует своя модель.</p>
+	<img alt="Аушра Аугустинавичюте" src="/images/pictures/Aushra.jpg" style="float:left;margin-right:1em;border-top-color:#888888;border-left-color:#888888;border-right-color:#888888;border-bottom-color:#888888;border-top-width:1px;border-left-width:1px;border-right-width:1px;border-bottom-width:1px;border-top-style:solid;border-left-style:solid;border-right-style:solid;border-bottom-style:solid;width:175px;height:233px;margin-top:5px;margin-bottom:5px;" />Литовская исследовательница Аушра Аугустинавичюте сделала решающий шаг — на основе типологии <span class="name">K. Г. Юнга</span> и теории информационного метаболизма А. Кемпинского построила модель психики человека (1968 г.), которая хорошо отображает структуру и механизмы функционирования психики человека (Homo psychicus). Так возникла <span class="term">соционика</span>, которая рассматривает личность, группу, этнос, нацию как носителей определенного типа информационного метаболизма (обмена информацией с окружающим миром, структуры и механизмов функционирования психики), ценностные ориентиры которых, а также взаимодействие друг с другом и с окружающим миром определяются структурой психики каждого типа; каждому типу информационного метаболизма (ТИМ) соответствует своя модель.</p>
 <p>
 	Как и все новые науки, соционика родилась на стыке уже существующих наук — психологии, социологии и информатики. От этих, а также ряда других пограничных наук, соционика заимствовала немало: накопленные знания о человеке, некоторую терминологию, методики и т.п. Современное состояние соционических знаний сформировано работами основательницы соционики <span class="name">А. Аугустинавичюте</span> и её школы (<span class="name">Н. Медведев</span>, <span class="name">В. Ляшкявичюс</span>, <span class="name">Л. Станкевичюте</span>, <span class="name">Г. Рейнин</span> и др.), а также в значительной степени киевской группой (школой) соционики (<span class="name">А. Букалов</span>, <span class="name">В. Гуленко</span>, <span class="name">В. Ермак</span>, <span class="name">И. Онуфриенко</span>, <span class="name">Г. Шульман</span> и др.), которая сегодня занимает ведущее положение в соционике.</p>
 <p style="text-align:center;">
@@ -96,8 +96,8 @@
 	Что касается приложений соционики — они разнообразны. Можно с уверенностью утверждать: там, где решающую роль играют личностные качества человека (а где это не так?), там соционика может быть инструментом анализа и прогноза. Предварительные проработки по применению соционики как инструмента гуманитарных наук позволяют ожидать высокую эффективность в психологии, социологии, педагогике, этнологии, исторических и социальных исследованиях, критике (анализе произведений литературы, искусства, театра и кино) и других.</p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="../po-ermaku">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="sistemnyj-podhod">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/teorija/po-ermaku">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/teorija/po-ermaku/sistemnyj-podhod">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -106,19 +106,19 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li><a href="../dlja-novichkov">Соционика от новичка до эксперта</a></li>
-<li class="active"><a href="../po-ermaku">Соционика по Ермаку</a>
+<li><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a></li>
+<li class="active"><a href="/teorija/po-ermaku">Соционика по Ермаку</a>
 <ul>
 <li class="selected"><span>Краткий обзор науки</span></li>
-<li><a href="sistemnyj-podhod">Системный подход</a></li>
-<li><a href="inform-potok">Информационный поток</a></li>
-<li><a href="model-tima">Модель ТИМa</a></li>
-<li><a href="vozrastnoje-razvitije">Возрастное развитие</a></li>
-<li><a href="i-timy">Интегральные ТИМы</a></li>
-<li><a href="otnoshenija">Межтипные отношения</a></li>
-<li><a href="identifikacija">Идентификация ТИМа</a></li>
+<li><a href="/teorija/po-ermaku/sistemnyj-podhod">Системный подход</a></li>
+<li><a href="/teorija/po-ermaku/inform-potok">Информационный поток</a></li>
+<li><a href="/teorija/po-ermaku/model-tima">Модель ТИМa</a></li>
+<li><a href="/teorija/po-ermaku/vozrastnoje-razvitije">Возрастное развитие</a></li>
+<li><a href="/teorija/po-ermaku/i-timy">Интегральные ТИМы</a></li>
+<li><a href="/teorija/po-ermaku/otnoshenija">Межтипные отношения</a></li>
+<li><a href="/teorija/po-ermaku/identifikacija">Идентификация ТИМа</a></li>
 </ul>
 </li>
 </ul>
@@ -130,8 +130,8 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Вот оно время в его наготе, оно осуществляется медленно, его приходится ждать, а когда оно наступает, становится тошно, потому что замечаешь, что оно давно уже здесь»</p>	</blockquote>
-	<p class="random-quote-author">Жан-Поль Сартр</p>
+		<p>«Люди думают, что время течет, а время думает, что люди проходят»</p>	</blockquote>
+	<p class="random-quote-author">Тибетская поговорка</p>
 	<p class="random-quote-note">(БИ)</p>
 </section>
 <!--/noindex-->
@@ -174,7 +174,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Рассмотрены особенности профессионального обучения эксперта, необходимые условия для точной и надежной диагностики ТИМа." />
 <meta name="keywords" content="эксперт, измерительный инструмент, эталон сравнения, опыт типировщика, соционическое самонаблюдение, соционика, соционическая диагностика, дигностика ТИМа, определение ТИМа, типирование, подготовка эксперта, обучение эксперта, типировщик" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Эксперт как измерительный инструмент | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Эксперт как измерительный инструмент</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Эксперт как измерительный инструмент</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -56,7 +56,7 @@
 <p class="aside">
 	<em>Ключевые слова</em>: эксперт, измерительный инструмент, эталон сравнения, опыт типировщика, соционическое самонаблюдение.</p>
 <p>
-	Особое внимание следует уделить субъекту экспертизы — типировщику, так как именно его психика является тем инструментом, с помощью которого определяется ТИМ человека. С точки зрения деловой логики <img alt="(ЧЛ)" height="12" src="../../images/symbols/aspect_P.png?1" title="ЧЛ" width="12" /> понятно, что инструмент должен быть в рабочем состоянии, готов к употреблению. Когда мы говорим о материальных инструментах, то тут всё очевидно: нож должен быть заточен, гайки закручены, прибор откалиброван. А что такое подготовленный нематериальный инструмент — психика эксперта?</p>
+	Особое внимание следует уделить субъекту экспертизы — типировщику, так как именно его психика является тем инструментом, с помощью которого определяется ТИМ человека. С точки зрения деловой логики <img alt="(ЧЛ)" height="12" src="/images/symbols/aspect_P.png?1" title="ЧЛ" width="12" /> понятно, что инструмент должен быть в рабочем состоянии, готов к употреблению. Когда мы говорим о материальных инструментах, то тут всё очевидно: нож должен быть заточен, гайки закручены, прибор откалиброван. А что такое подготовленный нематериальный инструмент — психика эксперта?</p>
 <h2>
 	Что входит в подготовку эксперта?</h2>
 <p>
@@ -183,11 +183,11 @@
 <ol class="literature"><li>
 		<span class="name">Букалов А. В</span>. <a href="http://www.socionics.ibc.com.ua/pdf/as-p203.pdf">Структура и размерность функций информационного метаболизма</a> // Соционика, ментология и психология личности. — 1995. — № 2. — С. 5–9.</li>
 	<li>
-		<span class="name">Эглит И. М.</span> <a href="../knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа. Самоучитель от А до Я</a>. — М.: Черная Белка, 2010. — 304 с.</li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа. Самоучитель от А до Я</a>. — М.: Черная Белка, 2010. — 304 с.</li>
 	<li>
-		<span class="name">Эглит И. М.</span>, <span class="name">Пятницкий В. В.</span> <a href="issledovanie-strahov">Исследование страхов в одномерных функциях</a> // Соционика, ментология и психология личности. — 2009. — № 4.</li>
+		<span class="name">Эглит И. М.</span>, <span class="name">Пятницкий В. В.</span> <a href="/biblioteka/statji/issledovanie-strahov">Исследование страхов в одномерных функциях</a> // Соционика, ментология и психология личности. — 2009. — № 4.</li>
 	<li>
-		<span class="name">Эглит И. М.</span>, <span class="name">Пятницкий В. В</span>. <a href="traktovka-nekotoryh-strannostej">Трактовка странностей поведения человека с точки зрения модели А</a> // Соционика, ментология и психология личности. — 2009. — № 1.</li>
+		<span class="name">Эглит И. М.</span>, <span class="name">Пятницкий В. В</span>. <a href="/biblioteka/statji/traktovka-nekotoryh-strannostej">Трактовка странностей поведения человека с точки зрения модели А</a> // Соционика, ментология и психология личности. — 2009. — № 1.</li>
 </ol><p>
 	<a href="http://socionicasys.org/forum/statji/video-ehglit-i-m-ehkspert-kak-izmeritelnyj-instrument-t3788.html">Обсуждение на форуме</a></p>
 </article>
@@ -231,7 +231,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

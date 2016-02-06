@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Описаны особенности методики определения ТИМа (и в целом подхода к соционике) в Школе системной соционики, которые отличают ее от других подходов и позволяют показывать высокие результаты качества." />
 <meta name="keywords" content="методика определения ТИМа, школа системной соционики, отличительные особенности, соционические школы, качественный подход, соционика" />
-<link rel="prev" href="../praktika" />
-<link rel="next" href="metodika" />
-<script type="text/javascript" src="../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/praktika" />
+<link rel="next" href="/praktika/metodika" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Отличительные особенности методики ШСС | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../index.html">Главная</a></li>
-<li><a href="../teorija">Теория</a></li>
-<li class="active"><a href="../praktika">Практика</a></li>
-<li><a href="../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li class="active"><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../praktika">Практика</a> &raquo; <span>Отличительные особенности методики ШСС</span></div>	</nav>
+<a href="/praktika">Практика</a> &raquo; <span>Отличительные особенности методики ШСС</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -53,15 +53,15 @@
 <p>
 	Обоснованием версии считается показ соответствия обработки информации типируемым одной из 16 моделей ТИМа, т. е. типировщики должны показать, что функция ИМ имеет определенную размерность, знак и тальность. Определение места одной функции в модели считается достаточным, так как нет пары функций, совпадающих по всем параметрам. В практике диагностики в ШСС принято показывать место всех функций в модели, что увеличивает надежность результата.</p>
 <p>
-	<strong>Обоснование версии ТИМа должно быть зафиксировано (протоколировано)</strong>. (см. <a href="metodika/protokoly-diagnostiki">Протоколы диагностики ТИМа</a>)</p>
+	<strong>Обоснование версии ТИМа должно быть зафиксировано (протоколировано)</strong>. (см. <a href="/praktika/metodika/protokoly-diagnostiki">Протоколы диагностики ТИМа</a>)</p>
 <p>
-	2. <strong>Понимание информации — как субъективного образования</strong>, возникающего в психике человека в момент взаимодействия с миром, то есть аспекты информации не содержатся в реальности. Мы определяем субъективное восприятие, а не реальность. (см. <a href="../teorija/dlja-novichkov/aspekty">Информационный аспект. Субъективность восприятия</a> )</p>
+	2. <strong>Понимание информации — как субъективного образования</strong>, возникающего в психике человека в момент взаимодействия с миром, то есть аспекты информации не содержатся в реальности. Мы определяем субъективное восприятие, а не реальность. (см. <a href="/teorija/dlja-novichkov/aspekty">Информационный аспект. Субъективность восприятия</a> )</p>
 <p>
-	3. В ШСС происходит <strong>определение ТИМа по позиционно-ранжирующей модели</strong>, то есть определяется место функции в модели по свойствам, отличающим одну функцию от другой (размерность, знак, тальность). При этом каждое свойство функции выделяется монополярно: есть или нет. (см. <a href="../teorija/dlja-novichkov/funkcii.1">Функции</a>)</p>
+	3. В ШСС происходит <strong>определение ТИМа по позиционно-ранжирующей модели</strong>, то есть определяется место функции в модели по свойствам, отличающим одну функцию от другой (размерность, знак, тальность). При этом каждое свойство функции выделяется монополярно: есть или нет. (см. <a href="/teorija/dlja-novichkov/funkcii">Функции</a>)</p>
 <p>
 	4. <strong>Материалом определения ТИМа является преимущественно речь</strong>, так как речь ближе всего находится к мышлению, и по нашим наблюдениям человек в обычной жизни не в состоянии управлять своей речью настолько, чтобы удалить из нее все индикаторы обработки информации. Индикаторами функций в речи является как состав лексики, так и употребление определенных речевых конструкций, передача определенного смысла.</p>
 <p>
-	В ШСС не ведется подсчет аспектной лексики, так как этот способ не ведет к монополярному выбору «да/нет». Количество лексики зависит не только от ТИМа, но и от наполнения функций (образования, среды воспитания и жизни). Особенность лексики используется только для выдвижения гипотезы ТИМа. Основной упор делается на смысловое содержание речи и выявление индикаторов размерности, знака и тальности функций. Индикаторы являются сигналами монополярного выбора: да/нет. (см. <a href="metodika/indikatory-funkcij">Индикаторы функций</a>)</p>
+	В ШСС не ведется подсчет аспектной лексики, так как этот способ не ведет к монополярному выбору «да/нет». Количество лексики зависит не только от ТИМа, но и от наполнения функций (образования, среды воспитания и жизни). Особенность лексики используется только для выдвижения гипотезы ТИМа. Основной упор делается на смысловое содержание речи и выявление индикаторов размерности, знака и тальности функций. Индикаторы являются сигналами монополярного выбора: да/нет. (см. <a href="/praktika/metodika/indikatory-funkcij">Индикаторы функций</a>)</p>
 <p>
 	5. <strong>Отказ от биполярных моделей</strong>, в том числе отказ от определения ТИМа по дихотомиям логика/этика, интуиция/сенсорика, экстраверсия/интроверсия, рациональность/иррациональность, так как эти «дихотомии», как свойства реальной психики, не соответствуют требованию взаимоисключаемости, они противоположны, но не противоречивы (см. <a href="http://www.i-u.ru/biblio/archive/chelpanov_ul/ec4.aspx"><span class="name">Челпанов Г. И.</span> «Учебник логики», пункт 4. Логические категории и отношения между понятиями</a>), а для психики эксперта нет инструмента измерения количества и качества составных частей этих полюсов.</p>
 <p>
@@ -71,9 +71,9 @@
 <p>
 	8. <strong>Отказ от использования визуальной диагностики</strong> в качестве основания для определения ТИМа, так как отсутствует однозначная корреляция между внешним видом и информационным метаболизмом. Визуальный образ ТИМа используется только на этапе выдвижения гипотезы.</p>
 <p>
-	9. <strong>Отказ от опоры на образ ТИМа</strong> как основания для диагностики, так как образ ТИМа опирается на первую размерность обработки информации и по своей природе — индивидуален (см. <a href="../biblioteka/statji/obraz-tima"><span class="name">Эглит И. М.</span> Образ ТИМа</a>).</p>
+	9. <strong>Отказ от опоры на образ ТИМа</strong> как основания для диагностики, так как образ ТИМа опирается на первую размерность обработки информации и по своей природе — индивидуален (см. <a href="/biblioteka/statji/obraz-tima"><span class="name">Эглит И. М.</span> Образ ТИМа</a>).</p>
 <p>
-	10. <strong>Использование групповой диагностики</strong> (2–3 человека) с целью дополнения «слепых» мест типировщиков. <strong>Использование техник, снижающих субъективность типировщиков</strong> (см. <a href="metodika/obshchie-pravila-analiza">Общие правила анализа информации</a>).</p>
+	10. <strong>Использование групповой диагностики</strong> (2–3 человека) с целью дополнения «слепых» мест типировщиков. <strong>Использование техник, снижающих субъективность типировщиков</strong> (см. <a href="/praktika/metodika/obshchie-pravila-analiza">Общие правила анализа информации</a>).</p>
 <p>
 	 </p>
 <p>
@@ -85,13 +85,13 @@
 <ol><li>
 		<a href="http://socionicasys.org/forum/viewtopic.php?f=73&amp;t=4453">Материалы на форуме</a></li>
 	<li>
-		<a href="../biblioteka/statji/tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov">Статья Эглит И.М. "Точность диагностики ТИМа. Сравнение двух подходов."</a></li>
+		<a href="/biblioteka/statji/tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov">Статья Эглит И.М. "Точность диагностики ТИМа. Сравнение двух подходов."</a></li>
 	<li>
-		<a href="experimenty/sverka-shodimosti-v-shss">Сверка сходимости в ШСС</a></li>
+		<a href="http://socionicasys.org/praktika/experimenty/sverka-shodimosti-v-shss">Сверка сходимости в ШСС</a></li>
 </ol><nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="../praktika">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="metodika">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/praktika">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/praktika/metodika">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -100,18 +100,18 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../praktika">Практика</a>
+<li class="active"><a href="/praktika">Практика</a>
 <ul>
 <li class="selected"><span>Отличительные особенности методики ШСС</span></li>
-<li><a href="metodika">Методика удаленной диагностики</a></li>
-<li><a href="programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
-<li><a href="spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
-<li><a href="metodika/ekspertnaja-rabota">Экспертная работа в соционике</a></li>
-<li><a href="etapy-obuchenija">Этапы обучения</a></li>
-<li><a href="uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
-<li><a href="analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
-<li><a href="experimenty">Эксперименты и исследования ШСС</a></li>
-<li><a href="socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
+<li><a href="/praktika/metodika">Методика удаленной диагностики</a></li>
+<li><a href="/praktika/programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
+<li><a href="/praktika/spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
+<li><a href="/praktika/metodika/ekspertnaja-rabota">Экспертная работа в соционике</a></li>
+<li><a href="/praktika/etapy-obuchenija">Этапы обучения</a></li>
+<li><a href="/praktika/uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
+<li><a href="/praktika/analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
+<li><a href="/praktika/experimenty">Эксперименты и исследования ШСС</a></li>
+<li><a href="/praktika/socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -121,9 +121,11 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Кто может владеть собою, тот может повелевать людьми»</p>	</blockquote>
-	<p class="random-quote-author">Вольтер</p>
-	<p class="random-quote-note">(ЧС)</p>
+		<p>«Давай наставления только тому, кто ищет знаний, обнаружив свое невежество. Оказывай помощь только тому, кто не умеет внятно высказать свои заветные думы. Обучай только того, кто способен, узнав про один угол квадрата, представить себе остальные три.
+
+»</p>	</blockquote>
+	<p class="random-quote-author">Конфуций</p>
+	<p class="random-quote-note">(ЧИ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -165,7 +167,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

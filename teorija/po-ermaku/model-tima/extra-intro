@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Дано определение понятий &quot;экстраверсия/интроверсия&quot; в соционике, рассмотрено отличие данного понимания от распространенного в психологии" />
 <meta name="keywords" content="экстраверсия, интроверсия, ТИМ психики, экстраверт, интроверт, сущность, отношение, исходная установка, результирующая установка, модель ТИМ" />
-<link rel="prev" href="rac-irrac" />
-<link rel="next" href="opisanie-modelej" />
-<script type="text/javascript" src="../../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/po-ermaku/model-tima/rac-irrac" />
+<link rel="next" href="/teorija/po-ermaku/model-tima/opisanie-modelej" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Экстраверсия — интроверсия | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../../index.html">Главная</a></li>
-<li class="active"><a href="../../../teorija">Теория</a></li>
-<li><a href="../../../praktika">Практика</a></li>
-<li><a href="../../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../../teorija">Теория</a> &raquo; <a href="../../po-ermaku">Соционика по Ермаку</a> &raquo; <a href="../model-tima">Модель ТИМa</a> &raquo; <span>Экстраверсия/интроверсия</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/po-ermaku">Соционика по Ермаку</a> &raquo; <a href="/teorija/po-ermaku/model-tima">Модель ТИМa</a> &raquo; <span>Экстраверсия/интроверсия</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -63,7 +63,7 @@
 <ul><li>
 		если в одном случае (<span class="name">К. Г. Юнг</span> прав!): «движение интереса направлено на объект», т. е. исходным в субъект-объектном взаимодействии является понимание <em>сущности объекта</em> (намерений, целей, соображений, ценностей), а результатом — некое <em>отношение</em> («интерес» к объекту) — <strong>экстраверсия</strong>,</li>
 	<li>
-		то в другом случае «центром всех интересов» (отношений!) может быть не только сам субъект, но и любой объект, на который субъект как бы переносит<a class="footnote" href="extra-intro#footnote-1" id="backref-1" title="Это некоторым образом похоже на тот фрейдовский «перенос», трактовку которого К. Г. Юнг расширил в пятой тевистокской лекции, где привёл довольно яркие примеры интровертного поведения своих пациентов [2].">1</a> свой интерес — проявляет некоторое <em>отношение</em>, исходя из которого и строит субъект-объектные взаимодействия с <em>сущностью</em> собственной или объекта своего интереса — <strong>интроверсия</strong>.</li>
+		то в другом случае «центром всех интересов» (отношений!) может быть не только сам субъект, но и любой объект, на который субъект как бы переносит<a class="footnote" href="#footnote-1" id="backref-1" title="Это некоторым образом похоже на тот фрейдовский «перенос», трактовку которого К. Г. Юнг расширил в пятой тевистокской лекции, где привёл довольно яркие примеры интровертного поведения своих пациентов [2].">1</a> свой интерес — проявляет некоторое <em>отношение</em>, исходя из которого и строит субъект-объектные взаимодействия с <em>сущностью</em> собственной или объекта своего интереса — <strong>интроверсия</strong>.</li>
 </ul><p>
 	Такое уточнение интровертной установки мог бы сделать и сам <span class="name">К. Г. Юнг</span> — во всяком случае, через пятнадцать лет после выхода в свет «Психологических типов», в своих тевистокских лекциях и дискуссиях 1935 года он уже привёл достаточно информации для этого [2].</p>
 <p>
@@ -75,7 +75,7 @@
 </ul><p>
 	Во взаимодействии с окружающим миром, в общении реальные люди с экстравертной и интровертной установками отличаются друг от друга, в основном, вербально. Хотя у хорошо реализованного экстраверта (напомним — ориентированного, т. е. действующего, творящего в <em>отношениях</em>) часто бывает внешность, про которую говорят «открытый человек» или «у него открытое лицо». Это, конечно, не никак не значит, что интроверт — это внешне замкнутый, сосредоточенный человек, погружённый в свой внутренний мир (хотя в психологии, некритично восприняв <span class="name">К. Г. Юнга</span>, интроверта, судя по литературе, часто изображают именно так). Вербальные и невербальные признаки экстравертов и интровертов, конечно, можно использовать в процессе идентификации ТИМ психики для выбора <em>гипотезы</em> ТИМ психики конкретного человека, соблюдая известную осторожность во избежание ошибок.</p>
 <p>
-	Таким образом, оказывается, что и шкала <em>«экстраверсия–интроверсия»</em> в приложении к ТИМ психики является <em>вторичной</em> и так же, как шкала «рациональность–иррациональность», определяется расположением психических функций в модели и блоках. Степень проявленности <em>экстраверсии</em> или <em>интроверсии</em> реального человека также определяется <em>наполненностью</em> соответствующих психических функций модели ТИМ психики реальной, жизненной информацией<a class="footnote" href="extra-intro#footnote-2" id="backref-2" title="«Называя какого-то человека интровертом, вы имеете в виду, что в принципе он более склонен к интроверсии, но ему присущи и элементы экстраверсии; всем нам присуще и то и другое, иначе мы были бы не в состоянии приспосабливаться, влиять на окружающих, и вообще были бы вне себя» (К. Г. Юнг).">2</a>. При этом, совершенно очевидно, что экстраверт при любом наполнении психических функций никак не может стать интровертом — структура модели ТИМ психики остаётся неизменной.</p>
+	Таким образом, оказывается, что и шкала <em>«экстраверсия–интроверсия»</em> в приложении к ТИМ психики является <em>вторичной</em> и так же, как шкала «рациональность–иррациональность», определяется расположением психических функций в модели и блоках. Степень проявленности <em>экстраверсии</em> или <em>интроверсии</em> реального человека также определяется <em>наполненностью</em> соответствующих психических функций модели ТИМ психики реальной, жизненной информацией<a class="footnote" href="#footnote-2" id="backref-2" title="«Называя какого-то человека интровертом, вы имеете в виду, что в принципе он более склонен к интроверсии, но ему присущи и элементы экстраверсии; всем нам присуще и то и другое, иначе мы были бы не в состоянии приспосабливаться, влиять на окружающих, и вообще были бы вне себя» (К. Г. Юнг).">2</a>. При этом, совершенно очевидно, что экстраверт при любом наполнении психических функций никак не может стать интровертом — структура модели ТИМ психики остаётся неизменной.</p>
 <h2>
 	Литература</h2>
 <ol class="literature"><li>
@@ -83,13 +83,13 @@
 	<li>
 		<span class="name">Юнг К. Г.</span> Тевистокские лекции. Аналитическая психология: её теория и практика / Составл., предисл. и перевод с англ. <span class="name">В. Менжулина</span>. — Киев: СИНТО, 1995.</li>
 </ol><hr /><p id="footnote-1">
-	<a class="footnote" href="extra-intro#backref-1">1</a> Это некоторым образом похоже на тот фрейдовский «перенос», трактовку которого <span class="name">К. Г. Юнг</span> расширил в пятой тевистокской лекции, где привёл довольно яркие примеры интровертного поведения своих пациентов [2].</p>
+	<a class="footnote" href="#backref-1">1</a> Это некоторым образом похоже на тот фрейдовский «перенос», трактовку которого <span class="name">К. Г. Юнг</span> расширил в пятой тевистокской лекции, где привёл довольно яркие примеры интровертного поведения своих пациентов [2].</p>
 <p id="footnote-2">
-	<a class="footnote" href="extra-intro#backref-2">2</a> «Называя какого-то человека интровертом, вы имеете в виду, что в принципе он более склонен к интроверсии, но ему присущи и элементы экстраверсии; всем нам присуще и то и другое, иначе мы были бы не в состоянии приспосабливаться, влиять на окружающих, и вообще были бы вне себя» (<span class="name">К. Г. Юнг</span>).</p>
+	<a class="footnote" href="#backref-2">2</a> «Называя какого-то человека интровертом, вы имеете в виду, что в принципе он более склонен к интроверсии, но ему присущи и элементы экстраверсии; всем нам присуще и то и другое, иначе мы были бы не в состоянии приспосабливаться, влиять на окружающих, и вообще были бы вне себя» (<span class="name">К. Г. Юнг</span>).</p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="rac-irrac">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="opisanie-modelej">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/teorija/po-ermaku/model-tima/rac-irrac">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/teorija/po-ermaku/model-tima/opisanie-modelej">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -98,27 +98,27 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li><a href="../../dlja-novichkov">Соционика от новичка до эксперта</a></li>
-<li class="active"><a href="../../po-ermaku">Соционика по Ермаку</a>
+<li><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a></li>
+<li class="active"><a href="/teorija/po-ermaku">Соционика по Ермаку</a>
 <ul>
-<li><a href="../obzor">Краткий обзор науки</a></li>
-<li><a href="../sistemnyj-podhod">Системный подход</a></li>
-<li><a href="../inform-potok">Информационный поток</a></li>
-<li class="active"><a href="../model-tima">Модель ТИМa</a>
+<li><a href="/teorija/po-ermaku/obzor">Краткий обзор науки</a></li>
+<li><a href="/teorija/po-ermaku/sistemnyj-podhod">Системный подход</a></li>
+<li><a href="/teorija/po-ermaku/inform-potok">Информационный поток</a></li>
+<li class="active"><a href="/teorija/po-ermaku/model-tima">Модель ТИМa</a>
 <ul>
-<li><a href="http://socionicasys.org/teorija/po-ermaku/model-tima/bloki-i-superbloki">Блоки и суперблоки</a></li>
-<li><a href="funkcii">Функции</a></li>
-<li><a href="rac-irrac">(Ир-)рациональность</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/bloki-i-superbloki">Блоки и суперблоки</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/funkcii">Функции</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/rac-irrac">(Ир-)рациональность</a></li>
 <li class="selected"><span>Экстраверсия/интроверсия</span></li>
-<li><a href="opisanie-modelej">Описание моделей ТИМа (Ермак, Росланкина)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej">Описание моделей ТИМа (Ермак, Росланкина)</a></li>
 </ul>
 </li>
-<li><a href="../vozrastnoje-razvitije">Возрастное развитие</a></li>
-<li><a href="../i-timy">Интегральные ТИМы</a></li>
-<li><a href="../otnoshenija">Межтипные отношения</a></li>
-<li><a href="../identifikacija">Идентификация ТИМа</a></li>
+<li><a href="/teorija/po-ermaku/vozrastnoje-razvitije">Возрастное развитие</a></li>
+<li><a href="/teorija/po-ermaku/i-timy">Интегральные ТИМы</a></li>
+<li><a href="/teorija/po-ermaku/otnoshenija">Межтипные отношения</a></li>
+<li><a href="/teorija/po-ermaku/identifikacija">Идентификация ТИМа</a></li>
 </ul>
 </li>
 </ul>
@@ -130,9 +130,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Если тело женщин ухожено, всегда найдется тот, кто купит ей норковую шубу»</p>	</blockquote>
-	<p class="random-quote-author">И.-С. Лоран</p>
-	<p class="random-quote-note">(ЧС)</p>
+		<p>«Предчувствие — это своего рода подмена. Иногда оно превосходит реальность и становится чем-то живым. И в этом главная опасность предчувствия»</p>	</blockquote>
+	<p class="random-quote-author">Харуки Мураками </p>
+	<p class="random-quote-note">(БИ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -174,7 +174,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Рассмотрено применение списка страхов на этапе выдвижения гипотезы ТИМа психики при типировании. Приведен список страхов по маломерным функциям." />
 <meta name="keywords" content="список страхов, диагностика ТИМа, определение ТИМа, типирование, тестирование страхов, гипотеза ТИМа, маломерные функции" />
-<link rel="prev" href="pogruzhenie-v-aspektnuju-sredu" />
-<link rel="next" href="samoocenka-tipiruemyh" />
-<script type="text/javascript" src="../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/praktika/metodika/pogruzhenie-v-aspektnuju-sredu" />
+<link rel="next" href="/praktika/metodika/samoocenka-tipiruemyh" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Тестирование страхов | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,31 +25,31 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li class="active"><a href="../../praktika">Практика</a></li>
-<li><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li class="active"><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../praktika">Практика</a> &raquo; <a href="../metodika">Методика удаленной диагностики</a> &raquo; <span>Тестирование страхов</span></div>	</nav>
+<a href="/praktika">Практика</a> &raquo; <a href="/praktika/metodika">Методика удаленной диагностики</a> &raquo; <span>Тестирование страхов</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
 	Тестирование страхов</h1>
 <p>
-	<a href="testirovanie-strahov#spisok-strahov">Список страхов</a> был составлен на основе материалов исследования, которое проводилось на респондентах, чей ТИМ известен и проверен, знающих модель А, изучивших свой ТИМ и наблюдающих за своими реакциями с соционической точки зрения, и которые описали свои страхи в одномерных функциях<a class="footnote" href="testirovanie-strahov#footnote-1" id="backref-1" title="Эглит И. М., Пятницкий В. В. Исследование страхов в одномерных функциях.">1</a>. Списки страхов предлагается использовать на этапе выдвижения гипотезы ТИМа психики при типировании. Типируемым предлагается ознакомиться со списком, в котором страхи собраны бессистемно и без указания на аспект информации. Отмечено, что типируемые узнают «свои» страхи. Результаты зависят от способности человека быть честным перед собой и от наработанного опыта рефлексии. Выделение типируемым страхов только по определенным аспектам информации (одному/двум), может указать типировщику предполагаемые одномерные функции типируемого. Если типируемый находит очень много «своих» страхов, т. е. выходит за рамки 2-х аспектов информации, следует:</p>
+	<a href="#spisok-strahov">Список страхов</a> был составлен на основе материалов исследования, которое проводилось на респондентах, чей ТИМ известен и проверен, знающих модель А, изучивших свой ТИМ и наблюдающих за своими реакциями с соционической точки зрения, и которые описали свои страхи в одномерных функциях<a class="footnote" href="#footnote-1" id="backref-1" title="Эглит И. М., Пятницкий В. В. Исследование страхов в одномерных функциях.">1</a>. Списки страхов предлагается использовать на этапе выдвижения гипотезы ТИМа психики при типировании. Типируемым предлагается ознакомиться со списком, в котором страхи собраны бессистемно и без указания на аспект информации. Отмечено, что типируемые узнают «свои» страхи. Результаты зависят от способности человека быть честным перед собой и от наработанного опыта рефлексии. Выделение типируемым страхов только по определенным аспектам информации (одному/двум), может указать типировщику предполагаемые одномерные функции типируемого. Если типируемый находит очень много «своих» страхов, т. е. выходит за рамки 2-х аспектов информации, следует:</p>
 <ol><li>
 		Выяснить, что понимает типируемый под каждым выбранным им страхом, часто страх маломерной функции «прячется» под формулировку от многомерной функции — своеобразная психологическая защита.</li>
 	<li>
@@ -163,11 +163,11 @@
 	<li>
 		боязнь признаться не только другим, но и себе (или думать об этом) в том, что уже заболел и нужно принимать меры.</li>
 </ul><hr /><p id="footnote-1">
-	<a class="footnote" href="testirovanie-strahov#backref-1">1</a> <span class="name">Эглит И. М.</span>, <span class="name">Пятницкий В. В.</span> <a href="../../biblioteka/statji/issledovanie-strahov">Исследование страхов в одномерных функциях</a>.</p>
+	<a class="footnote" href="#backref-1">1</a> <span class="name">Эглит И. М.</span>, <span class="name">Пятницкий В. В.</span> <a href="/biblioteka/statji/issledovanie-strahov">Исследование страхов в одномерных функциях</a>.</p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="pogruzhenie-v-aspektnuju-sredu">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="samoocenka-tipiruemyh">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/praktika/metodika/pogruzhenie-v-aspektnuju-sredu">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/praktika/metodika/samoocenka-tipiruemyh">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -176,35 +176,35 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../praktika">Практика</a>
+<li class="active"><a href="/praktika">Практика</a>
 <ul>
-<li><a href="../otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
-<li class="active"><a href="../metodika">Методика удаленной диагностики</a>
+<li><a href="/praktika/otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
+<li class="active"><a href="/praktika/metodika">Методика удаленной диагностики</a>
 <ul>
-<li><a href="osobennosti-udalennogo-tipirovanija">Особенности удаленной диагностики</a></li>
-<li><a href="procedura-diagnostiki">Процедура диагностики</a></li>
-<li><a href="anketirovanie">Анкетирование и требование к вопросам</a></li>
-<li><a href="sochinenija">Сочинения</a></li>
-<li><a href="pogruzhenie-v-aspektnuju-sredu">«Погружение» в аспектную среду</a></li>
+<li><a href="/praktika/metodika/osobennosti-udalennogo-tipirovanija">Особенности удаленной диагностики</a></li>
+<li><a href="/praktika/metodika/procedura-diagnostiki">Процедура диагностики</a></li>
+<li><a href="/praktika/metodika/anketirovanie">Анкетирование и требование к вопросам</a></li>
+<li><a href="/praktika/metodika/sochinenija">Сочинения</a></li>
+<li><a href="/praktika/metodika/pogruzhenie-v-aspektnuju-sredu">«Погружение» в аспектную среду</a></li>
 <li class="selected"><span>Тестирование страхов</span></li>
-<li><a href="samoocenka-tipiruemyh">Самооценка типируемых</a></li>
-<li><a href="ob-otvetah-tipiruemyh">Об ответах типируемых </a></li>
-<li><a href="obshchie-pravila-analiza">Общие правила анализа </a></li>
-<li><a href="edinica-analiza-teksta">Единица анализа текста</a></li>
-<li><a href="indikatory-funkcij">Индикаторы функций</a></li>
-<li><a href="protokoly-diagnostiki">Протоколы диагностики ТИМа</a></li>
-<li><a href="posle-diagnostiki">После диагностики ТИМа</a></li>
-<li><a href="sovershenstvovanie-masterstva">Совершенствование мастерства</a></li>
+<li><a href="/praktika/metodika/samoocenka-tipiruemyh">Самооценка типируемых</a></li>
+<li><a href="/praktika/metodika/ob-otvetah-tipiruemyh">Об ответах типируемых </a></li>
+<li><a href="/praktika/metodika/obshchie-pravila-analiza">Общие правила анализа </a></li>
+<li><a href="/praktika/metodika/edinica-analiza-teksta">Единица анализа текста</a></li>
+<li><a href="/praktika/metodika/indikatory-funkcij">Индикаторы функций</a></li>
+<li><a href="/praktika/metodika/protokoly-diagnostiki">Протоколы диагностики ТИМа</a></li>
+<li><a href="/praktika/metodika/posle-diagnostiki">После диагностики ТИМа</a></li>
+<li><a href="/praktika/metodika/sovershenstvovanie-masterstva">Совершенствование мастерства</a></li>
 </ul>
 </li>
-<li><a href="../programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
-<li><a href="../spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
-<li><a href="ekspertnaja-rabota">Экспертная работа в соционике</a></li>
-<li><a href="../etapy-obuchenija">Этапы обучения</a></li>
-<li><a href="../uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
-<li><a href="../analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
-<li><a href="../experimenty">Эксперименты и исследования ШСС</a></li>
-<li><a href="../socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
+<li><a href="/praktika/programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
+<li><a href="/praktika/spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
+<li><a href="/praktika/metodika/ekspertnaja-rabota">Экспертная работа в соционике</a></li>
+<li><a href="/praktika/etapy-obuchenija">Этапы обучения</a></li>
+<li><a href="/praktika/uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
+<li><a href="/praktika/analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
+<li><a href="/praktika/experimenty">Эксперименты и исследования ШСС</a></li>
+<li><a href="/praktika/socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -214,9 +214,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Только два стимула заставляют работать людей: жажда заработной платы и боязнь ее потерять»</p>	</blockquote>
-	<p class="random-quote-author">Генри Форд</p>
-	<p class="random-quote-note">(ЧС, ЧЛ)</p>
+		<p>«Худшее преступление, которое мы можем совершить по отношению к людям, — это не ненавидеть их, а относиться к ним равнодушно; в этом — суть бесчеловечности»</p>	</blockquote>
+	<p class="random-quote-author">Джордж Бернард Шоу</p>
+	<p class="random-quote-note">(ЧИ, БЭ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -258,7 +258,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="" />
 <meta name="keywords" content="" />
-<link rel="prev" href="../testy-proverki-znanij" />
-<link rel="next" href="testy-na-opredelenie-aspektov-bloka-funkcij" />
-<script type="text/javascript" src="../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/praktika/testy-proverki-znanij" />
+<link rel="next" href="/praktika/testy-proverki-znanij/testy-na-opredelenie-aspektov-bloka-funkcij" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Тесты на определение аспекта информации | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li class="active"><a href="../testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li class="active"><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../testy-proverki-znanij">Тесты</a> &raquo; <span>Тесты на определение аспекта информации</span></div>	</nav>
+<a href="/praktika/testy-proverki-znanij">Тесты</a> &raquo; <span>Тесты на определение аспекта информации</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1 class="definition">
@@ -51,25 +51,25 @@
 <p>
 	<strong>Теоретическая информация</strong> по теме "Аспекты"</p>
 <p>
-	<a href="../../teorija/dlja-novichkov/aspekty">Информационные аспекты. Субъективность восприятия</a></p>
+	<a href="http://socionicasys.org/teorija/dlja-novichkov/aspekty">Информационные аспекты. Субъективность восприятия</a></p>
 <p>
 	<a href="http://socionicasys.org/teorija/po-ermaku/inform-potok/aspekty">Семантика аспектов</a></p>
 <p>
 	 </p>
 <p>
-	<a href="../../public/tutorial/tutorial_aspect_1.HTML">ТЕСТ №1</a> для начинающих. Тест включает 20 словосочетаний с прямым значением слов. Например, "грустно до слез": значение - "энергетическое состояние", аспект ЧЭ.</p>
+	<a href="http://socionicasys.org/public/tutorial/tutorial_aspect_1.HTML">ТЕСТ №1</a> для начинающих. Тест включает 20 словосочетаний с прямым значением слов. Например, "грустно до слез": значение - "энергетическое состояние", аспект ЧЭ.</p>
 <p>
-	<a href="../../public/tutorial/tutorial_aspect_2.HTML">ТЕСТ №2</a> для начинающих. Тест включает 20 словосочетаний с переносным значением слов. Аспект информации определяется по переносному значению. Например, "бить в точку": значение - "точно выявить суть", аспект ЧИ.</p>
+	<a href="http://socionicasys.org/public/tutorial/tutorial_aspect_2.HTML">ТЕСТ №2</a> для начинающих. Тест включает 20 словосочетаний с переносным значением слов. Аспект информации определяется по переносному значению. Например, "бить в точку": значение - "точно выявить суть", аспект ЧИ.</p>
 <p>
-	<a href="../../public/tutorial/tutorial_aspect_3.HTML">ТЕСТ №3</a>  Тест включает 20 текстов, взятых из разных источников. Аспект информации определяется по смыслу всего текста. Для правильного определения аспекта, ответьте для себя на вопрос: "О чем этот текст?", сведя ответ к основным понятиям аспектов: об эмоциях, об отношениях, о соотношении в пространстве, о силе (границах), об объектах, о соотношении объектов, о возможностях (сути, смысле), о времени (соотношении возможностей). </p>
+	<a href="http://socionicasys.org/public/tutorial/tutorial_aspect_3.HTML">ТЕСТ №3</a>  Тест включает 20 текстов, взятых из разных источников. Аспект информации определяется по смыслу всего текста. Для правильного определения аспекта, ответьте для себя на вопрос: "О чем этот текст?", сведя ответ к основным понятиям аспектов: об эмоциях, об отношениях, о соотношении в пространстве, о силе (границах), об объектах, о соотношении объектов, о возможностях (сути, смысле), о времени (соотношении возможностей). </p>
 <p>
-	<a href="../../public/tutorial/tutorial_aspect_4.HTML">ТЕСТ №4</a>  Тест включает 20 словосочетаний, которые могут иметь как прямое, так и переносное значение. Например, "вить веревки". Прямое значение - действие с объектом, аспект ЧЛ; переносное значение - подчинить своей воле, аспект ЧС. В данном тесте требуется определить аспект переносного значения словосочетания. </p>
+	<a href="http://socionicasys.org/public/tutorial/tutorial_aspect_4.HTML">ТЕСТ №4</a>  Тест включает 20 словосочетаний, которые могут иметь как прямое, так и переносное значение. Например, "вить веревки". Прямое значение - действие с объектом, аспект ЧЛ; переносное значение - подчинить своей воле, аспект ЧС. В данном тесте требуется определить аспект переносного значения словосочетания. </p>
 <p>
-	<a href="../../public/tutorial/tutorial_aspect_5.HTML">ТЕСТ №5</a> Тест включает 20 текстов, взятых из разных источников. Аспект информации определяется по смыслу всего текста. Для правильного определения аспекта, ответьте для себя на вопрос: "О чем этот текст?", сведя ответ к основным понятиям аспектов: об эмоциях, об отношениях, о соотношении в пространстве, о силе (границах), об объектах, о соотношении объектов, о возможностях (сути, смысле), о времени (соотношении возможностей). </p>
+	<a href="http://socionicasys.org/public/tutorial/tutorial_aspect_5.HTML">ТЕСТ №5</a> Тест включает 20 текстов, взятых из разных источников. Аспект информации определяется по смыслу всего текста. Для правильного определения аспекта, ответьте для себя на вопрос: "О чем этот текст?", сведя ответ к основным понятиям аспектов: об эмоциях, об отношениях, о соотношении в пространстве, о силе (границах), об объектах, о соотношении объектов, о возможностях (сути, смысле), о времени (соотношении возможностей). </p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="../testy-proverki-znanij">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="testy-na-opredelenie-aspektov-bloka-funkcij">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/praktika/testy-proverki-znanij">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/praktika/testy-proverki-znanij/testy-na-opredelenie-aspektov-bloka-funkcij">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -78,12 +78,12 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../testy-proverki-znanij">Тесты</a>
+<li class="active"><a href="/praktika/testy-proverki-znanij">Тесты</a>
 <ul>
 <li class="selected"><span>Тесты на определение аспекта информации</span></li>
-<li><a href="testy-na-opredelenie-aspektov-bloka-funkcij">Тесты на определение блока функций</a></li>
-<li><a href="testy-na-opredelenie-znakov-funkcij">Тесты на определение знаков функций</a></li>
-<li><a href="testy-na-opredelenie-razmernosti-funkcij">Тесты на определение размерности функций</a></li>
+<li><a href="/praktika/testy-proverki-znanij/testy-na-opredelenie-aspektov-bloka-funkcij">Тесты на определение блока функций</a></li>
+<li><a href="/praktika/testy-proverki-znanij/testy-na-opredelenie-znakov-funkcij">Тесты на определение знаков функций</a></li>
+<li><a href="/praktika/testy-proverki-znanij/testy-na-opredelenie-razmernosti-funkcij">Тесты на определение размерности функций</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -93,9 +93,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Невозмутимость мудрецов есть не что иное, как умение скрывать свои волнения»</p>	</blockquote>
-	<p class="random-quote-author">Ларошфуко</p>
-	<p class="random-quote-note">(ЧЭ)</p>
+		<p>«Государю нет необходимости обладать всеми добродетелями, но есть прямая необходимость выглядеть обладающим ими»</p>	</blockquote>
+	<p class="random-quote-author">Н. Макиавелли</p>
+	<p class="random-quote-note">(ЧИ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -137,7 +137,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

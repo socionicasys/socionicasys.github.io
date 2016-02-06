@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Исследуется проблема принятия ТИМа, ее причины и последствия" />
 <meta name="keywords" content="ТИМ, диагностика ТИМа, определение ТИМа, типирование, принятие ТИМа, результат диагностики" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Для тех, кто в танке | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Для тех, кто в танке</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Для тех, кто в танке</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -94,9 +94,9 @@
 <p>
 	Неприятие ТИМа — это всегда вражда и борьба с собой. Многовековой опыт человечества показывает, что ни к чему хорошему это не приводит. Наоборот, все учения говорят о том, что нужно научиться себя понимать и принимать, отсюда только начало пути понимания и приятия других.</p>
 <p>
-	Ну и напоследок, конечно же, нужно пояснить и такой момент. Все что тут написано, касается только тех людей, кто не принимает свой истинный ТИМ, но не тот, который «от фонаря» определен на каком-то соционическом форуме. А как различить? А вот тут нужно опять быть честным с собой. Слушайте себя<a class="footnote" href="dlja-teh-kto-v-tanke#footnote-1" id="backref-1" title="А о том, как научиться слушать себя, я обязательно напишу отдельно.">1</a>. Слушайте свои страхи. Они выдадут вам правду. Только вы сами себе истинный различитель.</p>
+	Ну и напоследок, конечно же, нужно пояснить и такой момент. Все что тут написано, касается только тех людей, кто не принимает свой истинный ТИМ, но не тот, который «от фонаря» определен на каком-то соционическом форуме. А как различить? А вот тут нужно опять быть честным с собой. Слушайте себя<a class="footnote" href="#footnote-1" id="backref-1" title="А о том, как научиться слушать себя, я обязательно напишу отдельно.">1</a>. Слушайте свои страхи. Они выдадут вам правду. Только вы сами себе истинный различитель.</p>
 <hr /><p id="footnote-1">
-	<a class="footnote" href="dlja-teh-kto-v-tanke#backref-1">1</a> А о том, как научиться слушать себя, я обязательно напишу отдельно.</p>
+	<a class="footnote" href="#backref-1">1</a> А о том, как научиться слушать себя, я обязательно напишу отдельно.</p>
 <p>
 	<a href="http://socionicasys.org/forum/statji/irina-ehglit-dlya-tekh-kto-v-tanke-t3796.html">Обсуждение на форуме</a></p>
 </article>
@@ -140,7 +140,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

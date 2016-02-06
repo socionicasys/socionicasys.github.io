@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="В третьей части цикла, посвященного применению лингвистического анализа при идентификации ИТИМов, исследуется концепт «Ordnung» («порядок») в немецком языке с позиции лингвистического и соционического анализа." />
 <meta name="keywords" content="соционика, модель А, порядок, Ordnung, БЛ, структурная логика, интегральные типы информационного метаболизма, язык, лингвистика, концепт" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Использование инструментов лингвистического анализа в определении интегральных ТИМов. Часть 3. | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Использование инструментов лингвистического анализа в определении…</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Использование инструментов лингвистического анализа в определении…</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -318,9 +318,9 @@
 <p>
 	5.  <em>Медведева, Т. С. </em>Ключевые концепты немецкой лингвокультуры: монография / Т. С. Медведева, М. В. Опарин, Д. И. Медведева; под ред. Т. И. Зелениной. – Ижевск: Изд-во «Удмуртский университет», 2011. – 160 с.</p>
 <p>
-	6<em>. Тумольская В.А.</em> <a href="ispolzovanie_instrumentov_lingvisticheskogo_analiza_chast_1">Использование инструментов лингвистического анализа в определении интегральных ТИМов. Часть 1.</a> // СМиПЛ, 2015, №2.</p>
+	6<em>. Тумольская В.А.</em> <a href="http://socionicasys.org/biblioteka/statji/ispolzovanie_instrumentov_lingvisticheskogo_analiza_chast_1">Использование инструментов лингвистического анализа в определении интегральных ТИМов. Часть 1.</a> // СМиПЛ, 2015, №2.</p>
 <p>
-	7. <em>Тумольская В.А.</em> <a href="ispolzovanie_instrumentov_lingvisticheskogo_analiza_chast_2">Использование инструментов лингвистического анализа в определении интегральных ТИМов. Часть 2.</a> <span style="font-size:14px;line-height:16.8px;background-color:rgb(255,255,255);">// СМиПЛ, 2015, №4.</span></p>
+	7. <em>Тумольская В.А.</em> <a href="http://socionicasys.org/biblioteka/statji/ispolzovanie_instrumentov_lingvisticheskogo_analiza_chast_2">Использование инструментов лингвистического анализа в определении интегральных ТИМов. Часть 2.</a> <span style="font-size:14px;line-height:16.8px;background-color:rgb(255,255,255);">// СМиПЛ, 2015, №4.</span></p>
 <p style="margin-left:14.2pt;">
 	 </p>
 <p style="margin-left:14.2pt;">
@@ -366,7 +366,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

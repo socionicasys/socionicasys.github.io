@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="В статье высказаны гипотезы об особенностях и назначении одномерных психических функций как на уровне личности так и на уровне социона." />
 <meta name="keywords" content="Одномерность, одномерная функция, опыт, сменяемость квадр, параметр функции, соционика, ТИМ, модель ТИМа" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Некоторые соображения о феномене одномерности | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Некоторые соображения о феномене одномерности</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Некоторые соображения о феномене одномерности</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -96,7 +96,7 @@
 <p>
 	Мерности в законе сменяемости квадр можно толковать следующим образом. Первая квадра (с которой гипотетически начинается развитие) имеет 4 мерности. По мере смены квадр мерности убавляются, и в четвертой квадре остается одна только мерность опыта. Как уже говорилось выше, это не означает, что количество информации в четвертой квадре меньше. Просто эта информация носит характер твердо установленной, проверенной на многолетнем опыте, тогда как в первой квадре она носит характер новых идей. Далее следует скачок к первой квадре, и процесс повторяется. На новом витке развития информация опыта, содержащаяся в предыдущей четвертой квадре переходит в мерность опыта новой первой квадры. Здесь можно провести аналогию с жизнью человека: пока он молод, содержание его жизни составляют возможности, потенциалы, варианты. По мере взросления жизнь приобретает очерченный, устоявшийся характер, а к старости человек становится воплощением жизненного опыта.</p>
 <p style="text-align:center;">
-	<img alt="Схема сменяемости квадр" src="../../images/diagrams/smeniajemost.jpg" style="width:604px;height:487px;" /><br />
+	<img alt="Схема сменяемости квадр" src="/images/diagrams/smeniajemost.jpg" style="width:604px;height:487px;" /><br />
 	Рис. 1</p>
 <p>
 	Мы попытались проиллюстрировать процесс сменяемости квадр на Рис.1. Здесь бросается в глаза одна деталь: увеличение опыта от периода к периоду идет непрерывно, тогда как увеличение объема идей движется скачками. Откуда, тогда берутся новые идеи? Можно предположить, что откуда-то извне. Заметим, что начальной предпосылкой было движение развития от первой квадры к четвертой, т. е. от идеи к опыту. Если предположить обратный ход развития, то есть от опыта к идее, то картина изменится на противоположную.</p>
@@ -151,7 +151,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

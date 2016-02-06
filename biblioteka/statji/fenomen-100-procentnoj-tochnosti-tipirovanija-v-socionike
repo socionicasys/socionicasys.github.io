@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Показана сущностная разница между тремя подходами к соционической диагностике" />
 <meta name="keywords" content="соционика, ТИМ, диагностика,  типирование,  образ типа, модель ТИМа, соционические признаки." />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Феномен 100-процентной точности типирования в соционике | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Феномен 100-процентной точности типирования в соционике</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Феномен 100-процентной точности типирования в соционике</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -61,7 +61,7 @@
 	Что же представляет из себя каждый из них?<br /><br />
 	1. Типирование на уровне образов<br /><br />
 	Когда человек типирует на уровне образов, он сличает внутреннее представление о типе, сложившееся у него в результате наблюдения какого-то количества эталонных типов. Например, его учитель соционики показал ученику несколько габенов и несколько джеков. И у ученика сформировались некие образы габена и джека. Оставим в стороне вопрос о том, сколько имеено представителей каждого ТИМа в состоянии показать учитель во время обучения и как точно они определены. Сейчас главное другое. <br /><br />
-	Главное то, что при таком подходе формируется индивидуальный образ, который принципиально непередаваем и не подлежит сравнению с образами других экспертов. Как отмечала И.Эглит[<a href="obraz-tima">http://socionicasys.org/biblioteka/statji/obraz-tima</a>], такой образ ТИМа формируется на уровне первой размерности функций – размерности «Ex», «опыт». Практически это означает, что диагност видит типируемого и просто узнает в нем определенный ТИМ так же, как будто он узнает, например, зеленый цвет, когда смотрит на зеленый предмет. Посмотрел – определил.<br /><br />
+	Главное то, что при таком подходе формируется индивидуальный образ, который принципиально непередаваем и не подлежит сравнению с образами других экспертов. Как отмечала И.Эглит[<a href="http://socionicasys.org/biblioteka/statji/obraz-tima">http://socionicasys.org/biblioteka/statji/obraz-tima</a>], такой образ ТИМа формируется на уровне первой размерности функций – размерности «Ex», «опыт». Практически это означает, что диагност видит типируемого и просто узнает в нем определенный ТИМ так же, как будто он узнает, например, зеленый цвет, когда смотрит на зеленый предмет. Посмотрел – определил.<br /><br />
 	Казалось бы – высший класс, к такому нужно только стремиться. Да не тут-то было. Если вы спросите эксперта, который пользуется типированием на уровне образов, а как он себя перепроверяет, вы поставите его в тупик. Особенность такого подхода заключается в том, что размерность «опыт» не имеет инструментов сличения и перепроверки. Эта способность появляется со следующей размерностью обработки информации, которая называется «норма». Отсюда понятно, что для размерности «опыт» вопрос о перепроверке даже не возникает. Она просто не может перепроверить себя. Она работает по принципу: «смотрю и вижу». Сомневаетесь ли вы что видите зеленый цвет, когда смотрите на зеленый предмет? Возникает ли у вас необходимость перепроверить, что он именно зеленый? Как вы это делаете? И самый главный вопрос: с какой вероятностью вы обычно оцените достоверность того, что вы видите зеленый цвет? 100%, не правда ли? <br /><br />
 	Широко распространенное в соционике типирование по образам, собственно, и порождает тот печальный феномен, когда каждый соционик на 100% уверен в своей диагностике и при этом никто ни с кем не сходится и никто никому ничего доказать не может.<br /><br /><br />
 	2. Типирование на уровне признаков<br /><br />
@@ -120,7 +120,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

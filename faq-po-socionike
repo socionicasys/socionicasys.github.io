@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Даны ответы на часто встречающиеся вопросы" />
 <meta name="keywords" content="соционика, FAQ" />
-<link rel="prev" href="o-shkole/eksperty/julija-goldjuk" />
-<link rel="next" href="poisk" />
-<script type="text/javascript" src="assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/o-shkole/eksperty/julija-goldjuk" />
+<link rel="next" href="/poisk" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>FAQ по соционике | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,31 +25,31 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li class="active"><a href="index.html">Главная</a></li>
-<li><a href="teorija">Теория</a></li>
-<li><a href="praktika">Практика</a></li>
-<li><a href="biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="praktika/testy-proverki-znanij">Тесты</a></li>
+<li class="active"><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="index.html">Главная</a> &raquo; <span>FAQ по соционике</span></div>	</nav>
+<a href="/">Главная</a> &raquo; <span>FAQ по соционике</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
 	FAQ по соционике</h1>
 <p>
-	<a href="faq-po-socionike#chto-takoe-socionika"> Что такое соционика?</a><br /><a href="faq-po-socionike#chto-takoe-sistemnaja-socionika"> Что такое системная соционика?</a><br /><a href="faq-po-socionike#chto-takoe-tim"> Что такое ТИМ?</a><br /><a href="faq-po-socionike#izmeniaetsa-li-tim"> Изменяется ли ТИМ в ходе жизни?</a><br /><a href="faq-po-socionike#kak-mozhno-vseh-ludej-zpihnut-v-16-timov"> Как можно всех людей «запихнуть» в 16 ТИМов?</a><br /><a href="faq-po-socionike#suschestvujut-li-podtipy"> Существуют ли подтипы?</a><br /><a href="faq-po-socionike#chto-takoe-model-a"> Что такое Модель А?</a><br /><a href="faq-po-socionike#o-poniatii-aspekta-i-funkcii"> О понятии аспекта и функции в ШСС</a><br /><a href="faq-po-socionike#chto-znachit-opredelit-tim"> Что значит определить ТИМ?</a><br /><a href="faq-po-socionike#mozhno-li-dostoverno-opredelit-tim"> Можно ли достоверно определить ТИМ?</a><br /><a href="faq-po-socionike#mozhno-li-opredelit-tim-po-testu"> Можно ли определить ТИМ по тесту-опроснику?</a><br /><a href="faq-po-socionike#mozhno-li-opredelit-tim-po-vneshnim-priznakam"> Можно ли определить ТИМ по внешним признакам?</a><br /><a href="faq-po-socionike#pochemu-neobhodimo-opiratsa-na-indikatory"> Почему необходимо опираться на индикаторы в идентификации ТИМа?</a><br /><a href="faq-po-socionike#o-neobhodimosti-ponimanija-prichiny-reakcii"> О необходимости понимания причины реакции в диагностике</a><br /><a href="faq-po-socionike#zavisiat-li-najdennye-parametry-ot-stilja-napisanija"> Зависят ли найденные параметры от стиля написания, употребленной лексики?</a><br /><a href="faq-po-socionike#v-chem-sostoit-problema-sravnenija-s-obrazom-tima"> В чем состоит проблема сравнения с образом ТИМа?</a><br /><a href="faq-po-socionike#o-sravnenii-s-povedenijem"> О сравнении с поведением, конкретными проявлениями работы функций</a><br /><a href="faq-po-socionike#mozhno-li-falsificirovat-tim"> Можно ли фальсифицировать ТИМ?</a><br /><a href="faq-po-socionike#o-priznakovom-i-modelnom-podhode"> О признаковом и модельном подходах в диагностике</a><br /><a href="faq-po-socionike#chto-daet-znanie-tima"> Что дает знание ТИМа?</a><br /><a href="faq-po-socionike#gde-zakanchivaetsa-kompetencija-socioniki"> Где заканчивается компетенция соционики? (Что может и чего не может соционика?)</a><br /><a href="faq-po-socionike#o-sootnoshenii-timov-v-shss-i-drugih-shkolah"> О соотношении ТИМов в ШСС и в других школах</a><br /><a href="faq-po-socionike#mozhet-li-socionika-prognozirovat-otnoshenija"> Может ли соционика прогнозировать отношения между людьми?</a><br /><a href="faq-po-socionike#mozhet-li-informacija-ozvuchennaja-po-idu-zadevat-duala"> Может ли информация, озвученная по Иду, задевать дуала по ф.4?</a><br /><a href="faq-po-socionike#o-cennostiah-kvadry"> О ценностях квадры</a><br /><a href="faq-po-socionike#o-socionike-i-py"> О соционике и ПЙ</a><br /><a href="faq-po-socionike#o-mehanizme-razmernostej"> О механизме размерностей</a><br /><a href="faq-po-socionike#sviazany-li-vyrazhennost-i-razmernost"> Связаны ли выраженность функций и размерность?</a><br /><a href="faq-po-socionike#o-poniatii-umestnosti-i-razmernosti-funkcij"> О понятии уместности и размерности функции</a><br /><a href="faq-po-socionike#po-kakim-funkcijam-chelovek-mozhet-ignorirovat-obschestvennoe-mnenie"> По каким функциям человек может игнорировать общественное мнение?</a><br /><a href="faq-po-socionike#o-kolichestve-variantov-i-razmernosti-intuicii"> О количестве вариантов и размерности интуиции</a><br /><a href="faq-po-socionike#o-nezamechanii-strahov"> О незамечании страхов по маломерным</a><br /><a href="faq-po-socionike#mozhno-li-natrenirovat-slabye-funkcii"> Можно ли натренировать «слабые» функции?</a><br /><a href="faq-po-socionike#o-trebovanii-norm-odnomernoj-funkciej"> О "требовании норм" одномерной функцией</a><br /><a href="faq-po-socionike#o-nazyvanii-norm-odnomernoj-funkciej"> О назывании  норм одномерной функцией</a><br /><a href="faq-po-socionike#o-vozmozhnosti-opredelit-odnomernyje-pri-pomoschi-tekstov"> О возможности определить одномерные функции при помощи текстов</a><br /><a href="faq-po-socionike#vozmozhny-li-interesy-po-4-funkcii"> Возможны ли интересы по четвертой функции</a><br /><a href="faq-po-socionike#o-tom-pocheme-ne-vse-projavlenija-odnomernoj-zadevajut"> О том, почему не все проявления по одномерной задевают</a><br /><a href="faq-po-socionike#vozmozhny-li-boleznennyje-reakcii-po-suggestivnoj"> Возможны ли болезненные реакции по суггестивной?</a><br /><a href="faq-po-socionike#pochemu-ne-vsiakaja-dejatelonost-po-suggestivnoj-privlekaet"> Почему не всякая деятельность по суггестивной привлекает</a><br /><a href="faq-po-socionike#ob-otlichijah-suggestivnoj-i-aktivacionnoj"> Об отличиях суггестивной от активационной</a><br /><a href="faq-po-socionike#kak-otlichit-othod-ot-norm-odnomernoj"> Как отличить отход от норм одномерной функции от отхода ситуативной?</a><br /><a href="faq-po-socionike#o-razlichit-odnomernost-i-situativnost"> Как различить нормативность и ситуативность</a><br /><a href="faq-po-socionike#kakoe-znachenie-nesut-mnogomernye-funkcii"> Какое значение несут многомерные функции?</a><br /><a href="faq-po-socionike#oshibajutsa-li-po-mnogomernym"> Ошибаются ли по многомерным?</a><br /><a href="faq-po-socionike#vozmozhno-li-ispytyvat-chuvstvo-styda-po-mnogomernym"> Возможно ли испытывать чувство стыда по многомерным функциям?</a><br /><a href="faq-po-socionike#vsegda-li-projavliajutsa-vse-razmernosti"> Всегда ли проявляются все размерности функций в ответах?</a><br /><a href="faq-po-socionike#mozhet-li-kolichestvo-variantov-govorit-o-mnogomernosti"> Может ли количество вариантов говорить о многомерности функции?</a><br /><a href="faq-po-socionike#vozmozhno-li-obdumyvanie-po-vitalu"> Возможно ли обдумывание по виталу?</a><br /><a href="faq-po-socionike#o-vnezapnom-ozareniii-talnosti"> О внезапном озарении и тальности</a><br /><a href="faq-po-socionike#o-zapominanii-i-talnosti"> О запоминании информации и тальности.</a><br /><a href="faq-po-socionike#o-znanii-suschestvovanija-minusovoj-zony"> О знании существования минусовой зоны и знаке функции</a><br /><a href="faq-po-socionike#ob-ispolzovanii-chasticy-ne"> Об использовании частицы "не" и минусе</a><br /><a href="faq-po-socionike#o-nekompetentonosti-v-zone-minusa"> О некомпетентности многомерной плюсовой функции в зоне минуса</a><br /><a href="faq-po-socionike#mogut-li-plusovye-ispolzovat-opyt-popadanija-v-zonu-minusa"> Могут ли плюсовые функции использовать опыт попадания в зону минуса?</a><br /><a href="faq-po-socionike#o-vosprijatii-minusa-minusovoj-funkciej"> О восприятии минуса по качеству минусовой функцией</a><br /><a href="faq-po-socionike#kak-otdelit-idividualnost-ot-lichnyh-predpochtenij"> Как отделить индивидуальность от личных предпочтений?</a><br /><a href="faq-po-socionike#ob-osobennostiah-ida"> Об особенностях проявлений Ида</a><br /><a href="faq-po-socionike#o-napravlennosti-bloka"> О направленности блока</a><br /><a href="faq-po-socionike#kak-razlichit-blok-i-perevod"> Как различить блок и перевод?</a><br /><a href="faq-po-socionike#pochemu-ne-vsegda-proishodiat-perevody"> О том, почему не всегда происходят переводы из одномерной функции в многомерную?</a><br />
+	<a href="/faq-po-socionike#chto-takoe-socionika"> Что такое соционика?</a><br /><a href="/faq-po-socionike#chto-takoe-sistemnaja-socionika"> Что такое системная соционика?</a><br /><a href="/faq-po-socionike#chto-takoe-tim"> Что такое ТИМ?</a><br /><a href="/faq-po-socionike#izmeniaetsa-li-tim"> Изменяется ли ТИМ в ходе жизни?</a><br /><a href="/faq-po-socionike#kak-mozhno-vseh-ludej-zpihnut-v-16-timov"> Как можно всех людей «запихнуть» в 16 ТИМов?</a><br /><a href="/faq-po-socionike#suschestvujut-li-podtipy"> Существуют ли подтипы?</a><br /><a href="/faq-po-socionike#chto-takoe-model-a"> Что такое Модель А?</a><br /><a href="/faq-po-socionike#o-poniatii-aspekta-i-funkcii"> О понятии аспекта и функции в ШСС</a><br /><a href="/faq-po-socionike#chto-znachit-opredelit-tim"> Что значит определить ТИМ?</a><br /><a href="/faq-po-socionike#mozhno-li-dostoverno-opredelit-tim"> Можно ли достоверно определить ТИМ?</a><br /><a href="/faq-po-socionike#mozhno-li-opredelit-tim-po-testu"> Можно ли определить ТИМ по тесту-опроснику?</a><br /><a href="/faq-po-socionike#mozhno-li-opredelit-tim-po-vneshnim-priznakam"> Можно ли определить ТИМ по внешним признакам?</a><br /><a href="/faq-po-socionike#pochemu-neobhodimo-opiratsa-na-indikatory"> Почему необходимо опираться на индикаторы в идентификации ТИМа?</a><br /><a href="/faq-po-socionike#o-neobhodimosti-ponimanija-prichiny-reakcii"> О необходимости понимания причины реакции в диагностике</a><br /><a href="/faq-po-socionike#zavisiat-li-najdennye-parametry-ot-stilja-napisanija"> Зависят ли найденные параметры от стиля написания, употребленной лексики?</a><br /><a href="/faq-po-socionike#v-chem-sostoit-problema-sravnenija-s-obrazom-tima"> В чем состоит проблема сравнения с образом ТИМа?</a><br /><a href="/faq-po-socionike#o-sravnenii-s-povedenijem"> О сравнении с поведением, конкретными проявлениями работы функций</a><br /><a href="/faq-po-socionike#mozhno-li-falsificirovat-tim"> Можно ли фальсифицировать ТИМ?</a><br /><a href="/faq-po-socionike#o-priznakovom-i-modelnom-podhode"> О признаковом и модельном подходах в диагностике</a><br /><a href="/faq-po-socionike#chto-daet-znanie-tima"> Что дает знание ТИМа?</a><br /><a href="/faq-po-socionike#gde-zakanchivaetsa-kompetencija-socioniki"> Где заканчивается компетенция соционики? (Что может и чего не может соционика?)</a><br /><a href="/faq-po-socionike#o-sootnoshenii-timov-v-shss-i-drugih-shkolah"> О соотношении ТИМов в ШСС и в других школах</a><br /><a href="/faq-po-socionike#mozhet-li-socionika-prognozirovat-otnoshenija"> Может ли соционика прогнозировать отношения между людьми?</a><br /><a href="/faq-po-socionike#mozhet-li-informacija-ozvuchennaja-po-idu-zadevat-duala"> Может ли информация, озвученная по Иду, задевать дуала по ф.4?</a><br /><a href="/faq-po-socionike#o-cennostiah-kvadry"> О ценностях квадры</a><br /><a href="/faq-po-socionike#o-socionike-i-py"> О соционике и ПЙ</a><br /><a href="/faq-po-socionike#o-mehanizme-razmernostej"> О механизме размерностей</a><br /><a href="/faq-po-socionike#sviazany-li-vyrazhennost-i-razmernost"> Связаны ли выраженность функций и размерность?</a><br /><a href="/faq-po-socionike#o-poniatii-umestnosti-i-razmernosti-funkcij"> О понятии уместности и размерности функции</a><br /><a href="/faq-po-socionike#po-kakim-funkcijam-chelovek-mozhet-ignorirovat-obschestvennoe-mnenie"> По каким функциям человек может игнорировать общественное мнение?</a><br /><a href="/faq-po-socionike#o-kolichestve-variantov-i-razmernosti-intuicii"> О количестве вариантов и размерности интуиции</a><br /><a href="/faq-po-socionike#o-nezamechanii-strahov"> О незамечании страхов по маломерным</a><br /><a href="/faq-po-socionike#mozhno-li-natrenirovat-slabye-funkcii"> Можно ли натренировать «слабые» функции?</a><br /><a href="/faq-po-socionike#o-trebovanii-norm-odnomernoj-funkciej"> О "требовании норм" одномерной функцией</a><br /><a href="/faq-po-socionike#o-nazyvanii-norm-odnomernoj-funkciej"> О назывании  норм одномерной функцией</a><br /><a href="/faq-po-socionike#o-vozmozhnosti-opredelit-odnomernyje-pri-pomoschi-tekstov"> О возможности определить одномерные функции при помощи текстов</a><br /><a href="/faq-po-socionike#vozmozhny-li-interesy-po-4-funkcii"> Возможны ли интересы по четвертой функции</a><br /><a href="/faq-po-socionike#o-tom-pocheme-ne-vse-projavlenija-odnomernoj-zadevajut"> О том, почему не все проявления по одномерной задевают</a><br /><a href="/faq-po-socionike#vozmozhny-li-boleznennyje-reakcii-po-suggestivnoj"> Возможны ли болезненные реакции по суггестивной?</a><br /><a href="/faq-po-socionike#pochemu-ne-vsiakaja-dejatelonost-po-suggestivnoj-privlekaet"> Почему не всякая деятельность по суггестивной привлекает</a><br /><a href="/faq-po-socionike#ob-otlichijah-suggestivnoj-i-aktivacionnoj"> Об отличиях суггестивной от активационной</a><br /><a href="/faq-po-socionike#kak-otlichit-othod-ot-norm-odnomernoj"> Как отличить отход от норм одномерной функции от отхода ситуативной?</a><br /><a href="/faq-po-socionike#o-razlichit-odnomernost-i-situativnost"> Как различить нормативность и ситуативность</a><br /><a href="/faq-po-socionike#kakoe-znachenie-nesut-mnogomernye-funkcii"> Какое значение несут многомерные функции?</a><br /><a href="/faq-po-socionike#oshibajutsa-li-po-mnogomernym"> Ошибаются ли по многомерным?</a><br /><a href="/faq-po-socionike#vozmozhno-li-ispytyvat-chuvstvo-styda-po-mnogomernym"> Возможно ли испытывать чувство стыда по многомерным функциям?</a><br /><a href="/faq-po-socionike#vsegda-li-projavliajutsa-vse-razmernosti"> Всегда ли проявляются все размерности функций в ответах?</a><br /><a href="/faq-po-socionike#mozhet-li-kolichestvo-variantov-govorit-o-mnogomernosti"> Может ли количество вариантов говорить о многомерности функции?</a><br /><a href="/faq-po-socionike#vozmozhno-li-obdumyvanie-po-vitalu"> Возможно ли обдумывание по виталу?</a><br /><a href="/faq-po-socionike#o-vnezapnom-ozareniii-talnosti"> О внезапном озарении и тальности</a><br /><a href="/faq-po-socionike#o-zapominanii-i-talnosti"> О запоминании информации и тальности.</a><br /><a href="/faq-po-socionike#o-znanii-suschestvovanija-minusovoj-zony"> О знании существования минусовой зоны и знаке функции</a><br /><a href="/faq-po-socionike#ob-ispolzovanii-chasticy-ne"> Об использовании частицы "не" и минусе</a><br /><a href="/faq-po-socionike#o-nekompetentonosti-v-zone-minusa"> О некомпетентности многомерной плюсовой функции в зоне минуса</a><br /><a href="/faq-po-socionike#mogut-li-plusovye-ispolzovat-opyt-popadanija-v-zonu-minusa"> Могут ли плюсовые функции использовать опыт попадания в зону минуса?</a><br /><a href="/faq-po-socionike#o-vosprijatii-minusa-minusovoj-funkciej"> О восприятии минуса по качеству минусовой функцией</a><br /><a href="/faq-po-socionike#kak-otdelit-idividualnost-ot-lichnyh-predpochtenij"> Как отделить индивидуальность от личных предпочтений?</a><br /><a href="/faq-po-socionike#ob-osobennostiah-ida"> Об особенностях проявлений Ида</a><br /><a href="/faq-po-socionike#o-napravlennosti-bloka"> О направленности блока</a><br /><a href="/faq-po-socionike#kak-razlichit-blok-i-perevod"> Как различить блок и перевод?</a><br /><a href="/faq-po-socionike#pochemu-ne-vsegda-proishodiat-perevody"> О том, почему не всегда происходят переводы из одномерной функции в многомерную?</a><br />
 	 </p>
 <h2 id="chto-takoe-socionika">
 	Что такое соционика?</h2>
@@ -88,7 +88,7 @@
 <p>
 	Аспект — это одна из восьми частей информационного потока. Аспекты — ЧЭ, БЭ, ЧИ, БИ, ЧЛ, БЛ, ЧС, БС.<br />
 	Психическая функция — это устройство в психике, процессор, который обрабатывает информацию. Каждая функция в модели ТИМа обрабатывает свою часть информационного потока, свой аспект. Когда мы говорим «функция БЭ» - это означает «функция, обрабатывающая аспект БЭ». Также мы можем называть функцию, исходя из ее положения в модели: Функции — 1-я («базовая»), 5-я («суггестивная») и т.д. <br />
-	Подробнее с данными понятиями можно ознакомиться в разделе <a href="teorija">«Теория»</a></p>
+	Подробнее с данными понятиями можно ознакомиться в разделе <a href="http://socionicasys.org/teorija">«Теория»</a></p>
 <h2 id="chto-znachit-opredelit-tim">
 	Что значит определить ТИМ?</h2>
 <p>
@@ -123,7 +123,7 @@
 <p>
 	При формировании образа часто происходит ошибочное отнесение личностных (нетимных)особенностей к тимным и распространение данного представления на весь ТИМ. Также снижает точность неверная диагностика, так как с каждым последующим неверно определенным ТИМом образ становится все более ложным.<br />
 	Для того, чтобы избежать этой ошибки, необходимо ориентироваться на общепризнанный образец - модель ТИМа, сравнивать на уровне наличия параметров функций (размерность, знак, тальность)<br />
-	Подробнее о проблеме образа ТИМа можно узнать здесь: <a href="biblioteka/statji/obraz-tima">Эглит И.М.. Образ ТИМа</a></p>
+	Подробнее о проблеме образа ТИМа можно узнать здесь: <a href="http://socionicasys.org/biblioteka/statji/obraz-tima">Эглит И.М.. Образ ТИМа</a></p>
 <h2 id="o-sravnenii-s-povedenijem">
 	О сравнении с поведением, конкретными проявлениями работы функций</h2>
 <p>
@@ -151,7 +151,7 @@
 	- различение на уровне «наличие/отсутствие» свойства, что является более точным<br />
 	- уникальность набора свойств для каждой функции, что позволяет определить ТИМ при помощи определения места в модели одной функции<br />
 	- восьмикратная проверка полученного результата благодаря определению положения всех восьми функций в модели.<br />
-	Подробнее с различиями двух подходов можно ознакомиться в статье <a href="biblioteka/statji/tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov">Эглит И. М. "Точность диагностики ТИМа. Сравнение двух подходов".</a></p>
+	Подробнее с различиями двух подходов можно ознакомиться в статье <a href="http://socionicasys.org/biblioteka/statji/tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov">Эглит И. М. "Точность диагностики ТИМа. Сравнение двух подходов".</a></p>
 <h2 id="chto-daet-znanie-tima">
 	Что дает знание ТИМа?</h2>
 <p>
@@ -199,9 +199,9 @@
 	Получив техническое образование, этик будет обладать большим багажом знаний, то есть наполнит свою логику, но информацию по логике будет обрабатывать не выше, чем со второй размерностью. <br />
 	Размерности функций, как и другие свойства функций определяются с опорой на индикаторы </p>
 <p>
-	<a href="teorija/dlja-novichkov/funkcii/razmernost/indikatory-razmernosti-funkcij"><span style="font-size:16px;background-color:rgb(255,255,255);">Индикаторы размерности функций</span></a><br /><a href="teorija/dlja-novichkov/funkcii/znaki/indikatory"><span style="font-size:16px;background-color:rgb(255,255,255);">Индикаторы знака функции</span></a><br /><span style="font-size:16px;background-color:rgb(255,255,255);"><a href="teorija/dlja-novichkov/bloki-i-kolca/indikatory-vitala-mentala">Индикаторы витала/ментала</a></span></p>
+	<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/indikatory-razmernosti-funkcij"><span style="font-size:16px;background-color:rgb(255,255,255);">Индикаторы размерности функций</span></a><br /><a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/znaki/indikatory"><span style="font-size:16px;background-color:rgb(255,255,255);">Индикаторы знака функции</span></a><br /><span style="font-size:16px;background-color:rgb(255,255,255);"><a href="http://socionicasys.org/teorija/dlja-novichkov/bloki-i-kolca/indikatory-vitala-mentala">Индикаторы витала/ментала</a></span></p>
 <p>
-	<a href="praktika/spravochnik-po-indikatoram"><span style="font-size:16px;background-color:rgb(255,255,255);">Программа "Справочник индикаторов"</span></a></p>
+	<a href="http://socionicasys.org/praktika/spravochnik-po-indikatoram"><span style="font-size:16px;background-color:rgb(255,255,255);">Программа "Справочник индикаторов"</span></a></p>
 <h2 id="o-poniatii-umestnosti-i-razmernosti-funkcij">
 	О понятии уместности и размерности функции</h2>
 <p>
@@ -235,7 +235,7 @@
 	В случае одномерной функции, которая опирается на свой опыт, на некие личные индивидуальные представления, не может быть единственно возможных реакций, проявлений.<br />
 	Единственное общее, что есть у одномерных функций - это следующие параметры: индивидуальность функции, опора на опыт, наличие управляющих эмоций маломерных функций. На данные свойства и нужно ориентироваться. А то, в чем конкретно они проявятся, затруднительно спрогнозировать.<br />
 	Подробнее с темой одномерных функций можно ознакомиться в <a href="http://socionicasys.org/forum/viewtopic.php?f=73&amp;t=4445">сборнике</a>.<br />
-	А <a href="teorija/dlja-novichkov/funkcii/harakteristiki-i-upravljajushchie-emocii-funkcij">по данной ссылке</a> можно найти таблицу управляющих эмоций и соотнесение их со смысловыми индикаторами.</p>
+	А <a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/harakteristiki-i-upravljajushchie-emocii-funkcij">по данной ссылке</a> можно найти таблицу управляющих эмоций и соотнесение их со смысловыми индикаторами.</p>
 <h2 id="o-trebovanii-norm-odnomernoj-funkciej">
 	О "требовании норм" одномерной функцией</h2>
 <p>
@@ -269,9 +269,9 @@
 	Из теоретических предпосылок наибольшее количество страха можно было бы ожидать в четвертой функции. Что явно отражается в одном из названий четвертой функции — «болевая». Болезненность вызывает страх, страх вызывает болезненность. Кстати, вопреки ожиданиям наибольшего количества страхов от самой «болезненной» в модели — ф. 4, в результате опроса мы получили не меньшее количество проявлений страхов по ф. 5.<br />
 	Подробнее можно почитать вот тут:</p>
 <p class="article-author" style="margin-top:0px;font-size:16px;background-color:rgb(255,255,255);line-height:16.799999237060547px;">
-	<span style="font-size:14px;"><a href="biblioteka/statji/issledovanie-strahov">Эглит И. М., Пятницкий В. В. <span style="line-height:1.05;background-color:rgb(255,255,255);">Исследование страхов в одномерных функциях</span></a></span></p>
+	<span style="font-size:14px;"><a href="http://socionicasys.org/biblioteka/statji/issledovanie-strahov">Эглит И. М., Пятницкий В. В. <span style="line-height:1.05;background-color:rgb(255,255,255);">Исследование страхов в одномерных функциях</span></a></span></p>
 <p class="article-author" style="margin-top:0px;font-size:16px;background-color:rgb(255,255,255);line-height:16.799999237060547px;">
-	<span style="font-size:14px;"><a href="biblioteka/statji/neadekvatnaja-rabota-odnomernyh" style="font-size:14.399999618530273px;line-height:1.5;"><span style="line-height:1.5;">Эглит И.М. Неадекватная работа одномерных функций</span></a></span></p>
+	<span style="font-size:14px;"><a href="http://socionicasys.org/biblioteka/statji/neadekvatnaja-rabota-odnomernyh" style="font-size:14.399999618530273px;line-height:1.5;"><span style="line-height:1.5;">Эглит И.М. Неадекватная работа одномерных функций</span></a></span></p>
 <p class="article-author" style="margin-top:0px;font-size:16px;background-color:rgb(255,255,255);line-height:16.799999237060547px;">
 	<span style="font-size:14px;"><a href="http://socionicasys.org/forum/viewtopic.php?f=73&amp;t=4445" style="font-size:14.399999618530273px;line-height:1.5;"><span style="line-height:1.5;">Материалы сборника "Одномерные функции, их работа и определение"</span></a></span></p>
 <p class="article-author" style="margin-top:0px;font-size:16px;background-color:rgb(255,255,255);line-height:16.799999237060547px;">
@@ -369,7 +369,7 @@
 <h2 id="o-napravlennosti-bloka">
 	О направленности блока</h2>
 <p>
-	Мы редко наблюдаем однозначно оформленную словесно направленность. Чаще наблюдается обоюдная направленность, в зависимости от задачи одна из функций становится целью, а другая инструментом. Потому общая направленность блока лежит как бы пластом выше, в некой более общей цели (задаче) функционирования мышления (человека). <br /><a href="biblioteka/statji/issledovanie-napravlennosti-v-gorizontalnyh-blokah-modeli-a">Подробнее можно ознакомиться тут</a></p>
+	Мы редко наблюдаем однозначно оформленную словесно направленность. Чаще наблюдается обоюдная направленность, в зависимости от задачи одна из функций становится целью, а другая инструментом. Потому общая направленность блока лежит как бы пластом выше, в некой более общей цели (задаче) функционирования мышления (человека). <br /><a href="http://socionicasys.org/biblioteka/statji/issledovanie-napravlennosti-v-gorizontalnyh-blokah-modeli-a">Подробнее можно ознакомиться тут</a></p>
 <h2 id="kak-razlichit-blok-i-perevod">
 	Как различить блок и перевод?</h2>
 <p>
@@ -383,8 +383,8 @@
 	И многое зависит от особенностей ситуации. Если ситуация зацепила, болезненно задела, то вытолкнуть себя на Эго бывает очень сложно, зависаешь в этой реакции.</p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="o-shkole/eksperty/julija-goldjuk">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="poisk">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/o-shkole/eksperty/julija-goldjuk">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/poisk">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -393,14 +393,14 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="index.html">Главная</a>
+<li class="active"><a href="/">Главная</a>
 <ul>
-<li><a href="chto-takoe-sistemnaja-socionika">Что такое системная соционика?</a></li>
-<li><a href="o-shkole">О Школе системной соционики</a></li>
+<li><a href="/chto-takoe-sistemnaja-socionika">Что такое системная соционика?</a></li>
+<li><a href="/o-shkole">О Школе системной соционики</a></li>
 <li class="selected"><span>FAQ по соционике</span></li>
-<li><a href="poisk">Поиск по темам</a></li>
-<li><a href="novosti">Новости</a></li>
-<li><a href="kontakty">Контакты</a></li>
+<li><a href="/poisk">Поиск по темам</a></li>
+<li><a href="/novosti">Новости</a></li>
+<li><a href="/kontakty">Контакты</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -410,9 +410,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Уважение имеет границы, любовь — никогда»</p>	</blockquote>
-	<p class="random-quote-author">Гюго</p>
-	<p class="random-quote-note">(БЭ)</p>
+		<p>«Горе можно пережить в одиночестве, но радость — чтоб познать ее в полной мере — нужно разделить с другим человеком»</p>	</blockquote>
+	<p class="random-quote-author">Марк Твен</p>
+	<p class="random-quote-note">(ЧЭ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -454,7 +454,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

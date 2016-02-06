@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Проведено сравнение точности двух методик определения ТИМа: диагностики по признакам и диагностики по позиционно-ранжирующей системе с использованием информационной модели психики. Показана более высокая точность второй методики" />
 <meta name="keywords" content="диагностика ТИМа, признаковый подход, модель А, различение" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Точность диагностики ТИМа. Сравнение двух подходов. | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Точность диагностики ТИМа. Сравнение двух подходов.</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Точность диагностики ТИМа. Сравнение двух подходов.</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -103,9 +103,9 @@
 <p>
 	<span style="color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;font-size:14px;line-height:20px;background-color:rgb(250,250,250);">Сравните:</span></p>
 <p>
-	<img alt="" src="../../images/diagrams/Razlichenie1.JPG" /><br /><span style="background-color:rgb(250,250,250);color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;font-size:14px;line-height:20px;">Различение «больше/меньше».</span></p>
+	<img alt="" src="/images/diagrams/Razlichenie1.JPG" /><br /><span style="background-color:rgb(250,250,250);color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;font-size:14px;line-height:20px;">Различение «больше/меньше».</span></p>
 <p>
-	<img alt="" src="../../images/diagrams/Razlichenie2.JPG" /><br /><span style="background-color:rgb(250,250,250);color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;font-size:14px;line-height:20px;">Различение «наличие/отсутствие», или «есть/нет».</span></p>
+	<img alt="" src="/images/diagrams/Razlichenie2.JPG" /><br /><span style="background-color:rgb(250,250,250);color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;font-size:14px;line-height:20px;">Различение «наличие/отсутствие», или «есть/нет».</span></p>
 <p>
 	 </p>
 <p>
@@ -126,11 +126,11 @@
 	<p>
 		Уступчивость — больше внимания уделяют потребностям. Упрямство – больше внимания уделяют ресурсам.</p>
 	<p>
-		Процесс — больше внимания уделяют самому процессу. Результат — больше внимания уделяют результатам<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#footnote-1" id="backref-1" title="http://socionics.ru/signs-and-groups/priznaky/reyninprizhakikratko">1</a>.</p>
+		Процесс — больше внимания уделяют самому процессу. Результат — больше внимания уделяют результатам<a class="footnote" href="#footnote-1" id="backref-1" title="http://socionics.ru/signs-and-groups/priznaky/reyninprizhakikratko">1</a>.</p>
 </blockquote>
 <blockquote>
 	<p>
-		Интуиция, в противоположность сенсорике — способность не столько игнорировать, сколько не замечать чего-то сиюминутного, объективно-реального. И если вы внимательно посмотрите вокруг — увидите нескольких, обычно худых и длинных, смотрящих как бы свысока, да и не на все вовсе, а как бы сквозь, и только они знают, куда они смотрят и что там видят<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#footnote-2" id="backref-2" title="http://www.socionika.info/priz.html">2</a>.</p>
+		Интуиция, в противоположность сенсорике — способность не столько игнорировать, сколько не замечать чего-то сиюминутного, объективно-реального. И если вы внимательно посмотрите вокруг — увидите нескольких, обычно худых и длинных, смотрящих как бы свысока, да и не на все вовсе, а как бы сквозь, и только они знают, куда они смотрят и что там видят<a class="footnote" href="#footnote-2" id="backref-2" title="http://www.socionika.info/priz.html">2</a>.</p>
 </blockquote>
 <p>
 	 </p>
@@ -140,15 +140,15 @@
 	Примеры:</p>
 <blockquote>
 	<p>
-		1 квадра.  Обычно представителей первой квадры характеризуют такие свойства как понимание, непосредственное восприятие мира. Это возраст детства, когда всё ново, идёт активное познание окружающего мира. Стремление к неизведанному, обучение. Однако реализация проектов и идей исключительно представителями первой квадры затруднена, здесь требуется помощь извне, со стороны представителей других квадр, более нацеленных на внедрение, реализацию и устойчивость в жизни, чем на активное и глубокое информационное взаимодействие<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#footnote-3" id="backref-3" title="http://socionics.ru/signs-and-groups/tetratomii/kvadral4">3</a>.</p>
+		1 квадра.  Обычно представителей первой квадры характеризуют такие свойства как понимание, непосредственное восприятие мира. Это возраст детства, когда всё ново, идёт активное познание окружающего мира. Стремление к неизведанному, обучение. Однако реализация проектов и идей исключительно представителями первой квадры затруднена, здесь требуется помощь извне, со стороны представителей других квадр, более нацеленных на внедрение, реализацию и устойчивость в жизни, чем на активное и глубокое информационное взаимодействие<a class="footnote" href="#footnote-3" id="backref-3" title="http://socionics.ru/signs-and-groups/tetratomii/kvadral4">3</a>.</p>
 </blockquote>
 <blockquote>
 	<p>
-		Интуитивно-этический экстраверт — «Советчик»  (Гексли, ENFP) Проницателен: хорошо видит мотивы, которые движут людьми. Тянется к способным и неординарным личностям. Умеет ободрить человека, вселить надежду. Советует, как найти выход из сложных жизненных ситуаций<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#footnote-4" id="backref-4" title="http://www.socioniks.net/biblioteka/2obraz_tipov/sovetchik.html">4</a>.</p>
+		Интуитивно-этический экстраверт — «Советчик»  (Гексли, ENFP) Проницателен: хорошо видит мотивы, которые движут людьми. Тянется к способным и неординарным личностям. Умеет ободрить человека, вселить надежду. Советует, как найти выход из сложных жизненных ситуаций<a class="footnote" href="#footnote-4" id="backref-4" title="http://www.socioniks.net/biblioteka/2obraz_tipov/sovetchik.html">4</a>.</p>
 </blockquote>
 <blockquote>
 	<p>
-		ЭГО. Сильные осознанные функции личности отражают главное в сущности типа. Они представляет собой зону уверенности. По этим функциям человек выбирает жизненные цели и средства к их достижению. По ним следует выбирать профессию<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#footnote-5" id="backref-5" title="http://www.socionics.ru/functions-and-models/socionicsmod1">5</a>.</p>
+		ЭГО. Сильные осознанные функции личности отражают главное в сущности типа. Они представляет собой зону уверенности. По этим функциям человек выбирает жизненные цели и средства к их достижению. По ним следует выбирать профессию<a class="footnote" href="#footnote-5" id="backref-5" title="http://www.socionics.ru/functions-and-models/socionicsmod1">5</a>.</p>
 </blockquote>
 <p>
 	 </p>
@@ -156,7 +156,7 @@
 	При диагностике <strong>по дихотомиям</strong> происходит <strong>определение меры («больше/меньше») проявления </strong>того или иного полюса дихотомии. Например, типируемый больше логик или больше этик, больше экстраверт или больше интроверт и т.д.  Мы не можем утверждать, что экстраверт не проявляет качеств интроверта, а логик не проявляет этики. При таком подходе в методике имеется определенный список характерных проявлений признака, наиболее ярко выделяемых, на которые типировщик может обратить внимание. Например:</p>
 <blockquote>
 	<p>
-		Статики больше зависят от места, чем от времени, динамики — наоборот. Статики склонны заполнять пространство предметами, а динамики — время событиями. Другими словами, статики не терпят вокруг себя пустого пространства — тут же заполняют его имеющимися под рукой вещами. Динамики не выносят пустого времени — скуки, длительного пребывания в одном и том же состоянии. В известном смысле статики (люди места) могут быть также названы постоянными, а динамики (люди времени) — переменными<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#footnote-6" id="backref-6" title="http://www.socioniks.net/biblioteka/7/statika_dinam.html">6</a>.</p>
+		Статики больше зависят от места, чем от времени, динамики — наоборот. Статики склонны заполнять пространство предметами, а динамики — время событиями. Другими словами, статики не терпят вокруг себя пустого пространства — тут же заполняют его имеющимися под рукой вещами. Динамики не выносят пустого времени — скуки, длительного пребывания в одном и том же состоянии. В известном смысле статики (люди места) могут быть также названы постоянными, а динамики (люди времени) — переменными<a class="footnote" href="#footnote-6" id="backref-6" title="http://www.socioniks.net/biblioteka/7/statika_dinam.html">6</a>.</p>
 </blockquote>
 <p>
 	При этом взвешивание «более и менее» происходит в психике эксперта. Понятно, что при таком взвешивании необходимо:</p>
@@ -171,7 +171,7 @@
 </ul><p>
 	Измерение непрерывного параметра, определение степени выраженности признака «более/менее» сложнее, чем определение по принципу «есть/нет», а потому требует частой и тщательной калибровки инструмента.</p>
 <p>
-	Очевидно, если нет градуированной шкалы измерения чего больше, а чего меньше, то такой инструмент различения считается менее точным по сравнению с инструментом, имеющим шкалу. Если же при диагностике по дихотомиям вообще не происходит сравнения между двумя полюсами, а только называются проявления одного из полюсов, которые замечены типировщиком, то такую диагностику можно назвать <strong>произвольной оценкой</strong><a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#footnote-7" id="backref-7" title="Пример:  Писарев В.С. Обоснование ТИМа по результатам соционического интервью  http://socionics.ru/diagnostic/2011-11-20-06-27-00">7</a>.</p>
+	Очевидно, если нет градуированной шкалы измерения чего больше, а чего меньше, то такой инструмент различения считается менее точным по сравнению с инструментом, имеющим шкалу. Если же при диагностике по дихотомиям вообще не происходит сравнения между двумя полюсами, а только называются проявления одного из полюсов, которые замечены типировщиком, то такую диагностику можно назвать <strong>произвольной оценкой</strong><a class="footnote" href="#footnote-7" id="backref-7" title="Пример:  Писарев В.С. Обоснование ТИМа по результатам соционического интервью  http://socionics.ru/diagnostic/2011-11-20-06-27-00">7</a>.</p>
 <p>
 	 </p>
 <p>
@@ -180,7 +180,7 @@
 	<p>
 		Базовая, основа личности и интеллекта человека. Информацию по ней он <strong>воспринимает адекватно и может выступать в роли эксперта по вопросам, связанным с этой функцией. </strong></p>
 	<p>
-		Творческая. <strong>По ней человек быстро усваивает информацию и даже генерирует ее сам, часто выступает в роли критика</strong><a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#footnote-8" id="backref-8" title="Прокофьева Т.Н. Коротко о функциях, ячейках и блоках модели А http://www.socionics.ru/functions-and-models/socionicsmod1">8</a>.</p>
+		Творческая. <strong>По ней человек быстро усваивает информацию и даже генерирует ее сам, часто выступает в роли критика</strong><a class="footnote" href="#footnote-8" id="backref-8" title="Прокофьева Т.Н. Коротко о функциях, ячейках и блоках модели А http://www.socionics.ru/functions-and-models/socionicsmod1">8</a>.</p>
 </blockquote>
 <p>
 	Выделенные фрагменты в описаниях функций можно отнести  как к первой, так и ко второй  функциям. Их можно поменять местами, или совместить. Мы не можем сказать, что по первой функции человек не усваивает информацию быстро, не генерирует ее и не выступает в роли критика. Но эти качества отнесены ко второй функции. Таким образом, подобная описательная информация становится бесполезной для различения двух функций. Ее явно недостаточно для различения.</p>
@@ -192,7 +192,7 @@
 	Описание типных характеристик, то есть <strong>особенностей  поведения человека</strong> определенного ТИМа, тоже страдают размытостью и нечеткостью, обусловленностью видением автора, особенностями той ситуации, в которой наблюдался человек, а также его наполнением.  Пример:</p>
 <blockquote>
 	<p>
-		ИЭИ. Представители данного типа любят полежать на диване с книжечкой в руках или съездить за город и воссоединиться с природой. Правда, природа — коварная штука, может преподнести катаклизмы в виде снега, дождя и ветра. Поэтому, подобные мероприятия ИЭИ в основном проводит в собственном воображении<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#footnote-9" id="backref-9" title="http://www.socionics.ru/index.php?option=com_content&amp;view=article&amp;id=271&amp;Itemid=112">9</a>.</p>
+		ИЭИ. Представители данного типа любят полежать на диване с книжечкой в руках или съездить за город и воссоединиться с природой. Правда, природа — коварная штука, может преподнести катаклизмы в виде снега, дождя и ветра. Поэтому, подобные мероприятия ИЭИ в основном проводит в собственном воображении<a class="footnote" href="#footnote-9" id="backref-9" title="http://www.socionics.ru/index.php?option=com_content&amp;view=article&amp;id=271&amp;Itemid=112">9</a>.</p>
 </blockquote>
 <p>
 	Такие описания также не обладают различительными свойствами «наличие/отсутствие» признака,  мы никогда не можем утверждать, что представитель такого-то ТИМа всегда в любых условиях проявляет себя определенным образом. Таким образом, описания типа не могут считаться точным диагностическим инструментом. </p>
@@ -229,7 +229,7 @@
 <p>
 	Таким образом, все три свойства функции различаются на уровне «наличие/отсутствие» параметра, что отличает данный диагностический инструмент от различения при дихотомийном и описательном признаковом подходе.</p>
 <p>
-	Точность диагностики каждого из этих параметров можно исследовать, например, в ШСС изучена степень достоверности наличия параметра  «знак функций» — 97,6 %.<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#footnote-10" id="backref-10" title="Эглит И.М. Тезисы доклада по знакам функций. Круглый стол, Киев, 2011.">10</a></p>
+	Точность диагностики каждого из этих параметров можно исследовать, например, в ШСС изучена степень достоверности наличия параметра  «знак функций» — 97,6 %.<a class="footnote" href="#footnote-10" id="backref-10" title="Эглит И.М. Тезисы доклада по знакам функций. Круглый стол, Киев, 2011.">10</a></p>
 <p>
 	 </p>
 <p>
@@ -261,27 +261,27 @@
 <h2>
 	Литература</h2>
 <ol class="literature"><li>
-		<span class="name">Эглит И. М.</span> <a href="obraz-tima">Образ ТИМа</a> // СМиПЛ, 2010, №5.</li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/statji/obraz-tima">Образ ТИМа</a> // СМиПЛ, 2010, №5.</li>
 </ol><hr /><p id="footnote-1">
-	<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#backref-1">1</a> <a href="http://socionics.ru/signs-and-groups/priznaky/reyninprizhakikratko">http://socionics.ru/signs-and-groups/priznaky/reyninprizhakikratko</a></p>
+	<a class="footnote" href="#backref-1">1</a> <a href="http://socionics.ru/signs-and-groups/priznaky/reyninprizhakikratko">http://socionics.ru/signs-and-groups/priznaky/reyninprizhakikratko</a></p>
 <p id="footnote-2">
-	<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#backref-2">2</a> <a href="http://www.socionika.info/priz.html">http://www.socionika.info/priz.html</a></p>
+	<a class="footnote" href="#backref-2">2</a> <a href="http://www.socionika.info/priz.html">http://www.socionika.info/priz.html</a></p>
 <p id="footnote-3">
-	<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#backref-3">3</a> <a href="http://socionics.ru/signs-and-groups/tetratomii/kvadral4">http://socionics.ru/signs-and-groups/tetratomii/kvadral4</a></p>
+	<a class="footnote" href="#backref-3">3</a> <a href="http://socionics.ru/signs-and-groups/tetratomii/kvadral4">http://socionics.ru/signs-and-groups/tetratomii/kvadral4</a></p>
 <p id="footnote-4">
-	<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#backref-4">4</a> <a href="http://www.socioniks.net/biblioteka/2obraz_tipov/sovetchik.html">http://www.socioniks.net/biblioteka/2obraz_tipov/sovetchik.html</a></p>
+	<a class="footnote" href="#backref-4">4</a> <a href="http://www.socioniks.net/biblioteka/2obraz_tipov/sovetchik.html">http://www.socioniks.net/biblioteka/2obraz_tipov/sovetchik.html</a></p>
 <p id="footnote-5">
-	<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#backref-5">5</a> <a href="http://www.socionics.ru/functions-and-models/socionicsmod1">http://www.socionics.ru/functions-and-models/socionicsmod1</a></p>
+	<a class="footnote" href="#backref-5">5</a> <a href="http://www.socionics.ru/functions-and-models/socionicsmod1">http://www.socionics.ru/functions-and-models/socionicsmod1</a></p>
 <p id="footnote-6">
-	<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#backref-6">6</a> <a href="http://www.socioniks.net/biblioteka/7/statika_dinam.html">http://www.socioniks.net/biblioteka/7/statika_dinam.html</a></p>
+	<a class="footnote" href="#backref-6">6</a> <a href="http://www.socioniks.net/biblioteka/7/statika_dinam.html">http://www.socioniks.net/biblioteka/7/statika_dinam.html</a></p>
 <p id="footnote-7">
-	<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#backref-7">7</a> Пример: Писарев В.С. <a href="http://socionics.ru/diagnostic/2011-11-20-06-27-00">Обоснование ТИМа по результатам соционического интервью.</a></p>
+	<a class="footnote" href="#backref-7">7</a> Пример: Писарев В.С. <a href="http://socionics.ru/diagnostic/2011-11-20-06-27-00">Обоснование ТИМа по результатам соционического интервью.</a></p>
 <p id="footnote-8">
-	<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#backref-8">8</a> Прокофьева Т.Н. <a href="http://www.socionics.ru/functions-and-models/socionicsmod1">Коротко о функциях, ячейках и блоках модели А.</a></p>
+	<a class="footnote" href="#backref-8">8</a> Прокофьева Т.Н. <a href="http://www.socionics.ru/functions-and-models/socionicsmod1">Коротко о функциях, ячейках и блоках модели А.</a></p>
 <p id="footnote-9">
-	<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#backref-9">9</a> <a href="http://www.socionics.ru/index.php?option=com_content&amp;view=article&amp;id=271&amp;Itemid=112">http://www.socionics.ru/index.php?option=com_content&amp;view=article&amp;id=271&amp;Itemid=112</a></p>
+	<a class="footnote" href="#backref-9">9</a> <a href="http://www.socionics.ru/index.php?option=com_content&amp;view=article&amp;id=271&amp;Itemid=112">http://www.socionics.ru/index.php?option=com_content&amp;view=article&amp;id=271&amp;Itemid=112</a></p>
 <p id="footnote-10">
-	<a class="footnote" href="tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov#backref-10">10</a> Эглит И.М. <a href="http://socionicasys.org/forum/statji/ehglit-i-m-tezisy-doklada-po-teme-znaki-funkcij-t4313.html">Тезисы доклада по знакам функций.</a> Круглый стол, Киев, 2011.</p>
+	<a class="footnote" href="#backref-10">10</a> Эглит И.М. <a href="/forum/statji/ehglit-i-m-tezisy-doklada-po-teme-znaki-funkcij-t4313.html">Тезисы доклада по знакам функций.</a> Круглый стол, Киев, 2011.</p>
 <p>
 	<a href="http://socionicasys.org/forum/statji/ehglit-i-m-tochnost-diagnostiki-tima-sravnenie-dvukh-podkhodo-t4370.html">Обсуждение на форуме</a></p>
 <p>
@@ -327,7 +327,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

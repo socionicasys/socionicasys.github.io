@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Во второй части цикла, посвященного применению лингвистического анализа при идентификации ИТИМов, исследуются эмоциональные концепты в русском, английском и немецком языках." />
 <meta name="keywords" content="соционика, модель А, этика эмоций, интегральные типы информационного метаболизма, язык, лингвистика, концепт" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Использование инструментов лингвистического анализа в определении интегральных типов. Ч.2. | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Использование инструментов лингвистического анализа в определении…</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Использование инструментов лингвистического анализа в определении…</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -149,7 +149,7 @@
 	Результаты сравнительной оценки концептов «laughter» и «смех», «хохот» говорят о том, что в русской культуре (в отличие от английской) отсутствуют жесткие рамки эмоциональных проявлений, наблюдается положительное отношение к яркому выражению эмоций. Это позволяет предположить ценностность [5, c. 367:<strong> индикатор №30 «Ценность, важность информации по аспекту»</strong>] и многомерность ЧЭ в русском ИТИМе [5, c. 375:<strong> индикатор №36 «Отказ от правильности, сужающей рамки»</strong>]:</p>
 <blockquote>
 	<p style="margin-left:35.45pt;">
-		«Как отмечается в RECDHB<a href="ispolzovanie_instrumentov_lingvisticheskogo_analiza_chast_2#_ftn1" title="">[1]</a>, английскому слову laughter в русском языке соответствует не одно, а два существительных — смех и хохот, а английскому глаголу laugh в русском языке соответствует не один, а два глагола: смеяться и хохотать.</p>
+		«Как отмечается в RECDHB<a href="#_ftn1" title="">[1]</a>, английскому слову laughter в русском языке соответствует не одно, а два существительных — смех и хохот, а английскому глаголу laugh в русском языке соответствует не один, а два глагола: смеяться и хохотать.</p>
 	<p style="margin-left:35.45pt;">
 		Конечно, в английском языке есть и другие слова, обозначающие то, что может рассматриваться как разновидности смеха: chuckle — смешок, фыркнуть от смеха, giggle — хихиканье, хихикнуть и cackle — хохоток, кудахтать от смеха. Но отношение этих слов к самым базовым словам laugh и laughter полностью отличается от соотношения между русскими словами хохот, хохотать, с одной стороны, и смех, смеяться — с другой. На самом деле все три английских слова: giggle, chuckle и cackle — подразумевают нечто меньшее, чем смех от всего сердца. Из этих трех слов обозначающее непроизвольное, неконтролируемое действие слово giggle имеет лексический аналог в русском языке — глагол хихикать (без соответствующего существительного), а обозначающие сознательные и контролируемые действия chuckle и cackle вообще не имеют аналогов в русском языке.</p>
 	<p style="margin-left:35.45pt;">
@@ -274,7 +274,7 @@
 <div>
 	<hr align="left" size="1" width="33%" /><div id="ftn1">
 		<p>
-			<a href="ispolzovanie_instrumentov_lingvisticheskogo_analiza_chast_2#_ftnref1" title="">[1]</a> RECDHB – The Russian-English Collocational Dictionary of Human Body («Русско-английский словарь коллокаций, относящихся к человеческому телу» .Иорданской и В.Паперно. М., 1995).</p>
+			<a href="#_ftnref1" title="">[1]</a> RECDHB – The Russian-English Collocational Dictionary of Human Body («Русско-английский словарь коллокаций, относящихся к человеческому телу» .Иорданской и В.Паперно. М., 1995).</p>
 	</div>
 </div>
 <p>
@@ -320,7 +320,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

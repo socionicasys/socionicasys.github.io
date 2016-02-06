@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Описаны системные принципы из теории систем, которая является одной из основ системной соционики" />
 <meta name="keywords" content="системные принципы, теория систем, принцип обратной связи, принцип эмерджентности, принцип целеустремленности, принцип оптимального разнообразия, принцип детерминизма" />
-<link rel="prev" href="sistema" />
-<link rel="next" href="../inform-potok" />
-<script type="text/javascript" src="../../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/po-ermaku/sistemnyj-podhod/sistema" />
+<link rel="next" href="/teorija/po-ermaku/inform-potok" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Системные принципы | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../../index.html">Главная</a></li>
-<li class="active"><a href="../../../teorija">Теория</a></li>
-<li><a href="../../../praktika">Практика</a></li>
-<li><a href="../../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../../teorija">Теория</a> &raquo; <a href="../../po-ermaku">Соционика по Ермаку</a> &raquo; <a href="../sistemnyj-podhod">Системный подход</a> &raquo; <span>Системные принципы</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/po-ermaku">Соционика по Ермаку</a> &raquo; <a href="/teorija/po-ermaku/sistemnyj-podhod">Системный подход</a> &raquo; <span>Системные принципы</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -57,7 +57,7 @@
 <p>
 	Науке известно много принципов, они по разному сформулированы, однако в любом изложении обладают высокой степенью общности и пригодны для любых приложений. Древние схоласты утверждали: «Если нечто верно на уровне абстракций, оно не может быть неверным на уровне реалий». Ниже приведены наиболее важные с точки зрения автора системные принципы и необходимые комментарии к их формулировкам. Примеры не претендуют на строгость и призваны лишь наглядно показать смысл принципов.</p>
 <ul><li>
-		<strong>Принцип целеполагания</strong>: <em>цель, определяющая поведение системы, всегда задается надсистемой</em><a class="footnote" href="sistemnye-principy#footnote-1" id="backref-1" title="Согласно теории иерархического управления.">1</a>.</li>
+		<strong>Принцип целеполагания</strong>: <em>цель, определяющая поведение системы, всегда задается надсистемой</em><a class="footnote" href="#footnote-1" id="backref-1" title="Согласно теории иерархического управления.">1</a>.</li>
 </ul><p>
 	Объект выступает как система лишь относительно своей цели. Цель, требуя для своего достижения определенных функций, обуславливает через них состав и структуру системы. Целью может быть определенное состояние системы или иной продукт ее функционирования.</p>
 <p>
@@ -235,15 +235,15 @@
 <p>
 	До сих пор в среде нейрофизиологов и нейропсихологов ведутся споры по поводу межполушарной асимметрии головного мозга. В том, что асимметрия присутствует, не сомневается никто, однако неясно от чего она зависит, и изменяется ли доминирование полушарий в процессе функционирования психики. В реальных взаимодействиях, все динамично: сначала доминирует один объект, затем, по каким либо причинам, другой. При этом, взаимодействие может переходить через симметрию как через временное состояние, его длительность является вопросом системного времени. В исследовании систем и приложении результатов моделирования к реальности, учет асимметрии взаимодействия часто имеет принципиальное значение.</p>
 <p class="note">
-	По материалам книги: <span class="name">Ермак В. Д.</span> <a href="../../../biblioteka/knigi#ermak-klassicheskaja-socionika">Классическая соционика. Системная концепция теории информационного метаболизма психики.</a></p>
+	По материалам книги: <span class="name">Ермак В. Д.</span> <a href="/biblioteka/knigi#ermak-klassicheskaja-socionika">Классическая соционика. Системная концепция теории информационного метаболизма психики.</a></p>
 <hr /><p id="footnote-1">
-	<a class="footnote" href="sistemnye-principy#backref-1">1</a> Согласно теории иерархического управления.</p>
+	<a class="footnote" href="#backref-1">1</a> Согласно теории иерархического управления.</p>
 <p>
-	<span style="font-size:14px;line-height:16.8px;background-color:rgb(255,255,255);">См. также  </span><a href="../../../biblioteka/statji/sistemnij-podhod" style="font-size:14px;line-height:16.8px;background-color:rgb(255,255,255);"><span style="font-size:16px;line-height:16.8px;background-color:rgb(255,255,255);">Ермак В. Д. </span><span style="font-size:16px;line-height:16.8px;background-color:rgb(255,255,255);">Системы. Системные принципы. Системный подход</span></a></p>
+	<span style="font-size:14px;line-height:16.8px;background-color:rgb(255,255,255);">См. также  </span><a href="http://socionicasys.org/biblioteka/statji/sistemnij-podhod" style="font-size:14px;line-height:16.8px;background-color:rgb(255,255,255);"><span style="font-size:16px;line-height:16.8px;background-color:rgb(255,255,255);">Ермак В. Д. </span><span style="font-size:16px;line-height:16.8px;background-color:rgb(255,255,255);">Системы. Системные принципы. Системный подход</span></a></p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="sistema">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="../inform-potok">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/teorija/po-ermaku/sistemnyj-podhod/sistema">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/teorija/po-ermaku/inform-potok">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -252,24 +252,24 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li><a href="../../dlja-novichkov">Соционика от новичка до эксперта</a></li>
-<li class="active"><a href="../../po-ermaku">Соционика по Ермаку</a>
+<li><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a></li>
+<li class="active"><a href="/teorija/po-ermaku">Соционика по Ермаку</a>
 <ul>
-<li><a href="../obzor">Краткий обзор науки</a></li>
-<li class="active"><a href="../sistemnyj-podhod">Системный подход</a>
+<li><a href="/teorija/po-ermaku/obzor">Краткий обзор науки</a></li>
+<li class="active"><a href="/teorija/po-ermaku/sistemnyj-podhod">Системный подход</a>
 <ul>
-<li><a href="sistema">Система и модель</a></li>
+<li><a href="/teorija/po-ermaku/sistemnyj-podhod/sistema">Система и модель</a></li>
 <li class="selected"><span>Системные принципы</span></li>
 </ul>
 </li>
-<li><a href="../inform-potok">Информационный поток</a></li>
-<li><a href="../model-tima">Модель ТИМa</a></li>
-<li><a href="../vozrastnoje-razvitije">Возрастное развитие</a></li>
-<li><a href="../i-timy">Интегральные ТИМы</a></li>
-<li><a href="../otnoshenija">Межтипные отношения</a></li>
-<li><a href="../identifikacija">Идентификация ТИМа</a></li>
+<li><a href="/teorija/po-ermaku/inform-potok">Информационный поток</a></li>
+<li><a href="/teorija/po-ermaku/model-tima">Модель ТИМa</a></li>
+<li><a href="/teorija/po-ermaku/vozrastnoje-razvitije">Возрастное развитие</a></li>
+<li><a href="/teorija/po-ermaku/i-timy">Интегральные ТИМы</a></li>
+<li><a href="/teorija/po-ermaku/otnoshenija">Межтипные отношения</a></li>
+<li><a href="/teorija/po-ermaku/identifikacija">Идентификация ТИМа</a></li>
 </ul>
 </li>
 </ul>
@@ -281,9 +281,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Первоначальные 20% усилий дают 80% результатов, а остальные 80% усилий — лишь 20% результатов»</p>	</blockquote>
-	<p class="random-quote-author">Закон Парето</p>
-	<p class="random-quote-note">(ЧЛ)</p>
+		<p>«Подозрительность — это, скорее, достоинство, чем недостаток, коль скоро она уподобляется собаке, которая сторожит, но не кусает»</p>	</blockquote>
+	<p class="random-quote-author"> Джордж Савил Галифакс</p>
+	<p class="random-quote-note">(ЧИ, ЧС)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -325,7 +325,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

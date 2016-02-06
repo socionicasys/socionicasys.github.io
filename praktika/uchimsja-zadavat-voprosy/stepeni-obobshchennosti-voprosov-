@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Показаны разные уровни обобщенности вопросов для диагностики ТИМа и их назначение" />
 <meta name="keywords" content="Вопросы диагностики ТИМа, определение ТИМа, диагностика ТИМа, типирование, точные вопросы, эффективные вопросы" />
-<link rel="prev" href="../uchimsja-zadavat-voprosy" />
-<link rel="next" href="rekomendacii-po-formulirovaniju-voprosov-tipiruemomu" />
-<script type="text/javascript" src="../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/praktika/uchimsja-zadavat-voprosy" />
+<link rel="next" href="/praktika/uchimsja-zadavat-voprosy/rekomendacii-po-formulirovaniju-voprosov-tipiruemomu" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Степени обобщенности вопросов  | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li class="active"><a href="../../praktika">Практика</a></li>
-<li><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li class="active"><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../praktika">Практика</a> &raquo; <a href="../uchimsja-zadavat-voprosy">Учимся задавать вопросы</a> &raquo; <span>Степени обобщенности вопросов </span></div>	</nav>
+<a href="/praktika">Практика</a> &raquo; <a href="/praktika/uchimsja-zadavat-voprosy">Учимся задавать вопросы</a> &raquo; <span>Степени обобщенности вопросов </span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -110,8 +110,8 @@
 	<em>Анна Белик</em></p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="../uchimsja-zadavat-voprosy">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="rekomendacii-po-formulirovaniju-voprosov-tipiruemomu">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/praktika/uchimsja-zadavat-voprosy">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/praktika/uchimsja-zadavat-voprosy/rekomendacii-po-formulirovaniju-voprosov-tipiruemomu">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -120,24 +120,24 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../praktika">Практика</a>
+<li class="active"><a href="/praktika">Практика</a>
 <ul>
-<li><a href="../otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
-<li><a href="../metodika">Методика удаленной диагностики</a></li>
-<li><a href="../programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
-<li><a href="../spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
-<li><a href="../metodika/ekspertnaja-rabota">Экспертная работа в соционике</a></li>
-<li><a href="../etapy-obuchenija">Этапы обучения</a></li>
-<li class="active"><a href="../uchimsja-zadavat-voprosy">Учимся задавать вопросы</a>
+<li><a href="/praktika/otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
+<li><a href="/praktika/metodika">Методика удаленной диагностики</a></li>
+<li><a href="/praktika/programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
+<li><a href="/praktika/spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
+<li><a href="/praktika/metodika/ekspertnaja-rabota">Экспертная работа в соционике</a></li>
+<li><a href="/praktika/etapy-obuchenija">Этапы обучения</a></li>
+<li class="active"><a href="/praktika/uchimsja-zadavat-voprosy">Учимся задавать вопросы</a>
 <ul>
 <li class="selected"><span>Степени обобщенности вопросов </span></li>
-<li><a href="rekomendacii-po-formulirovaniju-voprosov-tipiruemomu">Рекомендации по формулированию вопросов типируемому</a></li>
-<li><a href="chto-nuzhno-utochnjat-v-dopolnitelnyh-voprosah">Что нужно уточнять в дополнительных вопросах</a></li>
+<li><a href="/praktika/uchimsja-zadavat-voprosy/rekomendacii-po-formulirovaniju-voprosov-tipiruemomu">Рекомендации по формулированию вопросов типируемому</a></li>
+<li><a href="/praktika/uchimsja-zadavat-voprosy/chto-nuzhno-utochnjat-v-dopolnitelnyh-voprosah">Что нужно уточнять в дополнительных вопросах</a></li>
 </ul>
 </li>
-<li><a href="../analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
-<li><a href="../experimenty">Эксперименты и исследования ШСС</a></li>
-<li><a href="../socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
+<li><a href="/praktika/analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
+<li><a href="/praktika/experimenty">Эксперименты и исследования ШСС</a></li>
+<li><a href="/praktika/socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -147,9 +147,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Никто не может судить о других, пока не научится судить о себе самом»</p>	</blockquote>
-	<p class="random-quote-author">Гете</p>
-	<p class="random-quote-note">(ЧИ)</p>
+		<p>«Пытаться сделать все сразу — значит ничего не сделать»</p>	</blockquote>
+	<p class="random-quote-author">Г. Лихтенберг</p>
+	<p class="random-quote-note">(ЧЛ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -191,7 +191,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

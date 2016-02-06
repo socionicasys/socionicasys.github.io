@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Системный подход обеспечивает возможность выявления структуры и построения модели ТИМа, субъективный характер взаимодействия психики с миром, порождающий аспектную структуру информационного потока, не имеет отношения к принятой в физике модели мира." />
 <meta name="keywords" content="соционика, система, информация, функция, аспект, процессор, модель, психика, объект, субъект, системный подход, модель ТИМ, информационный поток" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Современные основания соционики достаточно прочны | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Современные основания соционики достаточно прочны</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Современные основания соционики достаточно прочны</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -117,7 +117,7 @@
 <ol><li>
 		<em>Гуленко В.В</em>. <a href="http://socionics.kiev.ua/article/fund/">Насколько прочны основания соционики?</a> // Соционика, ментология и психология личности, № 3,1998 г.</li>
 	<li>
-		<em>Ермак В.Д</em>. <a href="vzaimodejstvije-psihiki-s-mirom">Взаимодействие психики человека с окружающим миром. Аспектная структура информационного потока.</a> // Соционика, ментология и психология личности, МИС, № 5,1997 г.</li>
+		<em>Ермак В.Д</em>. <a href="/biblioteka/statji/vzaimodejstvije-psihiki-s-mirom">Взаимодействие психики человека с окружающим миром. Аспектная структура информационного потока.</a> // Соционика, ментология и психология личности, МИС, № 5,1997 г.</li>
 	<li>
 		<em>Немов Р.С. </em>Психология. Учеб. для студентов высш. пед. учеб. заведений. В 3 кн. — Кн 1. Общие основы психологии.— 2-е изд.— М.: Просвещение: ВЛАДОС, 1995.— 576 с.</li>
 </ol><p>
@@ -163,7 +163,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Рассмотрена идея создания информационного соционического центра: его назначение, задачи, структура, требования к материалам и источникам." />
 <meta name="keywords" content="соционика, информационный центр, центр соционики, соционический эксперимент, развитие соционики" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Об информационном центре соционики | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Об информационном центре соционики</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Об информационном центре соционики</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -87,12 +87,12 @@
 	<li>
 		<strong>какие требования к регистрируемым экспериментам?</strong>
 		<ul><li>
-				это как раз и должен уточнить СРТ-99!.. А в отношении того, что <em>«…чем более разные подходы будут реализованы в методиках проводимых экспериментов, тем большую научную ценность будет представлять итоговая база данных…»</em> я сильно сомневаюсь по причине несравнимости разных методик (см. <a href="ob-eksperimente">мои соображения в «СЧ» № 12(15), 1998 г.</a>). По результатам СРТ-99, «…однако, должны быть сформулированы некоторые общие требования к регистрируемым экспериментам, гарантирующие их некоторый (пусть минимальный) уровень корректности и информативности…»</li>
+				это как раз и должен уточнить СРТ-99!.. А в отношении того, что <em>«…чем более разные подходы будут реализованы в методиках проводимых экспериментов, тем большую научную ценность будет представлять итоговая база данных…»</em> я сильно сомневаюсь по причине несравнимости разных методик (см. <a href="/biblioteka/statji/ob-eksperimente">мои соображения в «СЧ» № 12(15), 1998 г.</a>). По результатам СРТ-99, «…однако, должны быть сформулированы некоторые общие требования к регистрируемым экспериментам, гарантирующие их некоторый (пусть минимальный) уровень корректности и информативности…»</li>
 		</ul></li>
 	<li>
 		<strong>как сопоставлять различные результаты?</strong>
 		<ul><li>
-				а так же, как и в СРТ-99!..если речь идёт о рейтинге экспертов (см. <a href="ob-eksperimente" style="color:rgb(110,187,33);">мои соображения в «СЧ» № 12(15), 1998 г.</a>);</li>
+				а так же, как и в СРТ-99!..если речь идёт о рейтинге экспертов (см. <a href="/biblioteka/statji/ob-eksperimente" style="color:rgb(110,187,33);">мои соображения в «СЧ» № 12(15), 1998 г.</a>);</li>
 		</ul></li>
 	<li>
 		<strong>как избежать фиктивных данных?</strong>
@@ -147,7 +147,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Дано понятие параметра &quot;норм&quot;, описана работа двумерных функций (3 и 6) модели А, перечислены характерные психические реакции, указывающие на двумерность (нормативность) обработки информации." />
 <meta name="keywords" content="Двумерность, параметр норм, нормы, Nr, двумерная функция, долженствование, правила, социальные нормы, индивидуальные нормы, референтная функция" />
-<link rel="prev" href="odnomernost" />
-<link rel="next" href="trehmernost" />
-<script type="text/javascript" src="../../../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/dlja-novichkov/funkcii/razmernost/odnomernost" />
+<link rel="next" href="/teorija/dlja-novichkov/funkcii/razmernost/trehmernost" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Двумерность | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../../../index.html">Главная</a></li>
-<li class="active"><a href="../../../../teorija">Теория</a></li>
-<li><a href="../../../../praktika">Практика</a></li>
-<li><a href="../../../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../../../teorija">Теория</a> &raquo; <a href="../../../dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <a href="../../funkcii.1">Функции модели А</a> &raquo; <a href="../razmernost">Размерность функций</a> &raquo; <span>Двумерность</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <a href="/teorija/dlja-novichkov/funkcii">Функции модели А</a> &raquo; <a href="/teorija/dlja-novichkov/funkcii/razmernost">Размерность функций</a> &raquo; <span>Двумерность</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -65,7 +65,7 @@
 <p>
 	Понятно, что оно самое правильное мышление в мире, потому что оно именно такое, как ожидается; потому что оно следует установленным правилам и договоренностям. Что может быть лучше? Все прогнозируемо, все определено, все точно, как в аптеке. Мужчины пропускают дам вперед. Люди доброжелательны. Всеобщая договоренность. Ура!</p>
 <p>
-	<img alt="«Нормативность»" class="aside" src="../../../../images/pictures/illustration-23.png" />И для этого «рая на земле» мы имеем:</p>
+	<img alt="«Нормативность»" class="aside" src="/images/pictures/illustration-23.png" />И для этого «рая на земле» мы имеем:</p>
 <ul><li>
 		пословицы, поговорки, идиомы, которые отражают общие устойчивые представления;</li>
 	<li>
@@ -117,7 +117,7 @@
 <p>
 	Люди с <strong>нормативной ЧЛ</strong> склонны к точному выполнению технологии, методов работы, определенных действий, они стремятся быть «правильными» профессионалами. Отсюда обычно вытекает добросовестная исполнительность. Работа есть работа, работа — долг.</p>
 <p>
-	Проявления <strong>нормативной БЛ</strong> — это стремление к последовательности (в мышлении, внешних проявлениях) — обычно у рациональных типов, к следованию правилам, фиксация в рамках определенной теории, это естественная логическая правильность, это стандартный подход к классификациям, обобщениям. Это сама стандартизация.<a class="footnote" href="dvumernost#footnote-1" id="backref-1" title="Подобные описания внешних проявлений нормативной функции могут быть использованы для определения ТИМа как поведенческие описания. Очень бы хотелось избежать такого упрощенного подхода. Главное в этих примерах — это стремление показать, как выражает себя внешне вторая размерность: стремление застолбить некие точные ориентиры в жизни. Именно это вы должны отмечать для себя как важное в определении ТИМа. А внешних выражений может быть большое количество, я называю только те, которые часто встречались нам при работе с типируемыми.">1</a></p>
+	Проявления <strong>нормативной БЛ</strong> — это стремление к последовательности (в мышлении, внешних проявлениях) — обычно у рациональных типов, к следованию правилам, фиксация в рамках определенной теории, это естественная логическая правильность, это стандартный подход к классификациям, обобщениям. Это сама стандартизация.<a class="footnote" href="#footnote-1" id="backref-1" title="Подобные описания внешних проявлений нормативной функции могут быть использованы для определения ТИМа как поведенческие описания. Очень бы хотелось избежать такого упрощенного подхода. Главное в этих примерах — это стремление показать, как выражает себя внешне вторая размерность: стремление застолбить некие точные ориентиры в жизни. Именно это вы должны отмечать для себя как важное в определении ТИМа. А внешних выражений может быть большое количество, я называю только те, которые часто встречались нам при работе с типируемыми.">1</a></p>
 <p>
 	На это все опираются люди по своим двухмерным функциям — в мышлении, во взглядах на жизнь, в мироощущении. И они могут уверенно отстаивать эту позицию, потому что должна же быть хоть в чем-то однозначность и уверенность. Таким образом, суть второй размерности — <strong>правильность</strong> и <strong>негибкость</strong>, наличие четких <strong>«черно-белых» ориентиров</strong>.</p>
 <p class="aside colored">
@@ -129,25 +129,25 @@
 <p>
 	<strong>Читайте по данной теме:</strong></p>
 <ol class="literature"><li>
-		<span class="name">Эглит И. М.</span> <a href="../../../../biblioteka/statji/razmernost-funkcij">Размерность функций</a></li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/statji/razmernost-funkcij">Размерность функций</a></li>
 	<li>
-		<span class="name">Эглит И. М.</span>, <span class="name">Пятницкий В. В.</span> <a href="../../../../biblioteka/statji/issledovanie-strahov">Исследование страхов в одномерных функциях</a></li>
+		<span class="name">Эглит И. М.</span>, <span class="name">Пятницкий В. В.</span> <a href="/biblioteka/statji/issledovanie-strahov">Исследование страхов в одномерных функциях</a></li>
 	<li>
-		<span class="name">Эглит И. М.</span> <a href="../../../../biblioteka/statji/praktika-primenenija-protokolov">Практика применения протоколов при заочной идентификации ТИМ психики в Интернете</a></li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/statji/praktika-primenenija-protokolov">Практика применения протоколов при заочной идентификации ТИМ психики в Интернете</a></li>
 	<li>
-		<span class="name">Эглит И. М.</span> <a href="../../../../biblioteka/statji/malomernyje-funkcii-ne-slabyje">Маломерные функции — не слабые функции</a></li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/statji/malomernyje-funkcii-ne-slabyje">Маломерные функции — не слабые функции</a></li>
 	<li>
-		<span class="name">Эглит И. М.</span> <a href="../../../../biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа</a></li>
+		<span class="name">Эглит И. М.</span> <a href="/biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа</a></li>
 	<li>
-		<a href="../../../../praktika/analiz-teksta-nekotorye-osobennosti/opredelenie-parametra-nr">Определение параметра Nr</a></li>
+		<a href="http://socionicasys.org/praktika/analiz-teksta-nekotorye-osobennosti/opredelenie-parametra-nr">Определение параметра Nr</a></li>
 	<li>
 		<a href="http://socionicasys.org/forum/viewtopic.php?f=73&amp;t=4437">Нормативные функции, их работа и определение (материалы форума)</a></li>
 </ol><hr /><p id="footnote-1">
-	<span class="note"><a class="footnote" href="dvumernost#backref-1">1</a> Подобные описания внешних проявлений нормативной функции могут быть использованы для определения ТИМа как поведенческие описания. Очень бы хотелось избежать такого упрощенного подхода. Главное в этих примерах — это стремление показать, как выражает себя внешне вторая размерность: стремление застолбить некие точные ориентиры в жизни. Именно это вы должны отмечать для себя как важное в определении ТИМа. А внешних выражений может быть большое количество, я называю только те, которые часто встречались нам при работе с типируемыми.</span></p>
+	<span class="note"><a class="footnote" href="#backref-1">1</a> Подобные описания внешних проявлений нормативной функции могут быть использованы для определения ТИМа как поведенческие описания. Очень бы хотелось избежать такого упрощенного подхода. Главное в этих примерах — это стремление показать, как выражает себя внешне вторая размерность: стремление застолбить некие точные ориентиры в жизни. Именно это вы должны отмечать для себя как важное в определении ТИМа. А внешних выражений может быть большое количество, я называю только те, которые часто встречались нам при работе с типируемыми.</span></p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="odnomernost">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="trehmernost">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/teorija/dlja-novichkov/funkcii/razmernost/odnomernost">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/teorija/dlja-novichkov/funkcii/razmernost/trehmernost">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -156,36 +156,36 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li class="active"><a href="../../../dlja-novichkov">Соционика от новичка до эксперта</a>
+<li class="active"><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a>
 <ul>
-<li><a href="../../chto-takoe-socionica">Что такое соционика?</a></li>
-<li><a href="../../sistemy">Системный подход</a></li>
-<li><a href="../../aspekty">Информационные аспекты</a></li>
-<li><a href="../../model">Модель ТИМа</a></li>
-<li><a href="../../bloki-i-kolca">Блоки и кольца модели А</a></li>
-<li class="active"><a href="../../funkcii.1">Функции модели А</a>
+<li><a href="/teorija/dlja-novichkov/chto-takoe-socionica">Что такое соционика?</a></li>
+<li><a href="/teorija/dlja-novichkov/sistemy">Системный подход</a></li>
+<li><a href="/teorija/dlja-novichkov/aspekty">Информационные аспекты</a></li>
+<li><a href="/teorija/dlja-novichkov/model">Модель ТИМа</a></li>
+<li><a href="/teorija/dlja-novichkov/bloki-i-kolca">Блоки и кольца модели А</a></li>
+<li class="active"><a href="/teorija/dlja-novichkov/funkcii">Функции модели А</a>
 <ul>
-<li class="active"><a href="../razmernost">Размерность функций</a>
+<li class="active"><a href="/teorija/dlja-novichkov/funkcii/razmernost">Размерность функций</a>
 <ul>
-<li><a href="odnomernost">Одномерность</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/razmernost/odnomernost">Одномерность</a></li>
 <li class="selected"><span>Двумерность</span></li>
-<li><a href="trehmernost">Трехмерность</a></li>
-<li><a href="chetyrehmernost">Четырехмерность</a></li>
-<li><a href="indikatory-razmernosti-funkcij">Индикаторы размерности функций</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/razmernost/trehmernost">Трехмерность</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/razmernost/chetyrehmernost">Четырехмерность</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/razmernost/indikatory-razmernosti-funkcij">Индикаторы размерности функций</a></li>
 </ul>
 </li>
-<li><a href="../znaki">Знаки функций</a></li>
-<li><a href="../konspekt-svojstva-funkcij">Конспект «Свойства функций»</a></li>
-<li><a href="../harakteristiki-i-upravljajushchie-emocii-funkcij">Основные свойства и управляющие эмоции функций</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/znaki">Знаки функций</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/konspekt-svojstva-funkcij">Конспект «Свойства функций»</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/harakteristiki-i-upravljajushchie-emocii-funkcij">Основные свойства и управляющие эмоции функций</a></li>
 </ul>
 </li>
-<li><a href="../../opisanie-modelej">Описания моделей ТИМа</a></li>
-<li><a href="../../mezhtimnye-otnoshenija.1">Интертипные отношения</a></li>
+<li><a href="/teorija/dlja-novichkov/opisanie-modelej">Описания моделей ТИМа</a></li>
+<li><a href="/teorija/dlja-novichkov/mezhtimnye-otnoshenija">Интертипные отношения</a></li>
 </ul>
 </li>
-<li><a href="../../../po-ermaku">Соционика по Ермаку</a></li>
+<li><a href="/teorija/po-ermaku">Соционика по Ермаку</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -195,9 +195,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Горе можно пережить в одиночестве, но радость — чтоб познать ее в полной мере — нужно разделить с другим человеком»</p>	</blockquote>
-	<p class="random-quote-author">Марк Твен</p>
-	<p class="random-quote-note">(ЧЭ)</p>
+		<p>«Суди о других по тому, что ты есть, тогда ты редко будешь ошибаться»</p>	</blockquote>
+	<p class="random-quote-author">Г. И. Гурджиев</p>
+	<p class="random-quote-note">(ЧИ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -239,7 +239,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

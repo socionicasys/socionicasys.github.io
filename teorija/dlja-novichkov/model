@@ -5,16 +5,16 @@
 	<meta name="description" content="Описание модели А, 8 функций, входящих в ее состав. Рассмотрен механизм обработки информации функциями. Приведены 16 моделей типа информационного метаболизма (ТИМ).
 " />
 <meta name="keywords" content="модель А, ТИМ, функция, обработка информации, модель ТИМ, аспект, передача управления, передача информации" />
-<link rel="prev" href="aspekty" />
-<link rel="next" href="bloki-i-kolca" />
-<script type="text/javascript" src="../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/dlja-novichkov/aspekty" />
+<link rel="next" href="/teorija/dlja-novichkov/bloki-i-kolca" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Модель ТИМа | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -26,25 +26,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../index.html">Главная</a></li>
-<li class="active"><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../teorija">Теория</a> &raquo; <a href="../dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <span>Модель ТИМа</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <span>Модель ТИМа</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -80,23 +80,23 @@
 <p>
 	То же самое происходит и в модели обработки информации. Каждая функция выполняет определенную задачу, функции между собой объединены связями (блоки, суперблоки), между функциями происходит передача управления (не информации). Это важно помнить, что передается не информация от функции к функции, а именно управление (я выполнил свою задачу, теперь выполняй ты свою).</p>
 <p>
-	<img alt="Попадение информации на модель А" class="aside" src="../../images/pictures/illustration-03.png" />Как информация попадает в это устройство ее обработки? Информация поступает не к одной определенную функции, а «падает» на всю модель сразу, на все ее ячейки (функции). Ведь информационный поток не разделен на отдельные аспекты. Это мы его условно разделили (смоделировали). Реальная информация — это единый неразрывный поток. Вот опять нужно уточнение относительно слова «поток». Не нужно представлять, как некий поток (например, похожий на поток жидкости) отделяется от мира и течет к нам в психику. Слово «поток» условно передает всю массу, весь объем информации, воспринимаемый психикой. Напомню, что информация не существует сама по себе, она для нас становится таковой, появляется только в момент взаимодействия с миром (с какой-то его частью). В любой момент взаимодействия с миром мы получаем массу информации, содержащей в себе все аспекты. И вся эта масса попадает на модель целиком. А вот функции модели уже разбираются со всем этим багажом. Каждая функция воспринимает только ту часть (тот аспект) из всей массы, которая обрабатывается только ей. Так, одна функция будет обрабатывать только информацию по ЧЛ, другая по БЭ и т. д.</p>
+	<img alt="Попадение информации на модель А" class="aside" src="/images/pictures/illustration-03.png" />Как информация попадает в это устройство ее обработки? Информация поступает не к одной определенную функции, а «падает» на всю модель сразу, на все ее ячейки (функции). Ведь информационный поток не разделен на отдельные аспекты. Это мы его условно разделили (смоделировали). Реальная информация — это единый неразрывный поток. Вот опять нужно уточнение относительно слова «поток». Не нужно представлять, как некий поток (например, похожий на поток жидкости) отделяется от мира и течет к нам в психику. Слово «поток» условно передает всю массу, весь объем информации, воспринимаемый психикой. Напомню, что информация не существует сама по себе, она для нас становится таковой, появляется только в момент взаимодействия с миром (с какой-то его частью). В любой момент взаимодействия с миром мы получаем массу информации, содержащей в себе все аспекты. И вся эта масса попадает на модель целиком. А вот функции модели уже разбираются со всем этим багажом. Каждая функция воспринимает только ту часть (тот аспект) из всей массы, которая обрабатывается только ей. Так, одна функция будет обрабатывать только информацию по ЧЛ, другая по БЭ и т. д.</p>
 <p>
 	Подставим в рисунок модели вместо номеров функций значки тех аспектов информации, которые обрабатывает каждая функция, и мы получим 16 моделей обработки информации, или 16 моделей типа информационного метаболизма (ТИМ)</p>
 <p style="text-align:center;">
-	<img alt="Модели А всех социотипов в соционике" src="../../images/diagrams/all_models.png" style="width:325px;height:485px;" /></p>
+	<img alt="Модели А всех социотипов в соционике" src="/images/diagrams/all_models.png" style="width:325px;height:485px;" /></p>
 <p>
 	Нужно отметить, что правила расстановки функций не произвольные. Как видно из таблицы, функции чередуются по «вертности» (белые с черными), в горизонтальной паре объединяются рациональная (логика или этика) и иррациональная (сенсорика или интуиция) функции.</p>
 <p>
-	<img alt="Аспекты и функции соционики" class="aside" src="../../images/pictures/illustration-03_1.png" />Теперь уже функции будут иметь не только номер, но и название, которое показывает нам, какой аспект информации обрабатывается данной функцией. Например ф. 1 ЧЛ, ф. 2 БС. Вы заметили, фактически аспекты и функции имеют одни и те же обозначения. Можно сказать «аспект ЧЛ» (деловая логика), можно сказать «функция ЧЛ» (деловая логика). Однако при этом не нужно путать аспекты и функции, что часто происходит у начинающих социоников. Расставим все по местам еще раз.</p>
+	<img alt="Аспекты и функции соционики" class="aside" src="/images/pictures/illustration-03_1.png" />Теперь уже функции будут иметь не только номер, но и название, которое показывает нам, какой аспект информации обрабатывается данной функцией. Например ф. 1 ЧЛ, ф. 2 БС. Вы заметили, фактически аспекты и функции имеют одни и те же обозначения. Можно сказать «аспект ЧЛ» (деловая логика), можно сказать «функция ЧЛ» (деловая логика). Однако при этом не нужно путать аспекты и функции, что часто происходит у начинающих социоников. Расставим все по местам еще раз.</p>
 <p class="definition">
 	<span class="term">Аспект</span> — это то, <em>что обрабатывается</em> психикой (часть информационного потока).</p>
 <p class="definition">
 	<span class="term">Функция</span> — это то, <em>что обрабатывает</em> (часть или устройство психики) информацию.</p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="aspekty">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="bloki-i-kolca">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/teorija/dlja-novichkov/aspekty">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/teorija/dlja-novichkov/bloki-i-kolca">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -105,21 +105,21 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li class="active"><a href="../dlja-novichkov">Соционика от новичка до эксперта</a>
+<li class="active"><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a>
 <ul>
-<li><a href="chto-takoe-socionica">Что такое соционика?</a></li>
-<li><a href="sistemy">Системный подход</a></li>
-<li><a href="aspekty">Информационные аспекты</a></li>
+<li><a href="/teorija/dlja-novichkov/chto-takoe-socionica">Что такое соционика?</a></li>
+<li><a href="/teorija/dlja-novichkov/sistemy">Системный подход</a></li>
+<li><a href="/teorija/dlja-novichkov/aspekty">Информационные аспекты</a></li>
 <li class="selected"><span>Модель ТИМа</span></li>
-<li><a href="bloki-i-kolca">Блоки и кольца модели А</a></li>
-<li><a href="funkcii.1">Функции модели А</a></li>
-<li><a href="opisanie-modelej">Описания моделей ТИМа</a></li>
-<li><a href="mezhtimnye-otnoshenija.1">Интертипные отношения</a></li>
+<li><a href="/teorija/dlja-novichkov/bloki-i-kolca">Блоки и кольца модели А</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii">Функции модели А</a></li>
+<li><a href="/teorija/dlja-novichkov/opisanie-modelej">Описания моделей ТИМа</a></li>
+<li><a href="/teorija/dlja-novichkov/mezhtimnye-otnoshenija">Интертипные отношения</a></li>
 </ul>
 </li>
-<li><a href="../po-ermaku">Соционика по Ермаку</a></li>
+<li><a href="/teorija/po-ermaku">Соционика по Ермаку</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -129,8 +129,8 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Ложь иной раз так ловко прикидывается истиной, что не поддаться обману значило бы изменить здравому смыслу»</p>	</blockquote>
-	<p class="random-quote-author">Ф. Ларошфуко</p>
+		<p>«Никогда человек не бывает так близок к совершенству, как при заполнении анкеты о приеме на работу»</p>	</blockquote>
+	<p class="random-quote-author">«Пшекруй»</p>
 	<p class="random-quote-note">(ЧИ)</p>
 </section>
 <!--/noindex-->
@@ -173,7 +173,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

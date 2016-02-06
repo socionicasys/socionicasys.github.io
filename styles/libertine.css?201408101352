@@ -106,7 +106,7 @@ input, select {
 @font-face {
 	font-family: 'Linux Libertine';
 	src: url('../fonts/LinLibertine_It-4.2.6-webfont.eot');
-	src: local('☺'), url('../fonts/LinLibertine_It-4.2.6-webfont.woff') format('woff'), url('../fonts/LinLibertine_It-4.2.6-webfont.ttf') format('truetype'), url('../fonts/LinLibertine_It-4.2.6-webfont.svg') format('svg');
+	src: local('☺'), url('../fonts/LinLibertine_It-4.2.6-webfont.woff') format('woff'), url('../fonts/LinLibertine_It-4.2.6-webfont.ttf') format('truetype'), url('../fonts/LinLibertine_It-4.2.6-webfont.svg#webfontFBLhWQQz') format('svg');
 	font-weight: normal;
 	font-style: italic;
 }
@@ -114,7 +114,7 @@ input, select {
 @font-face {
 	font-family: 'Linux Libertine';
 	src: url('../fonts/LinLibertine_Bd-4.1.5-webfont.eot');
-	src: local('☺'), url('../fonts/LinLibertine_Bd-4.1.5-webfont.woff') format('woff'), url('../fonts/LinLibertine_Bd-4.1.5-webfont.ttf') format('truetype'), url('../fonts/LinLibertine_Bd-4.1.5-webfont.svg') format('svg');
+	src: local('☺'), url('../fonts/LinLibertine_Bd-4.1.5-webfont.woff') format('woff'), url('../fonts/LinLibertine_Bd-4.1.5-webfont.ttf') format('truetype'), url('../fonts/LinLibertine_Bd-4.1.5-webfont.svg#webfontqvu11aVZ') format('svg');
 	font-weight: bold;
 	font-style: normal;
 }
@@ -122,7 +122,7 @@ input, select {
 @font-face {
 	font-family: 'Linux Libertine';
 	src: url('../fonts/LinLibertine_BI-4.1.0-webfont.eot');
-	src: local('☺'), url('../fonts/LinLibertine_BI-4.1.0-webfont.woff') format('woff'), url('../fonts/LinLibertine_BI-4.1.0-webfont.ttf') format('truetype'), url('../fonts/LinLibertine_BI-4.1.0-webfont.svg') format('svg');
+	src: local('☺'), url('../fonts/LinLibertine_BI-4.1.0-webfont.woff') format('woff'), url('../fonts/LinLibertine_BI-4.1.0-webfont.ttf') format('truetype'), url('../fonts/LinLibertine_BI-4.1.0-webfont.svg#webfontdLqb7gUt') format('svg');
 	font-weight: bold;
 	font-style: italic;
 }
@@ -130,7 +130,7 @@ input, select {
 @font-face {
 	font-family: 'Linux Libertine';
 	src: url('../fonts/LinLibertine_Re-4.7.5-webfont.eot');
-	src: local('☺'), url('../fonts/LinLibertine_Re-4.7.5-webfont.woff') format('woff'), url('../fonts/LinLibertine_Re-4.7.5-webfont.ttf') format('truetype'), url('../fonts/LinLibertine_Re-4.7.5-webfont.svg') format('svg');
+	src: local('☺'), url('../fonts/LinLibertine_Re-4.7.5-webfont.woff') format('woff'), url('../fonts/LinLibertine_Re-4.7.5-webfont.ttf') format('truetype'), url('../fonts/LinLibertine_Re-4.7.5-webfont.svg#webfont5bjZ8xEY') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -178,7 +178,7 @@ body:before {
 }
 
 #logo-link {
-	background: url('../images/Logo.png?4') no-repeat;
+	background: url('/images/Logo.png?4') no-repeat;
 	height: 5em;
 	text-decoration: none;
 }
@@ -215,7 +215,7 @@ body:before {
 	float: left;
 	width: 100%;
 	padding: 0.6em 0 0.5em 8.5em;
-	background: url('../images/Logo.png?4') no-repeat 0.5em -5.75em;
+	background: url('/images/Logo.png?4') no-repeat 0.5em -5.75em;
 	border-bottom: 3px solid #6ebb21;
 }
 
@@ -321,19 +321,19 @@ body:before {
 #secondary-navigation li {
 	margin-left: -12px;
 	padding-left: 12px;
-	background: url("../images/menu-bullet.png") no-repeat 3px 7px;
+	background: url("/images/menu-bullet.png") no-repeat 3px 7px;
 }
 
 #secondary-navigation li.active {
-	background: url("../images/menu-bullet-active.png") no-repeat 1px 9px;
+	background: url("/images/menu-bullet-active.png") no-repeat 1px 9px;
 }
 
 #secondary-navigation li.selected {
-	background: url("../images/menu-bullet-selected.png") no-repeat 3px 7px;
+	background: url("/images/menu-bullet-selected.png") no-repeat 3px 7px;
 }
 
 #secondary-navigation li.active.selected {
-	background: url("../images/menu-bullet-active-selected.png") no-repeat 1px 9px;
+	background: url("/images/menu-bullet-active-selected.png") no-repeat 1px 9px;
 }
 
 #secondary-navigation a {
@@ -487,7 +487,7 @@ body:before {
 #content ul li {
 	margin-left: -1em;
 	padding-left: 1em;
-	background: url('../images/dash.png') 0 0.65em no-repeat;
+	background: url('/images/dash.png') 0 0.65em no-repeat;
 }
 
 #content ol.literature {
@@ -905,12 +905,12 @@ td.skipped {
 
 .model-diagram.directed .ego,
 .model-diagram.directed .id {
-	background: url('../images/diagrams/arrow_right.png') no-repeat center;
+	background: url('/images/diagrams/arrow_right.png') no-repeat center;
 }
 
 .model-diagram.directed .superego,
 .model-diagram.directed .superid {
-	background: url('../images/diagrams/arrow_left.png') no-repeat center;
+	background: url('/images/diagrams/arrow_left.png') no-repeat center;
 }
 
 #content .model-diagram.compact .inline-icon {

@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Протоколы ШСС являются документами, подтверждающими модель А" />
 <meta name="keywords" content="Протокол идентификации, модель А" />
-<link rel="prev" href="../protokoly-diagnostiki" />
-<link rel="next" href="../posle-diagnostiki" />
-<script type="text/javascript" src="../../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/praktika/metodika/protokoly-diagnostiki" />
+<link rel="next" href="/praktika/metodika/posle-diagnostiki" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>В чем я вижу ценность протоколов идентификации ТИМа | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../../index.html">Главная</a></li>
-<li><a href="../../../teorija">Теория</a></li>
-<li class="active"><a href="../../../praktika">Практика</a></li>
-<li><a href="../../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li class="active"><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../../praktika">Практика</a> &raquo; <a href="../../metodika">Методика удаленной диагностики</a> &raquo; <a href="../protokoly-diagnostiki">Протоколы диагностики ТИМа</a> &raquo; <span>В чем я вижу ценность протоколов идентификации ТИМа</span></div>	</nav>
+<a href="/praktika">Практика</a> &raquo; <a href="/praktika/metodika">Методика удаленной диагностики</a> &raquo; <a href="/praktika/metodika/protokoly-diagnostiki">Протоколы диагностики ТИМа</a> &raquo; <span>В чем я вижу ценность протоколов идентификации ТИМа</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -69,23 +69,23 @@
 <p>
 	<strong>Каждый протокол содержит от 300 до 800 проанализированных фрагментов.  Это не пара высказываний и поверхностные выводы, а избыточный материал для того, чтобы убедиться в правильности определения параметров.</strong></p>
 <p>
-	<strong>Любой человек может перепроверить анализ, так как вся информация о <a href="../../metodika">методике анализа</a> и сами <a href="../../../biblioteka/protocol">протоколы </a>имеются в открытом доступе на сайте ШСС.</strong></p>
+	<strong>Любой человек может перепроверить анализ, так как вся информация о <a href="http://socionicasys.org/praktika/metodika">методике анализа</a> и сами <a href="http://socionicasys.org/biblioteka/protocol">протоколы </a>имеются в открытом доступе на сайте ШСС.</strong></p>
 <p>
 	 </p>
 <p>
 	В протоколах специально введена цветовая индикация. Если сложно углубляться в анализ текста, то можно просто просмотреть распределение цветов (по размерности функций).</p>
 <p>
-	Кроме того  можно просмотреть каждый протокол через программу <a href="../../programma-informacionnyj-analiz">«Информационный анализ» (ИА)</a>, в которой есть возможность делать выборку по каждому параметру, а также увидеть систему переводов. Это тоже показательно.</p>
+	Кроме того  можно просмотреть каждый протокол через программу <a href="http://socionicasys.org/praktika/programma-informacionnyj-analiz">«Информационный анализ» (ИА)</a>, в которой есть возможность делать выборку по каждому параметру, а также увидеть систему переводов. Это тоже показательно.</p>
 <p>
 	Например:</p>
 <p>
-	<img alt="" src="../../../images/screenshots/�%2598�%2590_навига�%2586и�%258F.JPG" style="font-size:14px;line-height:16.7999992370605px;width:325px;height:595px;background-color:rgb(255,255,255);" />                 <img alt="" src="../../../images/screenshots/�%259Fе�%2580евод�%258B&#32;ин�%2584о�%2580ма�%2586ии&#32;Эл�%258C�%2585ан�%2582.JPG" style="width:325px;height:595px;" />    </p>
+	<img alt="" src="/images/screenshots/%D0%98%D0%90_%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F.JPG" style="font-size:14px;line-height:16.7999992370605px;width:325px;height:595px;background-color:rgb(255,255,255);" />                 <img alt="" src="/images/screenshots/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8%20%D0%AD%D0%BB%D1%8C%D1%85%D0%B0%D0%BD%D1%82.JPG" style="width:325px;height:595px;" />    </p>
 <p>
 	Эти же закономерности распределения можно проследить в итоговых таблицах, которые генерирует программа ИА в протоколе:</p>
 <p>
-	<img alt="" src="../../../images/screenshots/analyst_11_thumbnail.png" style="font-size:14px;line-height:1.5;width:500px;height:350px;" /></p>
+	<img alt="" src="/images/screenshots/analyst_11_thumbnail.png" style="font-size:14px;line-height:1.5;width:500px;height:350px;" /></p>
 <p>
-	<img alt="" src="../../../images/screenshots/analyst_12.png" style="width:500px;height:350px;" /></p>
+	<img alt="" src="/images/screenshots/analyst_12.png" style="width:500px;height:350px;" /></p>
 <p>
 	Вопрос: мы наблюдаем закономерности в обработке информации или совпадения?</p>
 <p>
@@ -94,8 +94,8 @@
 	<span style="font-size:14.399999618530273px;line-height:1.5;">Эглит И.М.</span></p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="../protokoly-diagnostiki">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="../posle-diagnostiki">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/praktika/metodika/protokoly-diagnostiki">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/praktika/metodika/posle-diagnostiki">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -104,39 +104,39 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../../praktika">Практика</a>
+<li class="active"><a href="/praktika">Практика</a>
 <ul>
-<li><a href="../../otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
-<li class="active"><a href="../../metodika">Методика удаленной диагностики</a>
+<li><a href="/praktika/otlichitelnye-osobennosti-metodiki-shss">Отличительные особенности методики ШСС</a></li>
+<li class="active"><a href="/praktika/metodika">Методика удаленной диагностики</a>
 <ul>
-<li><a href="../osobennosti-udalennogo-tipirovanija">Особенности удаленной диагностики</a></li>
-<li><a href="../procedura-diagnostiki">Процедура диагностики</a></li>
-<li><a href="../anketirovanie">Анкетирование и требование к вопросам</a></li>
-<li><a href="../sochinenija">Сочинения</a></li>
-<li><a href="../pogruzhenie-v-aspektnuju-sredu">«Погружение» в аспектную среду</a></li>
-<li><a href="../testirovanie-strahov">Тестирование страхов</a></li>
-<li><a href="../samoocenka-tipiruemyh">Самооценка типируемых</a></li>
-<li><a href="../ob-otvetah-tipiruemyh">Об ответах типируемых </a></li>
-<li><a href="../obshchie-pravila-analiza">Общие правила анализа </a></li>
-<li><a href="../edinica-analiza-teksta">Единица анализа текста</a></li>
-<li><a href="../indikatory-funkcij">Индикаторы функций</a></li>
-<li class="active"><a href="../protokoly-diagnostiki">Протоколы диагностики ТИМа</a>
+<li><a href="/praktika/metodika/osobennosti-udalennogo-tipirovanija">Особенности удаленной диагностики</a></li>
+<li><a href="/praktika/metodika/procedura-diagnostiki">Процедура диагностики</a></li>
+<li><a href="/praktika/metodika/anketirovanie">Анкетирование и требование к вопросам</a></li>
+<li><a href="/praktika/metodika/sochinenija">Сочинения</a></li>
+<li><a href="/praktika/metodika/pogruzhenie-v-aspektnuju-sredu">«Погружение» в аспектную среду</a></li>
+<li><a href="/praktika/metodika/testirovanie-strahov">Тестирование страхов</a></li>
+<li><a href="/praktika/metodika/samoocenka-tipiruemyh">Самооценка типируемых</a></li>
+<li><a href="/praktika/metodika/ob-otvetah-tipiruemyh">Об ответах типируемых </a></li>
+<li><a href="/praktika/metodika/obshchie-pravila-analiza">Общие правила анализа </a></li>
+<li><a href="/praktika/metodika/edinica-analiza-teksta">Единица анализа текста</a></li>
+<li><a href="/praktika/metodika/indikatory-funkcij">Индикаторы функций</a></li>
+<li class="active"><a href="/praktika/metodika/protokoly-diagnostiki">Протоколы диагностики ТИМа</a>
 <ul>
 <li class="selected"><span>В чем я вижу ценность протоколов идентификации ТИМа</span></li>
 </ul>
 </li>
-<li><a href="../posle-diagnostiki">После диагностики ТИМа</a></li>
-<li><a href="../sovershenstvovanie-masterstva">Совершенствование мастерства</a></li>
+<li><a href="/praktika/metodika/posle-diagnostiki">После диагностики ТИМа</a></li>
+<li><a href="/praktika/metodika/sovershenstvovanie-masterstva">Совершенствование мастерства</a></li>
 </ul>
 </li>
-<li><a href="../../programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
-<li><a href="../../spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
-<li><a href="../ekspertnaja-rabota">Экспертная работа в соционике</a></li>
-<li><a href="../../etapy-obuchenija">Этапы обучения</a></li>
-<li><a href="../../uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
-<li><a href="../../analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
-<li><a href="../../experimenty">Эксперименты и исследования ШСС</a></li>
-<li><a href="../../socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
+<li><a href="/praktika/programma-informacionnyj-analiz">Программа «Информационный анализ»</a></li>
+<li><a href="/praktika/spravochnik-po-indikatoram">Программа «Справочник индикаторов»</a></li>
+<li><a href="/praktika/metodika/ekspertnaja-rabota">Экспертная работа в соционике</a></li>
+<li><a href="/praktika/etapy-obuchenija">Этапы обучения</a></li>
+<li><a href="/praktika/uchimsja-zadavat-voprosy">Учимся задавать вопросы</a></li>
+<li><a href="/praktika/analiz-teksta-nekotorye-osobennosti">Анализ текста: некоторые особенности</a></li>
+<li><a href="/praktika/experimenty">Эксперименты и исследования ШСС</a></li>
+<li><a href="/praktika/socionicheskoe-samonabljudenie">Соционическое самонаблюдение</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -146,9 +146,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Признаюсь, я имею сильное предубеждение против всех слепых, кривых, глухих, немых, безногих, безруких, горбатых и проч. Я замечал, что всегда есть какое-то странное отношение между наружностью человека и его душою: как будто с потерею члена душа теряет какое-нибудь чувство»</p>	</blockquote>
-	<p class="random-quote-author">М.Ю. Лермонтов</p>
-	<p class="random-quote-note">(БС, ЧИ)</p>
+		<p>«Горе людям, не знающим смысла своей жизни»</p>	</blockquote>
+	<p class="random-quote-author">Б. Паскаль</p>
+	<p class="random-quote-note">(ЧИ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -190,7 +190,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

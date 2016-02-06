@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Выдвинута гипотеза о том, что с точки зрения системной соционики, механизм управления ТИМ для биологических систем реализуется через эмоциональные состояния. Предложено называть такие эмоции управляющими эмоциями. " />
 <meta name="keywords" content="соционика, ТИМ, механизм управления, управляющие эмоции, УЭ" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Об управляющих эмоциях и модели ТИМ | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>Об управляющих эмоциях и модели ТИМ</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>Об управляющих эмоциях и модели ТИМ</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -178,11 +178,11 @@
 <ol><li>
 		Ермак В.Д. Классическая соционика. // М.: Черная Белка, 2009.</li>
 	<li>
-		Эглит И.М. <a href="osnovy-samonabludenij">Основы соционического самонаблюдения</a> // СМиПЛ, 2011, №1.</li>
+		Эглит И.М. <a href="/biblioteka/statji/osnovy-samonabludenij">Основы соционического самонаблюдения</a> // СМиПЛ, 2011, №1.</li>
 	<li>
 		Реджиналд А. Рей. Нерушимые истины. // АСТ, 2004. </li>
 	<li>
-		Эглит И.М., Пятницкий В.В. <a href="issledovanie-strahov">Исследование страхов в одномерных функциях</a> // СМиПЛ, 2009, №4.</li>
+		Эглит И.М., Пятницкий В.В. <a href="/biblioteka/statji/issledovanie-strahov">Исследование страхов в одномерных функциях</a> // СМиПЛ, 2009, №4.</li>
 </ol><p>
 	<a href="http://socionicasys.org/forum/statji/pyatnickij-v-v-ob-upravlyayushhikh-ehmociyakh-i-modeli-tim-t4191.html">Обсуждение на форуме</a></p>
 </article>
@@ -226,7 +226,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

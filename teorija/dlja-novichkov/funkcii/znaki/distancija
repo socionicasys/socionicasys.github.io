@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Рассмотрено свойство знака &quot;дистанция&quot;, его проявления у плюсовых и минусовых функций." />
 <meta name="keywords" content="свойство знака, свойство дистанция, психологическая дистанция, близкая дистанция, далекая дистанция, знак &quot;плюс&quot;, знак &quot;минус&quot;, плюсовая функция, минусовая функция" />
-<link rel="prev" href="napravlennost" />
-<link rel="next" href="funkcii-so-znakami" />
-<script type="text/javascript" src="../../../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/dlja-novichkov/funkcii/znaki/napravlennost" />
+<link rel="next" href="/teorija/dlja-novichkov/funkcii/znaki/funkcii-so-znakami" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Свойство дистанция | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../../../index.html">Главная</a></li>
-<li class="active"><a href="../../../../teorija">Теория</a></li>
-<li><a href="../../../../praktika">Практика</a></li>
-<li><a href="../../../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../../../teorija">Теория</a> &raquo; <a href="../../../dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <a href="../../funkcii.1">Функции модели А</a> &raquo; <a href="../znaki">Знаки функций</a> &raquo; <span>Свойство дистанция</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a> &raquo; <a href="/teorija/dlja-novichkov/funkcii">Функции модели А</a> &raquo; <a href="/teorija/dlja-novichkov/funkcii/znaki">Знаки функций</a> &raquo; <span>Свойство дистанция</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -61,13 +61,13 @@
 <hr /><p>
 	<strong>Дополнительно читайте</strong></p>
 <ol class="literature"><li>
-		<em class="name">Эглит И. М.</em> <a href="../../../../biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа</a></li>
+		<em class="name">Эглит И. М.</em> <a href="/biblioteka/knigi#eglit-opredelenije-socionicheskogo-tipa">Определение соционического типа</a></li>
 	<li>
-		<em class="name">Эглит И. М.</em> <a href="../../../../biblioteka/statji/znaki-funkcij">Знаки психических функций в модели А</a></li>
+		<em class="name">Эглит И. М.</em> <a href="/biblioteka/statji/znaki-funkcij">Знаки психических функций в модели А</a></li>
 </ol><nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="napravlennost">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="funkcii-so-znakami">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/teorija/dlja-novichkov/funkcii/znaki/napravlennost">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/teorija/dlja-novichkov/funkcii/znaki/funkcii-so-znakami">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -76,37 +76,37 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li class="active"><a href="../../../dlja-novichkov">Соционика от новичка до эксперта</a>
+<li class="active"><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a>
 <ul>
-<li><a href="../../chto-takoe-socionica">Что такое соционика?</a></li>
-<li><a href="../../sistemy">Системный подход</a></li>
-<li><a href="../../aspekty">Информационные аспекты</a></li>
-<li><a href="../../model">Модель ТИМа</a></li>
-<li><a href="../../bloki-i-kolca">Блоки и кольца модели А</a></li>
-<li class="active"><a href="../../funkcii.1">Функции модели А</a>
+<li><a href="/teorija/dlja-novichkov/chto-takoe-socionica">Что такое соционика?</a></li>
+<li><a href="/teorija/dlja-novichkov/sistemy">Системный подход</a></li>
+<li><a href="/teorija/dlja-novichkov/aspekty">Информационные аспекты</a></li>
+<li><a href="/teorija/dlja-novichkov/model">Модель ТИМа</a></li>
+<li><a href="/teorija/dlja-novichkov/bloki-i-kolca">Блоки и кольца модели А</a></li>
+<li class="active"><a href="/teorija/dlja-novichkov/funkcii">Функции модели А</a>
 <ul>
-<li><a href="../razmernost">Размерность функций</a></li>
-<li class="active"><a href="../znaki">Знаки функций</a>
+<li><a href="/teorija/dlja-novichkov/funkcii/razmernost">Размерность функций</a></li>
+<li class="active"><a href="/teorija/dlja-novichkov/funkcii/znaki">Знаки функций</a>
 <ul>
-<li><a href="kachestvo">Свойство качество</a></li>
-<li><a href="masshtabnost">Свойство масштабность</a></li>
-<li><a href="napravlennost">Свойство  направленность</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/znaki/kachestvo">Свойство качество</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/znaki/masshtabnost">Свойство масштабность</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/znaki/napravlennost">Свойство  направленность</a></li>
 <li class="selected"><span>Свойство дистанция</span></li>
-<li><a href="funkcii-so-znakami">Функции со знаками</a></li>
-<li><a href="indikatory">Индикаторы знака </a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/znaki/funkcii-so-znakami">Функции со знаками</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/znaki/indikatory">Индикаторы знака </a></li>
 </ul>
 </li>
-<li><a href="../konspekt-svojstva-funkcij">Конспект «Свойства функций»</a></li>
-<li><a href="../harakteristiki-i-upravljajushchie-emocii-funkcij">Основные свойства и управляющие эмоции функций</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/konspekt-svojstva-funkcij">Конспект «Свойства функций»</a></li>
+<li><a href="/teorija/dlja-novichkov/funkcii/harakteristiki-i-upravljajushchie-emocii-funkcij">Основные свойства и управляющие эмоции функций</a></li>
 </ul>
 </li>
-<li><a href="../../opisanie-modelej">Описания моделей ТИМа</a></li>
-<li><a href="../../mezhtimnye-otnoshenija.1">Интертипные отношения</a></li>
+<li><a href="/teorija/dlja-novichkov/opisanie-modelej">Описания моделей ТИМа</a></li>
+<li><a href="/teorija/dlja-novichkov/mezhtimnye-otnoshenija">Интертипные отношения</a></li>
 </ul>
 </li>
-<li><a href="../../../po-ermaku">Соционика по Ермаку</a></li>
+<li><a href="/teorija/po-ermaku">Соционика по Ермаку</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -116,9 +116,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Держите в своем доме только то, что вы считаете полезным и красивым»</p>	</blockquote>
-	<p class="random-quote-author"> Уильям Моррис</p>
-	<p class="random-quote-note">(ЧЛ, БС)</p>
+		<p>«Большинство из вас, видя недостатки и грубость своих детей, даже не понимают, что это последствия ваших же собственных убожества, эгоизма и отсутствия доброты»</p>	</blockquote>
+	<p class="random-quote-author">К. Е. Антарова</p>
+	<p class="random-quote-note">(ЧИ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -160,7 +160,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

@@ -4,15 +4,15 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Подробно рассмотрена процедура идентификации ТИМ психики и ее этапов: выдвижения гипотезы типа психики и верификации модели ТИМ психики." />
 <meta name="keywords" content="идентификация ТИМ, гипотеза типа, верификация модели, ТИМ психики, модель ТИМ, эксперт, соционика, диагностика ТИМ, достоверность верификации, определение ТИМ" />
-<link rel="prev" href="otnoshenija/kolca" />
-<script type="text/javascript" src="../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/po-ermaku/otnoshenija/kolca" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Идентификация ТИМа | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -24,31 +24,31 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../index.html">Главная</a></li>
-<li class="active"><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../teorija">Теория</a> &raquo; <a href="../po-ermaku">Соционика по Ермаку</a> &raquo; <span>Идентификация ТИМа</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/po-ermaku">Соционика по Ермаку</a> &raquo; <span>Идентификация ТИМа</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
 	Идентификация ТИМ психики = гипотеза типа психики + верификация модели ТИМ психики</h1>
 <p>
-	Процедура <span class="term">идентификации</span><a class="footnote" href="identifikacija#footnote-1" id="backref-1" title="Термин идентификация (лат. identificare — отождествлять, т. е. отождествление, уподобление, приравнивание в определённом смысле) наиболее точно обозначает то, что мы делаем, когда определяем ТИМ психики конкретного человека. Другие термины — диагностика, тестирование, типирование — менее удачны.">1</a> ТИМ психики состоит из выбора экспертом <strong>гипотезы</strong> типа психики и <strong>верификации</strong> модели ТИМ психики, соответствующей выбранному типу психики.</p>
+	Процедура <span class="term">идентификации</span><a class="footnote" href="#footnote-1" id="backref-1" title="Термин идентификация (лат. identificare — отождествлять, т. е. отождествление, уподобление, приравнивание в определённом смысле) наиболее точно обозначает то, что мы делаем, когда определяем ТИМ психики конкретного человека. Другие термины — диагностика, тестирование, типирование — менее удачны.">1</a> ТИМ психики состоит из выбора экспертом <strong>гипотезы</strong> типа психики и <strong>верификации</strong> модели ТИМ психики, соответствующей выбранному типу психики.</p>
 <h2>
 	1. Гипотеза типа психики</h2>
 <p>
@@ -62,7 +62,7 @@
 <p>
 	Самым важным является второй этап идентификации — <span class="term">верификация модели</span> ТИМ психики.</p>
 <p style="text-align:center;">
-	<img alt="" src="../../images/diagrams/verification.gif" style="width:555px;height:351px;" /></p>
+	<img alt="" src="/images/diagrams/verification.gif" style="width:555px;height:351px;" /></p>
 <p>
 	Верификация заключается в том, что эксперт целенаправленно воздействует (вопросом в беседе, наблюдая за ситуацией или иначе) на человека и на модель. Смысл целенаправленного воздействия — формулируя вопрос в рамках определенного информационного аспекта, воздействовать на психику человека и на психическую функцию гипотетической модели ТИМ психики, обрабатывающую информацию того же аспекта. Информационный анализ реакции (ответа, поведенческого акта или др.) позволяет судить, достиг ли вопрос цели, т. е. «сработала» ли заданная функция. После нескольких итераций можно судить о верности или неверности гипотезы и, если необходимо, внести коррективы. При этом, важно учитывать, что реагируют на воздействие, как правило, <em>блоки функций</em>. Поэтому в анализе реакции следует различать «звучание» <em>исходной</em> (в модели это 1, 3, 5 и 7) и <em>исполнительной</em> (2, 4, 6 и 8) функции блока.</p>
 <p>
@@ -72,18 +72,18 @@
 <h2>
 	Литература</h2>
 <ol class="literature"><li>
-		<span class="name">Ермак В. Д.</span> <a href="../../biblioteka/knigi#ermak-kak-nauchitsja-ponimat-ludej">Как научиться понимать людей. Соционика — новый метод познания человека</a>. — М.: Астрель: Издательство АСТ, 2003. — С. 228—235.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/knigi#ermak-kak-nauchitsja-ponimat-ludej">Как научиться понимать людей. Соционика — новый метод познания человека</a>. — М.: Астрель: Издательство АСТ, 2003. — С. 228—235.</li>
 	<li>
-		<span class="name">Ермак В. Д.</span> <a href="../../biblioteka/knigi#ermak-klassicheskaja-socionika">Классическая соционика</a>. — М.: Черная Белка, 2009.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/knigi#ermak-klassicheskaja-socionika">Классическая соционика</a>. — М.: Черная Белка, 2009.</li>
 	<li>
-		<span class="name">Ермак В. Д.</span> <a href="../../biblioteka/statji/iskusstvo-voprosov">Искусство вопросов и некоторые ошибки интервьюирования в процессе идентификации ТИМ психики</a>. // Соционика, ментология и психология личности. — 2006, № 6 — С. 50—56.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/statji/iskusstvo-voprosov">Искусство вопросов и некоторые ошибки интервьюирования в процессе идентификации ТИМ психики</a>. // Соционика, ментология и психология личности. — 2006, № 6 — С. 50—56.</li>
 	<li>
-		<span class="name">Ермак В. Д.</span> <a href="../../userimages/theory/ART75(REPT20)_identifikaciya.doc">Проблемы идентификации. Некоторые особенности верификации ТИМ психики</a>. // Соционика, ментология и психология личности. — 2008, № 1.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/statji/problemy-identifikacii">Проблемы идентификации. Некоторые особенности верификации ТИМ психики</a>. // Соционика, ментология и психология личности. — 2008, № 1.</li>
 </ol><hr align="left" size="1" width="33%" /><p id="footnote-1">
-	<a class="footnote" href="identifikacija#backref-1">1</a> Термин <em>идентификация</em> (лат. <i>identificare</i> — отождествлять, т. е. отождествление, уподобление, приравнивание в определённом смысле) наиболее точно обозначает то, что мы делаем, когда определяем ТИМ психики конкретного человека. Другие термины — диагностика, тестирование, типирование — менее удачны.</p>
+	<a class="footnote" href="#backref-1">1</a> Термин <em>идентификация</em> (лат. <i>identificare</i> — отождествлять, т. е. отождествление, уподобление, приравнивание в определённом смысле) наиболее точно обозначает то, что мы делаем, когда определяем ТИМ психики конкретного человека. Другие термины — диагностика, тестирование, типирование — менее удачны.</p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="otnoshenija/kolca">« Предыдущая страница</a></li>
+				<li id="prev-link"><a href="/teorija/po-ermaku/otnoshenija/kolca">« Предыдущая страница</a></li>
 					</ul>
 </nav>
 </article>
@@ -92,18 +92,18 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li><a href="../dlja-novichkov">Соционика от новичка до эксперта</a></li>
-<li class="active"><a href="../po-ermaku">Соционика по Ермаку</a>
+<li><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a></li>
+<li class="active"><a href="/teorija/po-ermaku">Соционика по Ермаку</a>
 <ul>
-<li><a href="obzor">Краткий обзор науки</a></li>
-<li><a href="sistemnyj-podhod">Системный подход</a></li>
-<li><a href="inform-potok">Информационный поток</a></li>
-<li><a href="model-tima">Модель ТИМa</a></li>
-<li><a href="vozrastnoje-razvitije">Возрастное развитие</a></li>
-<li><a href="i-timy">Интегральные ТИМы</a></li>
-<li><a href="otnoshenija">Межтипные отношения</a></li>
+<li><a href="/teorija/po-ermaku/obzor">Краткий обзор науки</a></li>
+<li><a href="/teorija/po-ermaku/sistemnyj-podhod">Системный подход</a></li>
+<li><a href="/teorija/po-ermaku/inform-potok">Информационный поток</a></li>
+<li><a href="/teorija/po-ermaku/model-tima">Модель ТИМa</a></li>
+<li><a href="/teorija/po-ermaku/vozrastnoje-razvitije">Возрастное развитие</a></li>
+<li><a href="/teorija/po-ermaku/i-timy">Интегральные ТИМы</a></li>
+<li><a href="/teorija/po-ermaku/otnoshenija">Межтипные отношения</a></li>
 <li class="selected"><span>Идентификация ТИМа</span></li>
 </ul>
 </li>
@@ -116,9 +116,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Тот, кто хочет, делает больше, чем тот, кто может»</p>	</blockquote>
-	<p class="random-quote-author">Г. Марри</p>
-	<p class="random-quote-note">(ЧЛ)</p>
+		<p>«Человек растет в цене, которую платит»</p>	</blockquote>
+	<p class="random-quote-author">Ежи Лец</p>
+	<p class="random-quote-note">(ЧС)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -160,7 +160,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

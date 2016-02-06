@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="ссылки по темам" />
 <meta name="keywords" content="ссылки, поиск" />
-<link rel="prev" href="faq-po-socionike" />
-<link rel="next" href="novosti" />
-<script type="text/javascript" src="assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/faq-po-socionike" />
+<link rel="next" href="/novosti" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Поиск по темам | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li class="active"><a href="index.html">Главная</a></li>
-<li><a href="teorija">Теория</a></li>
-<li><a href="praktika">Практика</a></li>
-<li><a href="biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="praktika/testy-proverki-znanij">Тесты</a></li>
+<li class="active"><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="index.html">Главная</a> &raquo; <span>Поиск по темам</span></div>	</nav>
+<a href="/">Главная</a> &raquo; <span>Поиск по темам</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<div>
@@ -52,11 +52,11 @@
 			<ul><li>
 					<a href="http://socionicasys.org/forum/spravochnyj-razdel-f87/glossarij-shss-t5030.html">Глоссарий ШСС</a></li>
 				<li>
-					<a href="teorija/dlja-novichkov/aspekty">Соционика от новичка до эксперта. Информационные аспекты.</a></li>
+					<a href="http://socionicasys.org/teorija/dlja-novichkov/aspekty">Соционика от новичка до эксперта. Информационные аспекты.</a></li>
 				<li>
-					<a href="teorija/po-ermaku/inform-potok">Соционика по Ермаку. Информационный поток</a>
+					<a href="http://socionicasys.org/teorija/po-ermaku/inform-potok">Соционика по Ермаку. Информационный поток</a>
 					<ul><li>
-							<a href="teorija/po-ermaku/inform-potok/makroaspekty">Семантика макроаспектов</a></li>
+							<a href="http://socionicasys.org/teorija/po-ermaku/inform-potok/makroaspekty">Семантика макроаспектов</a></li>
 						<li>
 							<a href="http://socionicasys.org/teorija/po-ermaku/inform-potok/aspekty">Семантика аспектов</a></li>
 					</ul></li>
@@ -67,30 +67,30 @@
 					<ul><li>
 							Обучающие видеолекции
 							<ul><li>
-									<a href="biblioteka/video/11">Этика</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/11">Этика</a></li>
 								<li>
-									<a href="biblioteka/video/12">Сенсорика</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/12">Сенсорика</a></li>
 								<li>
-									<a href="biblioteka/video/13">Логика</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/13">Логика</a></li>
 								<li>
-									<a href="biblioteka/video/14">Интуиция</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/14">Интуиция</a></li>
 							</ul></li>
 						<li>
 							Видео по аспектам
 							<ul><li>
-									<a href="biblioteka/video/15">«Польза» по ЧС и ЧЛ</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/15">«Польза» по ЧС и ЧЛ</a></li>
 								<li>
-									<a href="biblioteka/video/18">Аспекты БЛ и ЧС</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/18">Аспекты БЛ и ЧС</a></li>
 								<li>
-									<a href="biblioteka/video/17">Аспект ЧЭ</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/17">Аспект ЧЭ</a></li>
 								<li>
-									<a href="biblioteka/video/16">Аспект ЧС</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/16">Аспект ЧС</a></li>
 								<li>
-									<a href="biblioteka/video/22">Аспект ЧЛ</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/22">Аспект ЧЛ</a></li>
 								<li>
-									<a href="biblioteka/video/23">Аспект БС</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/23">Аспект БС</a></li>
 								<li>
-									<a href="biblioteka/video/24">Аспект БС. Рисование</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/24">Аспект БС. Рисование</a></li>
 							</ul></li>
 					</ul></li>
 			</ul></li>
@@ -104,74 +104,74 @@
 			<ul><li>
 					<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/opredelenie-aspekta-informacii-t4451.html">Сборник с нюансами определения аспектов</a></li>
 				<li>
-					<a href="biblioteka/statji/opredelenie-aspekta-informacii">Статья на сайте «Определение аспекта информации»</a></li>
+					<a href="http://socionicasys.org/biblioteka/statji/opredelenie-aspekta-informacii">Статья на сайте «Определение аспекта информации»</a></li>
 			</ul></li>
 		<li>
 			<strong>Тренировка правильного выделения аспектов</strong>
 			<ul><li>
-					<a href="praktika/testy-proverki-znanij/testy-na-opredelenie-aspektov-informacii">ТЕСТЫ на определение аспектов информации</a></li>
+					<a href="http://socionicasys.org/praktika/testy-proverki-znanij/testy-na-opredelenie-aspektov-informacii">ТЕСТЫ на определение аспектов информации</a></li>
 				<li>
 					<a href="http://socionicasys.org/forum/prakticheskaya-razminka/">«Практическая разминка»</a></li>
 			</ul></li>
 	</ul><br style="margin:0px;padding:0px;color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;line-height:20.012500762939453px;background-color:rgb(242,242,242);" /><span style="color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;background-color:rgb(242,242,242);font-size:21.600000381469727px;line-height:24.799999237060547px;"><span style="color:rgb(128,0,191);"><span style="font-weight:bold;">МОДЕЛЬ ТИМа</span></span></span><br style="margin:0px;padding:0px;color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;line-height:20.012500762939453px;background-color:rgb(242,242,242);" /><br style="margin:0px;padding:0px;color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;line-height:20.012500762939453px;background-color:rgb(242,242,242);" /><ul><li>
 			<strong>Устройство модели</strong>
 			<ul><li>
-					<a href="teorija/dlja-novichkov/model">Соционика от новичка до эксперта. Что такое «модель А»?</a></li>
+					<a href="http://socionicasys.org/teorija/dlja-novichkov/model">Соционика от новичка до эксперта. Что такое «модель А»?</a></li>
 				<li>
-					<a href="teorija/po-ermaku/model-tima">Соционика по Ермаку. Модель типа информационного метаболизма</a></li>
+					<a href="http://socionicasys.org/teorija/po-ermaku/model-tima">Соционика по Ермаку. Модель типа информационного метаболизма</a></li>
 				<li>
-					<a href="biblioteka/statji/model-kak-sloenyj-pirog">Эглит И.М. Модель как слоеный пирог</a></li>
+					<a href="http://socionicasys.org/biblioteka/statji/model-kak-sloenyj-pirog">Эглит И.М. Модель как слоеный пирог</a></li>
 				<li>
 					<a href="http://socionicasys.org/forum/model-a/o-modeli-polya-yaichnica-t3988.html">О модели поля ("яичница")</a></li>
 				<li>
-					<a href="biblioteka/statji/struktura-psihiki">Ермак В. Д. Структура и функционирование психики с системной точки зрения</a></li>
+					<a href="http://socionicasys.org/biblioteka/statji/struktura-psihiki">Ермак В. Д. Структура и функционирование психики с системной точки зрения</a></li>
 				<li>
 					<a href="http://socionicasys.org/forum/viewforum.php?f=28">Раздел на форуме, где можно обсудить устройство модели ТИМа</a></li>
 			</ul></li>
 		<li>
 			<strong>Управление и связи в модели</strong>
 			<ul><li>
-					<a href="biblioteka/statji/issledovanie-perevodov-upravlenija-v-modeli-a">Эглит И.М., Тумольская В.А. Исследование переводов управления в модели А</a></li>
+					<a href="http://socionicasys.org/biblioteka/statji/issledovanie-perevodov-upravlenija-v-modeli-a">Эглит И.М., Тумольская В.А. Исследование переводов управления в модели А</a></li>
 				<li>
-					<a href="biblioteka/statji/osnovanija-identifikacii">Ермак В. Д. Основания идентификации. Управление и связь в модели ТИМ психики</a></li>
+					<a href="http://socionicasys.org/biblioteka/statji/osnovanija-identifikacii">Ермак В. Д. Основания идентификации. Управление и связь в модели ТИМ психики</a></li>
 				<li>
-					<a href="biblioteka/statji/ob-upravljajushchih-emocijah-i-modeli-tim">Пятницкий В. В.Об управляющих эмоциях и модели ТИМ</a></li>
+					<a href="http://socionicasys.org/biblioteka/statji/ob-upravljajushchih-emocijah-i-modeli-tim">Пятницкий В. В.Об управляющих эмоциях и модели ТИМ</a></li>
 				<li>
-					<a href="biblioteka/statji/osnovnye-svojstva-i-upravljajushchie-emocii-funkcij">Эглит И.М., Тумольская В.А., Абрамов С.Д. Основные свойства и управляющие эмоции функций</a></li>
+					<a href="http://socionicasys.org/biblioteka/statji/osnovnye-svojstva-i-upravljajushchie-emocii-funkcij">Эглит И.М., Тумольская В.А., Абрамов С.Д. Основные свойства и управляющие эмоции функций</a></li>
 				<li>
 					<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/ob-ehnergeticheskikh-sostoyaniyakh-i-ehtike-ehmocij-t4439.html">Сборник «Об энергетических состояниях и этике эмоций»</a></li>
 			</ul></li>
 		<li>
 			<strong>Реализованность и искажения ТИМа</strong>
 			<ul><li>
-					<a href="biblioteka/statji/iskazhenija-tima">Эглит И.М. Искажения ТИМа</a></li>
+					<a href="http://socionicasys.org/biblioteka/statji/iskazhenija-tima">Эглит И.М. Искажения ТИМа</a></li>
 				<li>
 					<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/o-funkcionirovanii-tima-t4777.html">Сборник о функционировании ТИМа</a></li>
 				<li>
-					<a href="biblioteka/statji/vozrastnoje-razvitije">Ермак В. Д. Возрастное развитие и информационное наполнение психики — становление индивидуальности и личности человека</a></li>
+					<a href="http://socionicasys.org/biblioteka/statji/vozrastnoje-razvitije">Ермак В. Д. Возрастное развитие и информационное наполнение психики — становление индивидуальности и личности человека</a></li>
 				<li>
 					<a href="http://socionicasys.org/forum/ob-iskazheniyakh-tima-t3343.html">Тема на форуме об искажениях ТИМа</a></li>
 			</ul></li>
 		<li>
 			<strong>Описание моделей ТИМа</strong>
 			<ul><li>
-					<a href="teorija/dlja-novichkov/opisanie-modelej">Соционика от новичка до эксперта. Описание моделей ТИМа</a></li>
+					<a href="http://socionicasys.org/teorija/dlja-novichkov/opisanie-modelej">Соционика от новичка до эксперта. Описание моделей ТИМа</a></li>
 				<li>
-					<a href="teorija/po-ermaku/model-tima/opisanie-modelej">Соционика по Ермаку. Описание моделей ТИМа (Ермак, Росланкина)</a></li>
+					<a href="http://socionicasys.org/teorija/po-ermaku/model-tima/opisanie-modelej">Соционика по Ермаку. Описание моделей ТИМа (Ермак, Росланкина)</a></li>
 			</ul></li>
 	</ul><br style="margin:0px;padding:0px;color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;line-height:20.012500762939453px;background-color:rgb(242,242,242);" /><span style="color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;background-color:rgb(242,242,242);font-size:21.600000381469727px;line-height:24.799999237060547px;"><span style="color:rgb(128,0,191);"><span style="font-weight:bold;">СУПЕРБЛОКИ И БЛОКИ</span></span></span><br style="margin:0px;padding:0px;color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;line-height:20.012500762939453px;background-color:rgb(242,242,242);" /><br style="margin:0px;padding:0px;color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;line-height:20.012500762939453px;background-color:rgb(242,242,242);" /><ul><li>
-			<a href="teorija/dlja-novichkov/bloki-i-kolca">Соционика от новичка до эксперта. Блоки и кольца модели А</a></li>
+			<a href="http://socionicasys.org/teorija/dlja-novichkov/bloki-i-kolca">Соционика от новичка до эксперта. Блоки и кольца модели А</a></li>
 		<li>
 			<a href="http://socionicasys.org/teorija/po-ermaku/model-tima/bloki-i-superbloki">Соционика по Ермаку. Блоки и суперблоки</a>
 			<ul><li>
 					<strong>Суперблоки (кольца) «Витал» и «Ментал»</strong><br />
 					 </li>
 				<li>
-					<a href="biblioteka/video/32">Обучающая ВИДЕОлекция. Суперблоки «Витал» и «Ментал»</a></li>
+					<a href="http://socionicasys.org/biblioteka/video/32">Обучающая ВИДЕОлекция. Суперблоки «Витал» и «Ментал»</a></li>
 				<li>
 					<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/vital-mental-t4448.html">Сборник материалов по теме «Витал/Ментал»</a></li>
 				<li>
-					<a href="teorija/dlja-novichkov/bloki-i-kolca/indikatory-vitala-mentala">Индикаторы Витала и Ментала</a></li>
+					<a href="http://socionicasys.org/teorija/dlja-novichkov/bloki-i-kolca/indikatory-vitala-mentala">Индикаторы Витала и Ментала</a></li>
 				<li>
 					<a href="http://socionicasys.org/forum/metodika/vopros-o-napravlennosti-bloka-vital-t4920.html">Исследование на форуме о направленности блока Витал</a></li>
 				<li>
@@ -193,13 +193,13 @@
 					<strong>Блоки функций</strong><br />
 					 </li>
 				<li>
-					<a href="biblioteka/statji/issledovanie-napravlennosti-v-gorizontalnyh-blokah-modeli-a">Тумольская В. А., Эглит И. М. Исследование направленности горизонтальных блоков в модели А</a></li>
+					<a href="http://socionicasys.org/biblioteka/statji/issledovanie-napravlennosti-v-gorizontalnyh-blokah-modeli-a">Тумольская В. А., Эглит И. М. Исследование направленности горизонтальных блоков в модели А</a></li>
 				<li>
-					<a href="teorija/dlja-novichkov/bloki-i-kolca/funkcii-v-blokah-dva-poljusa-aspektnoj-leksiki">Функции в блоках: два полюса аспектной лексики</a></li>
+					<a href="http://socionicasys.org/teorija/dlja-novichkov/bloki-i-kolca/funkcii-v-blokah-dva-poljusa-aspektnoj-leksiki">Функции в блоках: два полюса аспектной лексики</a></li>
 				<li>
-					<a href="biblioteka/statji/opredelenie-blokov-funkcij">Белик А. Н. Определение блоков функций</a></li>
+					<a href="http://socionicasys.org/biblioteka/statji/opredelenie-blokov-funkcij">Белик А. Н. Определение блоков функций</a></li>
 				<li>
-					<a href="praktika/testy-proverki-znanij/testy-na-opredelenie-aspektov-bloka-funkcij">ТЕСТЫ на определение блока функций</a></li>
+					<a href="http://socionicasys.org/praktika/testy-proverki-znanij/testy-na-opredelenie-aspektov-bloka-funkcij">ТЕСТЫ на определение блока функций</a></li>
 				<li>
 					<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/bloki-funkcij-t4671.html">Сборник «Блоки функций»</a></li>
 				<li>
@@ -222,15 +222,15 @@
 			</ul></li>
 	</ul><br style="margin:0px;padding:0px;color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;line-height:20.012500762939453px;background-color:rgb(242,242,242);" /><span style="color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;background-color:rgb(242,242,242);font-size:21.600000381469727px;line-height:24.799999237060547px;"><span style="color:rgb(128,0,191);"><span style="font-weight:bold;">ФУНКЦИИ</span></span></span>
 	<ul><li>
-			<a href="teorija/dlja-novichkov/funkcii.1">Соционика от новичка до эксперта. Функции модели А</a></li>
+			<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii">Соционика от новичка до эксперта. Функции модели А</a></li>
 		<li>
-			<a href="teorija/po-ermaku/model-tima/funkcii">Соционика по Ермаку. Модель ТИМa. Функции</a></li>
+			<a href="http://socionicasys.org/teorija/po-ermaku/model-tima/funkcii">Соционика по Ермаку. Модель ТИМa. Функции</a></li>
 		<li>
-			<a href="teorija/dlja-novichkov/funkcii/konspekt-svojstva-funkcij">Конспект «Свойства функций»</a></li>
+			<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/konspekt-svojstva-funkcij">Конспект «Свойства функций»</a></li>
 		<li>
-			<a href="teorija/dlja-novichkov/funkcii/harakteristiki-i-upravljajushchie-emocii-funkcij">Основные свойства и управляющие эмоции функций ИМ</a></li>
+			<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/harakteristiki-i-upravljajushchie-emocii-funkcij">Основные свойства и управляющие эмоции функций ИМ</a></li>
 		<li>
-			<a href="biblioteka/statji/bazovaja-funkcija">Эглит И. М. Базовая функция (наблюдения, размышления, гипотезы)</a></li>
+			<a href="http://socionicasys.org/biblioteka/statji/bazovaja-funkcija">Эглит И. М. Базовая функция (наблюдения, размышления, гипотезы)</a></li>
 		<li>
 			<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/funkcii-t4526.html">Сборник по теме «Функции»</a></li>
 		<li>
@@ -291,53 +291,53 @@
 			</ul></li>
 	</ul><br style="margin:0px;padding:0px;color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;line-height:20.012500762939453px;background-color:rgb(242,242,242);" /><span style="color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;background-color:rgb(242,242,242);font-size:21.600000381469727px;line-height:24.799999237060547px;"><span style="color:rgb(128,0,191);"><span style="font-weight:bold;">РАЗМЕРНОСТЬ ФУНКЦИЙ</span></span></span>
 	<ul><li>
-			<a href="teorija/dlja-novichkov/funkcii/razmernost">Соционика от новичка до эксперта. Четыре размерности функций</a></li>
+			<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost">Соционика от новичка до эксперта. Четыре размерности функций</a></li>
 		<li>
-			<a href="biblioteka/statji/razmernost-funkcij">Эглит И. М. Размерность функций</a></li>
+			<a href="http://socionicasys.org/biblioteka/statji/razmernost-funkcij">Эглит И. М. Размерность функций</a></li>
 		<li>
 			<a href="http://socionicasys.org/teorija/po-ermaku/model-tima/funkcii/razmernosti">Соционика по Ермаку. Параметры обработки информации функциями модели (размерность функций)</a></li>
 		<li>
-			<a href="biblioteka/statji/traktovka-nekotoryh-strannostej">Эглит И. М., Пятницкий В. В. Трактовка некоторых странностей поведения человека с точки зрения модели А</a></li>
+			<a href="http://socionicasys.org/biblioteka/statji/traktovka-nekotoryh-strannostej">Эглит И. М., Пятницкий В. В. Трактовка некоторых странностей поведения человека с точки зрения модели А</a></li>
 		<li>
-			<a href="teorija/dlja-novichkov/funkcii/razmernost/indikatory-razmernosti-funkcij">Индикаторы размерности функций</a></li>
+			<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/indikatory-razmernosti-funkcij">Индикаторы размерности функций</a></li>
 		<li>
-			<a href="praktika/testy-proverki-znanij/testy-na-opredelenie-razmernosti-funkcij">Тесты на определение размерности функций</a></li>
+			<a href="http://socionicasys.org/praktika/testy-proverki-znanij/testy-na-opredelenie-razmernosti-funkcij">Тесты на определение размерности функций</a></li>
 		<li>
 			<a href="http://socionicasys.org/forum/viewforum.php?f=28">Раздел на форуме, где можно обсудить тему Размерность функций</a>
 			<ul><li>
 					<strong>Маломерные функции</strong><br />
 					 </li>
 				<li>
-					<a href="biblioteka/statji/malomernyje-funkcii-ne-slabyje">Эглит И. М. Маломерные функции — не слабые функции</a></li>
+					<a href="http://socionicasys.org/biblioteka/statji/malomernyje-funkcii-ne-slabyje">Эглит И. М. Маломерные функции — не слабые функции</a></li>
 				<li>
 					<a href="http://socionicasys.org/forum/statji/malomernye-funkcii-ne-slabye-funkcii-t2143.html">Обсуждение на форуме статьи Эглит И. М. Маломерные функции — не слабые функции</a></li>
 				<li>
-					<a href="biblioteka/video/21">ВИДЕО по аспектам. Аспект ЧИ. Маломерность</a></li>
+					<a href="http://socionicasys.org/biblioteka/video/21">ВИДЕО по аспектам. Аспект ЧИ. Маломерность</a></li>
 				<li>
-					<a href="praktika/analiz-teksta-nekotorye-osobennosti/malometrnost-ili-nekompetentnost-v-zone-minusa">Практика. Маломерность или некомпетентность в зоне минуса: как различить?</a>
+					<a href="http://socionicasys.org/praktika/analiz-teksta-nekotorye-osobennosti/malometrnost-ili-nekompetentnost-v-zone-minusa">Практика. Маломерность или некомпетентность в зоне минуса: как различить?</a>
 					<ul><li>
 							<strong>Одномерность</strong><br />
 							 </li>
 						<li>
-							<a href="teorija/dlja-novichkov/funkcii/razmernost/odnomernost">Соционика от новичка до эксперта. Одномерность — параметр «опыт»</a></li>
+							<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/odnomernost">Соционика от новичка до эксперта. Одномерность — параметр «опыт»</a></li>
 						<li>
-							<a href="biblioteka/statji/neadekvatnaja-rabota-odnomernyh">Эглит И. М. Неадекватная работа одномерных функций</a></li>
+							<a href="http://socionicasys.org/biblioteka/statji/neadekvatnaja-rabota-odnomernyh">Эглит И. М. Неадекватная работа одномерных функций</a></li>
 						<li>
 							<a href="http://socionicasys.org/forum/model-a/neadekvatnaya-rabota-odnomernykh-funkcij-t3708.html">Обсуждение на форуме статьи Эглит И. М. Неадекватная работа одномерных функций</a></li>
 						<li>
-							<a href="biblioteka/statji/issledovanie-strahov">Эглит И. М., Пятницкий В. В. Исследование страхов в одномерных функциях</a></li>
+							<a href="http://socionicasys.org/biblioteka/statji/issledovanie-strahov">Эглит И. М., Пятницкий В. В. Исследование страхов в одномерных функциях</a></li>
 						<li>
-							<a href="biblioteka/statji/o-fenomene-odnomernosti">Росланкина Ю. В., Пятницкий В. В. Некоторые соображения о феномене одномерности</a></li>
+							<a href="http://socionicasys.org/biblioteka/statji/o-fenomene-odnomernosti">Росланкина Ю. В., Пятницкий В. В. Некоторые соображения о феномене одномерности</a></li>
 						<li>
 							<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/odnomernye-funkcii-ikh-rabota-i-opredelenie-t4445.html">Сборник «Одномерные функции, их работа и определение»</a></li>
 						<li>
 							Обучающие ВИДЕО
 							<ul><li>
-									<a href="biblioteka/video/27">Видео. Обучающая лекция «Размерность функций. Параметр Ex»</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/27">Видео. Обучающая лекция «Размерность функций. Параметр Ex»</a></li>
 								<li>
-									<a href="biblioteka/video/26">Параметр Ex (видео)</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/26">Параметр Ex (видео)</a></li>
 								<li>
-									<a href="biblioteka/video/25">Аспект БЛ. Одномерность функции БЛ</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/25">Аспект БЛ. Одномерность функции БЛ</a></li>
 							</ul></li>
 						<li>
 							<strong>Методы работы с реакциями по одномерным функциям</strong>
@@ -390,9 +390,9 @@
 							<strong>Двумерность </strong><br />
 							 </li>
 						<li>
-							<a href="teorija/dlja-novichkov/funkcii/razmernost/dvumernost">Соционика от новичка до эксперта. Двумерность — параметры «опыт» и «нормы»</a></li>
+							<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/dvumernost">Соционика от новичка до эксперта. Двумерность — параметры «опыт» и «нормы»</a></li>
 						<li>
-							<a href="biblioteka/statji/opredelenie-parametra-norm">Статья Ральченко К. В. Определение параметра норм</a></li>
+							<a href="http://socionicasys.org/biblioteka/statji/opredelenie-parametra-norm">Статья Ральченко К. В. Определение параметра норм</a></li>
 						<li>
 							<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/normativnye-funkcii-ikh-rabota-i-opredelenie-t4437.html">Сборник «Нормативные функции, их работа и определение»</a></li>
 						<li>
@@ -400,11 +400,11 @@
 						<li>
 							Обучающие ВИДЕО
 							<ul><li>
-									<a href="biblioteka/video/28">Видео. Обучающая лекция «Размерность функций. Параметр Nr»</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/28">Видео. Обучающая лекция «Размерность функций. Параметр Nr»</a></li>
 								<li>
-									<a href="biblioteka/video/19">Видео по аспектам. Аспект БЛ. Параметр Nr (видео)</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/19">Видео по аспектам. Аспект БЛ. Параметр Nr (видео)</a></li>
 								<li>
-									<a href="biblioteka/video/20">Видео по аспектам. Аспект БИ. Параметр Nr (видео)</a></li>
+									<a href="http://socionicasys.org/biblioteka/video/20">Видео по аспектам. Аспект БИ. Параметр Nr (видео)</a></li>
 							</ul></li>
 						<li>
 							Обсуждения на форуме
@@ -425,28 +425,28 @@
 							<strong>Трехмерность </strong><br />
 							 </li>
 						<li>
-							<a href="teorija/dlja-novichkov/funkcii/razmernost/trehmernost">Соционика от новичка до эксперта. Трехмерность — параметры: «опыт», «нормы», «ситуация»</a></li>
+							<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/trehmernost">Соционика от новичка до эксперта. Трехмерность — параметры: «опыт», «нормы», «ситуация»</a></li>
 						<li>
-							<a href="biblioteka/statji/osobennosti-parametra-st">Тумольская В. А. Особенности определения параметра ситуации</a></li>
+							<a href="http://socionicasys.org/biblioteka/statji/osobennosti-parametra-st">Тумольская В. А. Особенности определения параметра ситуации</a></li>
 						<li>
 							<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/opredelenie-situativnosti-t4438.html">Сборник «Определение ситуативности»</a></li>
 						<li>
-							<a href="biblioteka/video/29">ВИДЕО. Обучающая лекция «Размерность функций. Параметр St»</a></li>
+							<a href="http://socionicasys.org/biblioteka/video/29">ВИДЕО. Обучающая лекция «Размерность функций. Параметр St»</a></li>
 					</ul><ul><li>
 							<strong>Четырехмерность</strong><br />
 							 </li>
 						<li>
-							<a href="teorija/dlja-novichkov/funkcii/razmernost/chetyrehmernost">Соционика от новичка до эксперта. Четырехмерность — параметры «опыт», «нормы», «ситуация» и «время» (или «глобальность»)</a></li>
+							<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/chetyrehmernost">Соционика от новичка до эксперта. Четырехмерность — параметры «опыт», «нормы», «ситуация» и «время» (или «глобальность»)</a></li>
 						<li>
-							<a href="biblioteka/statji/kategorija-vremja-v-socionike">Ермак В. Д. Категория «время» в соционике</a></li>
+							<a href="http://socionicasys.org/biblioteka/statji/kategorija-vremja-v-socionike">Ермак В. Д. Категория «время» в соционике</a></li>
 						<li>
-							<a href="praktika/analiz-teksta-nekotorye-osobennosti/opredelenie-parametra-tm">Определение параметра Tm</a></li>
+							<a href="http://socionicasys.org/praktika/analiz-teksta-nekotorye-osobennosti/opredelenie-parametra-tm">Определение параметра Tm</a></li>
 						<li>
-							<a href="biblioteka/statji/bazovaja-funkcija">Эглит И. М. Базовая функция (наблюдения, размышления, гипотезы)</a></li>
+							<a href="http://socionicasys.org/biblioteka/statji/bazovaja-funkcija">Эглит И. М. Базовая функция (наблюдения, размышления, гипотезы)</a></li>
 						<li>
 							<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/parametr-tm-ego-vyyavlenie-v-rechi-t4452.html">Сборник «Параметр Tm, его выявление в речи»</a></li>
 						<li>
-							<a href="biblioteka/video/30">ВИДЕО. Обучающая лекция «Размерность функций. Параметр Tm»</a></li>
+							<a href="http://socionicasys.org/biblioteka/video/30">ВИДЕО. Обучающая лекция «Размерность функций. Параметр Tm»</a></li>
 						<li>
 							Обсуждения на форуме
 							<ul><li>
@@ -465,57 +465,57 @@
 					</ul></li>
 			</ul></li>
 	</ul><br style="margin:0px;padding:0px;color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;line-height:20.012500762939453px;background-color:rgb(242,242,242);" /><span style="font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;font-size:14.399999618530273px;line-height:20.012500762939453px;background-color:rgb(242,242,242);color:rgb(128,0,191);"><span style="font-size:21.600000381469727px;line-height:24.799999237060547px;"><span style="font-weight:bold;">ЗНАКИ ФУНКЦИЙ</span></span></span><br style="margin:0px;padding:0px;color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;line-height:20.012500762939453px;background-color:rgb(242,242,242);" /><br style="margin:0px;padding:0px;color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;line-height:20.012500762939453px;background-color:rgb(242,242,242);" /><ul><li>
-			<a href="teorija/dlja-novichkov/funkcii/znaki">Соционика от новичка до эксперта. Знаки функций</a>
+			<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/znaki">Соционика от новичка до эксперта. Знаки функций</a>
 			<ul><li>
-					<a href="teorija/dlja-novichkov/funkcii/znaki/kachestvo">Свойство знака «качество»</a></li>
+					<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/znaki/kachestvo">Свойство знака «качество»</a></li>
 				<li>
-					<a href="teorija/dlja-novichkov/funkcii/znaki/masshtabnost">Свойство знака «масштабность»</a></li>
+					<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/znaki/masshtabnost">Свойство знака «масштабность»</a></li>
 				<li>
-					<a href="teorija/dlja-novichkov/funkcii/znaki/napravlennost">Свойство знака «направленность»</a></li>
+					<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/znaki/napravlennost">Свойство знака «направленность»</a></li>
 				<li>
-					<a href="teorija/dlja-novichkov/funkcii/znaki/distancija">Свойство знака «дистанция»</a></li>
+					<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/znaki/distancija">Свойство знака «дистанция»</a></li>
 			</ul></li>
 		<li>
 			<a href="http://socionicasys.org/teorija/po-ermaku/model-tima/funkcii/znaki">Соционика по Ермаку. Знаки функций</a></li>
 		<li>
-			<a href="biblioteka/statji/znaki-funkcij">Эглит И. М. Знаки психических функций в модели А</a></li>
+			<a href="http://socionicasys.org/biblioteka/statji/znaki-funkcij">Эглит И. М. Знаки психических функций в модели А</a></li>
 		<li>
 			<a href="http://socionicasys.org/forum/statji/ehglit-i-m-tezisy-doklada-po-teme-znaki-funkcij-t4313.html">Эглит И. М. Тезисы доклада по теме «Знаки функций»</a></li>
 		<li>
-			<a href="biblioteka/statji/ispolzovanie-znakov-funkcij-v-praktike-diagnostiki-tima-v-shss">Эглит И. М. Использование знаков функций в практике диагностики ТИМа в ШСС</a></li>
+			<a href="http://socionicasys.org/biblioteka/statji/ispolzovanie-znakov-funkcij-v-praktike-diagnostiki-tima-v-shss">Эглит И. М. Использование знаков функций в практике диагностики ТИМа в ШСС</a></li>
 		<li>
-			<a href="biblioteka/statji/nabljudenie-znakov-funkcij">Эглит И. М. Наблюдение знаков функций</a></li>
+			<a href="http://socionicasys.org/biblioteka/statji/nabljudenie-znakov-funkcij">Эглит И. М. Наблюдение знаков функций</a></li>
 		<li>
-			<a href="biblioteka/statji/znaki-psihicheskih-funkcij">Ермак В. Д. Знаки психических функций</a></li>
+			<a href="http://socionicasys.org/biblioteka/statji/znaki-psihicheskih-funkcij">Ермак В. Д. Знаки психических функций</a></li>
 		<li>
 			<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/znaki-funkcij-t4455.html">Сборник по теме «Знаки функций»</a></li>
 		<li>
-			<a href="teorija/dlja-novichkov/funkcii/znaki/funkcii-so-znakami">Свойства, придаваемые знаками психическим функциям, обрабатывающим аспекты информации</a></li>
+			<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/znaki/funkcii-so-znakami">Свойства, придаваемые знаками психическим функциям, обрабатывающим аспекты информации</a></li>
 		<li>
-			<a href="teorija/dlja-novichkov/funkcii/znaki/indikatory">Индикаторы знака функции</a></li>
+			<a href="http://socionicasys.org/teorija/dlja-novichkov/funkcii/znaki/indikatory">Индикаторы знака функции</a></li>
 		<li>
-			<a href="praktika/testy-proverki-znanij/testy-na-opredelenie-znakov-funkcij">ТЕСТЫ на определение знаков функций</a></li>
+			<a href="http://socionicasys.org/praktika/testy-proverki-znanij/testy-na-opredelenie-znakov-funkcij">ТЕСТЫ на определение знаков функций</a></li>
 		<li>
 			ВИДЕО
 			<ul><li>
 					Обучающие лекции
 					<ul><li>
-							<a href="biblioteka/video/31">Знаки функций. Часть 1 - Область компетенции. Свойства знаков</a></li>
+							<a href="http://socionicasys.org/biblioteka/video/31">Знаки функций. Часть 1 - Область компетенции. Свойства знаков</a></li>
 						<li>
-							<a href="biblioteka/video/33">Знаки функций. Часть 2. Функции ЧЛ, БЛ, ЧС, БС</a></li>
+							<a href="http://socionicasys.org/biblioteka/video/33">Знаки функций. Часть 2. Функции ЧЛ, БЛ, ЧС, БС</a></li>
 						<li>
-							<a href="biblioteka/video/34">Знаки функций. Часть 3. Функции ЧЭ, БЭ, ЧИ, БИ</a></li>
+							<a href="http://socionicasys.org/biblioteka/video/34">Знаки функций. Часть 3. Функции ЧЭ, БЭ, ЧИ, БИ</a></li>
 					</ul></li>
 				<li>
 					Доклады
 					<ul><li>
-							<a href="biblioteka/video/42">Эглит И.М. Знаки функций. Круглый стол</a></li>
+							<a href="http://socionicasys.org/biblioteka/video/42">Эглит И.М. Знаки функций. Круглый стол</a></li>
 						<li>
-							<a href="biblioteka/video/45">ШСС, знаки функций, обсуждение 1</a></li>
+							<a href="http://socionicasys.org/biblioteka/video/45">ШСС, знаки функций, обсуждение 1</a></li>
 						<li>
-							<a href="biblioteka/video/44">ШСС, знаки функций, обсуждение 2</a></li>
+							<a href="http://socionicasys.org/biblioteka/video/44">ШСС, знаки функций, обсуждение 2</a></li>
 						<li>
-							<a href="biblioteka/video/43">Ермак В.Д. Знаки функций</a></li>
+							<a href="http://socionicasys.org/biblioteka/video/43">Ермак В.Д. Знаки функций</a></li>
 					</ul></li>
 			</ul></li>
 		<li>
@@ -564,56 +564,56 @@
 	<span style="font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;font-size:14.399999618530273px;line-height:20.012500762939453px;background-color:rgb(242,242,242);color:rgb(128,0,191);"><span style="font-size:21.600000381469727px;line-height:24.799999237060547px;"><span style="font-weight:bold;">ИНТЕРТИПНЫЕ ОТНОШЕНИЯ</span></span></span><br style="margin:0px;padding:0px;color:rgb(51,51,51);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;line-height:20.012500762939453px;background-color:rgb(242,242,242);" />
 	 </p>
 <ul><li>
-		<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/tablica-intertipnyh-otnoshenij">Таблица интертипных отношений</a><br />
+		<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/tablica-intertipnyh-otnoshenij">Таблица интертипных отношений</a><br />
 		 </li>
 	<li>
-		<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija.1">Соционика от новичка до эксперта. Интертипные отношения</a>
+		<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija">Соционика от новичка до эксперта. Интертипные отношения</a>
 		<ul><li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/tozhdestvennye">Тождественные</a></li>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/tozhdestvennye">Тождественные</a></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/dualnye">Дуальные</a>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/dualnye">Дуальные</a>
 				<ul><li>
-						<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/dualnye/eii-lse">ЭИИ - ЛСЭ</a></li>
+						<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/dualnye/eii-lse">ЭИИ - ЛСЭ</a></li>
 				</ul></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/aktivacija">Активация</a></li>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/aktivacija">Активация</a></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/zerkalnye">Зеркальные</a></li>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/zerkalnye">Зеркальные</a></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/poludualnye">Полудуальные</a></li>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/poludualnye">Полудуальные</a></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/rodstvennye">Родственные</a></li>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/rodstvennye">Родственные</a></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/mirazhnye">Миражные</a></li>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/mirazhnye">Миражные</a></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/delovye">Деловые</a></li>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/delovye">Деловые</a></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/polnaja-protivopolozhnost">Полная противоположность</a></li>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/polnaja-protivopolozhnost">Полная противоположность</a></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/kvazitozhdestvo">Квазитождество</a></li>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/kvazitozhdestvo">Квазитождество</a></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/superego">Суперэго</a></li>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/superego">Суперэго</a></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/konfliktnye">Конфликтные</a></li>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/konfliktnye">Конфликтные</a></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/socialnyj-zakaz">Социальный заказ</a>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/socialnyj-zakaz">Социальный заказ</a>
 				<ul><li>
-						<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/socialnyj-zakaz/ili-eii">ИЛИ - ЭИИ</a></li>
+						<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/socialnyj-zakaz/ili-eii">ИЛИ - ЭИИ</a></li>
 				</ul></li>
 			<li>
-				<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/socialnyj-kontrol">Социальный контроль (ревизия)</a>
+				<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/socialnyj-kontrol">Социальный контроль (ревизия)</a>
 				<ul><li>
-						<a href="teorija/dlja-novichkov/mezhtimnye-otnoshenija/socialnyj-kontrol/sle-lii">СЛЭ - ЛИИ</a></li>
+						<a href="http://socionicasys.org/teorija/dlja-novichkov/mezhtimnye-otnoshenija/socialnyj-kontrol/sle-lii">СЛЭ - ЛИИ</a></li>
 				</ul></li>
 		</ul></li>
 	<li>
-		<a href="teorija/po-ermaku/otnoshenija">Межтипные отношения (по Ермаку)</a>
+		<a href="http://socionicasys.org/teorija/po-ermaku/otnoshenija">Межтипные отношения (по Ермаку)</a>
 		<ul><li>
-				<a href="teorija/po-ermaku/otnoshenija/diady">Диады</a></li>
+				<a href="http://socionicasys.org/teorija/po-ermaku/otnoshenija/diady">Диады</a></li>
 			<li>
-				<a href="teorija/po-ermaku/otnoshenija/kvadry">Квадры</a></li>
+				<a href="http://socionicasys.org/teorija/po-ermaku/otnoshenija/kvadry">Квадры</a></li>
 			<li>
-				<a href="teorija/po-ermaku/otnoshenija/kolca">Октавы (Кольца)</a></li>
+				<a href="http://socionicasys.org/teorija/po-ermaku/otnoshenija/kolca">Октавы (Кольца)</a></li>
 		</ul></li>
 	<li>
 		<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/intertipnye-otnosheniya-t4968.html">Сборник об интертипных отношениях</a><br />
@@ -659,18 +659,18 @@
 		<ul><li>
 				Описание моделей ТИМа
 				<ul><li>
-						<a href="teorija/dlja-novichkov/opisanie-modelej">Соционика от новичка до эксперта. Описание моделей ТИМа</a></li>
+						<a href="http://socionicasys.org/teorija/dlja-novichkov/opisanie-modelej">Соционика от новичка до эксперта. Описание моделей ТИМа</a></li>
 					<li>
-						<a href="teorija/po-ermaku/model-tima/opisanie-modelej">Соционика по Ермаку. Описание моделей ТИМа (Ермак, Росланкина)</a></li>
+						<a href="http://socionicasys.org/teorija/po-ermaku/model-tima/opisanie-modelej">Соционика по Ермаку. Описание моделей ТИМа (Ермак, Росланкина)</a></li>
 				</ul></li>
 			<li>
 				Реализованность и искажения ТИМа
 				<ul><li>
-						<a href="biblioteka/statji/iskazhenija-tima">Эглит И.М. Искажения ТИМа</a></li>
+						<a href="http://socionicasys.org/biblioteka/statji/iskazhenija-tima">Эглит И.М. Искажения ТИМа</a></li>
 					<li>
 						<a href="http://socionicasys.org/forum/sborniki-po-temam-f73/o-funkcionirovanii-tima-t4777.html">Сборник о функционировании ТИМа</a></li>
 					<li>
-						<a href="biblioteka/statji/vozrastnoje-razvitije">Ермак В. Д. Возрастное развитие и информационное наполнение психики — становление индивидуальности и личности человека</a></li>
+						<a href="http://socionicasys.org/biblioteka/statji/vozrastnoje-razvitije">Ермак В. Д. Возрастное развитие и информационное наполнение психики — становление индивидуальности и личности человека</a></li>
 					<li>
 						<a href="http://socionicasys.org/forum/model-a/ob-iskazheniyakh-tima-t3343.html">Тема на форуме об искажениях ТИМа</a></li>
 				</ul></li>
@@ -683,19 +683,19 @@
 	<li>
 		<strong>Интергальные ТИМы (ИТИМы)</strong>
 		<ul><li>
-				<a href="teorija/po-ermaku/i-timy">Соционика по Ермаку. Интегральные ТИМы</a></li>
+				<a href="http://socionicasys.org/teorija/po-ermaku/i-timy">Соционика по Ермаку. Интегральные ТИМы</a></li>
 			<li>
-				<a href="biblioteka/statji/pilotaznoe-issledovanie-integralnyh-tipov">Пятницкий В. В. Пилотажное исследование по методике определения интегральных типов</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/pilotaznoe-issledovanie-integralnyh-tipov">Пятницкий В. В. Пилотажное исследование по методике определения интегральных типов</a></li>
 			<li>
-				<a href="biblioteka/statji/k-probleme-itima">Ермак В. Д. К проблеме интегрального типа информационного метаболизма социетальной психики неслучайной группы</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/k-probleme-itima">Ермак В. Д. К проблеме интегрального типа информационного метаболизма социетальной психики неслучайной группы</a></li>
 			<li>
-				<a href="biblioteka/statji/itim-rossii">Ермак В. Д., Матасова Е. Н. К вопросу об интегральном ТИМе психики России</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/itim-rossii">Ермак В. Д., Матасова Е. Н. К вопросу об интегральном ТИМе психики России</a></li>
 			<li>
-				<a href="biblioteka/statji/modeli-im-v-issledovanii-grupp">Ермак В. Д. Модели информационного метаболизма психики в исследовании социетальной психики неслучайных групп</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/modeli-im-v-issledovanii-grupp">Ермак В. Д. Модели информационного метаболизма психики в исследовании социетальной психики неслучайных групп</a></li>
 			<li>
-				<a href="biblioteka/statji/srednij-klass">Ермак В. Д. Средний класс»</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/srednij-klass">Ермак В. Д. Средний класс»</a></li>
 			<li>
-				<a href="biblioteka/statji/prezident-dlja-ukrainy">Ермак В. Д. Президент для Украины…</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/prezident-dlja-ukrainy">Ермак В. Д. Президент для Украины…</a></li>
 			<li>
 				<a href="http://www.socionicasys.org/forum/viewforum.php?f=30">Раздел на форуме «ТИМы и межтимные отношения, ИТИМы»</a></li>
 		</ul></li>
@@ -705,39 +705,39 @@
 <ul><li>
 		<strong>Статьи</strong>
 		<ul><li>
-				<a href="biblioteka/statji/osnovanija-identifikacii">Ермак В. Д. Основания идентификации. Управление и связь в модели ТИМ психики</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/osnovanija-identifikacii">Ермак В. Д. Основания идентификации. Управление и связь в модели ТИМ психики</a></li>
 			<li>
-				<a href="biblioteka/statji/tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov">Эглит И. М. Точность диагностики ТИМа. Сравнение двух подходов.</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/tochnost-diagnostiki-tima-sravnenie-dvuh-podhodov">Эглит И. М. Точность диагностики ТИМа. Сравнение двух подходов.</a></li>
 			<li>
-				<a href="biblioteka/statji/fenomen-100-procentnoj-tochnosti-tipirovanija-v-socionike">Пятницкий В.В. Феномен 100-процентной точности типирования в соционике</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/fenomen-100-procentnoj-tochnosti-tipirovanija-v-socionike">Пятницкий В.В. Феномен 100-процентной точности типирования в соционике</a></li>
 			<li>
-				<a href="biblioteka/statji/obraz-tima">Эглит И. М. Образ ТИМа</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/obraz-tima">Эглит И. М. Образ ТИМа</a></li>
 			<li>
-				<a href="biblioteka/statji/expertnaja-rabota">Эглит И. М., Пятницкий В. В. Экспертная работа в соционике</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/expertnaja-rabota">Эглит И. М., Пятницкий В. В. Экспертная работа в соционике</a></li>
 			<li>
-				<a href="biblioteka/statji/expert-izmeritelnyj-instrument">Эглит И. М. Эксперт как измерительный инструмент</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/expert-izmeritelnyj-instrument">Эглит И. М. Эксперт как измерительный инструмент</a></li>
 			<li>
-				<a href="biblioteka/statji/iskusstvo-voprosov">Ермак В. Д. Искусство вопросов и некоторые ошибки интервьюирования в процессе идентификации ТИМ психики</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/iskusstvo-voprosov">Ермак В. Д. Искусство вопросов и некоторые ошибки интервьюирования в процессе идентификации ТИМ психики</a></li>
 			<li>
-				<a href="biblioteka/statji/ispolzovanie-znakov-funkcij-v-praktike-diagnostiki-tima-v-shss">Эглит И.М. Использование знаков функций в практике диагностики ТИМа в ШСС</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/ispolzovanie-znakov-funkcij-v-praktike-diagnostiki-tima-v-shss">Эглит И.М. Использование знаков функций в практике диагностики ТИМа в ШСС</a></li>
 			<li>
-				<a href="biblioteka/statji/praktika-primenenija-protokolov">Эглит И. М. Практика применения протоколов при заочной идентификации ТИМ психики в Интернете</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/praktika-primenenija-protokolov">Эглит И. М. Практика применения протоколов при заочной идентификации ТИМ психики в Интернете</a></li>
 			<li>
-				<a href="biblioteka/statji/o-vozmozhnosti-falsifikacii">Эглит И. М., Еремеева Н. Г., Тенетилов Г. В., Фломан Н. Н. О возможности фальсификации типируемым своего ТИМа психики при вербальном типировании</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/o-vozmozhnosti-falsifikacii">Эглит И. М., Еремеева Н. Г., Тенетилов Г. В., Фломан Н. Н. О возможности фальсификации типируемым своего ТИМа психики при вербальном типировании</a></li>
 			<li>
-				<a href="userimages/theory/ART75(REPT20)_identifikaciya.doc">Ермак В. Д. Проблемы идентификации. Некоторые особенности верификации ТИМ психики</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/problemy-identifikacii">Ермак В. Д. Проблемы идентификации. Некоторые особенности верификации ТИМ психики</a></li>
 			<li>
-				<a href="biblioteka/statji/iskazhenija-tim-psihiki">Ермак В. Д. Искажения ТИМ психики и достоверность идентификации</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/iskazhenija-tim-psihiki">Ермак В. Д. Искажения ТИМ психики и достоверность идентификации</a></li>
 			<li>
-				<a href="biblioteka/statji/iskazhenija-tima">Эглит И.М. Искажения ТИМа</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/iskazhenija-tima">Эглит И.М. Искажения ТИМа</a></li>
 			<li>
-				<a href="biblioteka/statji/dlja-teh-kto-v-tanke">Эглит И. М. Для тех, кто в танке</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/dlja-teh-kto-v-tanke">Эглит И. М. Для тех, кто в танке</a></li>
 			<li>
-				<a href="biblioteka/statji/tvar-li-ja-drozhashchaja">Эглит И.М. Тварь ли я дрожащая</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/tvar-li-ja-drozhashchaja">Эглит И.М. Тварь ли я дрожащая</a></li>
 			<li>
-				<a href="biblioteka/statji/esli-chelovek-ne-prinimaet-svoj-tim">Бетеров И. И. Если человек не принимает свой ТИМ</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/esli-chelovek-ne-prinimaet-svoj-tim">Бетеров И. И. Если человек не принимает свой ТИМ</a></li>
 			<li>
-				<a href="biblioteka/statji/nabljudenija-za-detmi">Эглит И.М. Наблюдения за детьми</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/nabljudenija-za-detmi">Эглит И.М. Наблюдения за детьми</a></li>
 		</ul></li>
 	<li>
 		<strong>Сборники</strong>
@@ -751,7 +751,7 @@
 				<a class="postlink" href="http://socionicasys.org/forum/zadat-vopros-tipiruemomu-t4454.html">Сборник «Задать вопрос типируемому...»</a></li>
 		</ul></li>
 </ul><ul><li>
-		<a href="praktika">Раздел «ПРАКТИКА» на сайте</a><br />
+		<a href="http://socionicasys.org/praktika">Раздел «ПРАКТИКА» на сайте</a><br />
 		 </li>
 	<li>
 		<a class="postlink" href="http://socionicasys.org/forum/viewforum.php?f=14">Раздел «ИДЕНТИФИКАЦИЯ ТИМа» на форуме</a><br />
@@ -759,21 +759,21 @@
 	<li>
 		<a href="http://socionicasys.org/forum/viewforum.php?f=68">Раздел для тренировки навыков определения аспектов и параметров функций «ПРАКТИЧЕСКАЯ РАЗМИНКА»</a><br /><br /><br /><span style="color:rgb(128,0,191);font-family:'Lucida Grande', 'Trebuchet MS', Trebuchet, Arial, sans-serif;font-size:21.600000381469727px;line-height:24.799999237060547px;background-color:rgb(242,242,242);">Определение ТИМа при помощи самонаблюдений</span>
 		<ul><li>
-				<a href="biblioteka/statji/osnovy-samonabludenij">Эглит И. М. Основы соционического самонаблюдения</a></li>
+				<a href="http://socionicasys.org/biblioteka/statji/osnovy-samonabludenij">Эглит И. М. Основы соционического самонаблюдения</a></li>
 			<li>
 				<a href="http://socionicasys.org/forum/o-samonablyudeniyakh-t4447.html">Сборник «О самонаблюдениях»</a></li>
 			<li>
 				Видео
 				<ul><li>
-						<a href="biblioteka/video/10">Эглит И.М. Соционическое самонаблюдение. Часть 1</a></li>
+						<a href="http://socionicasys.org/biblioteka/video/10">Эглит И.М. Соционическое самонаблюдение. Часть 1</a></li>
 					<li>
-						<a href="biblioteka/video/8">Эглит И.М. Соционическое самонаблюдение. Часть 2</a></li>
+						<a href="http://socionicasys.org/biblioteka/video/8">Эглит И.М. Соционическое самонаблюдение. Часть 2</a></li>
 				</ul></li>
 		</ul></li>
 </ul><nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="faq-po-socionike">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="novosti">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/faq-po-socionike">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/novosti">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -782,14 +782,14 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="index.html">Главная</a>
+<li class="active"><a href="/">Главная</a>
 <ul>
-<li><a href="chto-takoe-sistemnaja-socionika">Что такое системная соционика?</a></li>
-<li><a href="o-shkole">О Школе системной соционики</a></li>
-<li><a href="faq-po-socionike">FAQ по соционике</a></li>
+<li><a href="/chto-takoe-sistemnaja-socionika">Что такое системная соционика?</a></li>
+<li><a href="/o-shkole">О Школе системной соционики</a></li>
+<li><a href="/faq-po-socionike">FAQ по соционике</a></li>
 <li class="selected"><span>Поиск по темам</span></li>
-<li><a href="novosti">Новости</a></li>
-<li><a href="kontakty">Контакты</a></li>
+<li><a href="/novosti">Новости</a></li>
+<li><a href="/kontakty">Контакты</a></li>
 </ul>
 </li>
 </ul>	</nav>
@@ -799,8 +799,8 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Человек есть тайна… Я занимаюсь этой тайной, ибо хочу быть человеком»</p>	</blockquote>
-	<p class="random-quote-author">Достоевский</p>
+		<p>«Большинство из вас, видя недостатки и грубость своих детей, даже не понимают, что это последствия ваших же собственных убожества, эгоизма и отсутствия доброты»</p>	</blockquote>
+	<p class="random-quote-author">К. Е. Антарова</p>
 	<p class="random-quote-note">(ЧИ)</p>
 </section>
 <!--/noindex-->
@@ -843,7 +843,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

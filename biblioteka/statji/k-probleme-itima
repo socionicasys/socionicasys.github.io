@@ -4,13 +4,13 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Изложена концепция интегрального типа информационного метаболизма социетальной психики неслучайных групп с точки зрения системного подхода" />
 <meta name="keywords" content="интегральный ТИМ, ИТИМ, модель ИТИМ, соционика, ТИМ группы, социентальная психика, неслучайная группа, системный подход, социология" />
-<script type="text/javascript" src="../../scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>К проблеме интегрального типа информационного метаболизма социетальной психики неслучайной группы | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -22,25 +22,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw1">
-<li><a href="../../index.html">Главная</a></li>
-<li><a href="../../teorija">Теория</a></li>
-<li><a href="../../praktika">Практика</a></li>
-<li class="active"><a href="../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li class="active"><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap" class = "narrow">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../biblioteka">Библиотека</a> &raquo; <a href="../statji">Статьи</a> &raquo; <span>К проблеме интегрального типа информационного метаболизма…</span></div>	</nav>
+<a href="/biblioteka">Библиотека</a> &raquo; <a href="/biblioteka/statji">Статьи</a> &raquo; <span>К проблеме интегрального типа информационного метаболизма…</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<header class="article-header">
@@ -82,7 +82,7 @@
 <p>
 	Цель определяет назначение, функцию неслучайной группы, обеспечивает устойчивость и целостность, а значит и появление новых, системных свойств и характеристик, которых не имеют элементы (см. принцип эмерджентности [4]). Применяя так называемое «кортежное» описание содержания системы [8], можно записать:</p>
 <p style="text-align:center;">
-	<img alt="Σ { {M}, {x}, G }" height="21" src="../../images/diagrams/k-probleme-itima-eq1.png" width="115" /></p>
+	<img alt="Σ { {M}, {x}, G }" height="21" src="/images/diagrams/k-probleme-itima-eq1.png" width="115" /></p>
 <p>
 	{<var>M</var>} — совокупность элементов системы</p>
 <p>
@@ -94,7 +94,7 @@
 <p>
 	По аналогии с приведенным выше «кортежным» представлением содержания системы, можно записать и содержание системы управления:</p>
 <p style="text-align:center;">
-	<img alt="Σ { {W}, {y}, H }" src="../../images/diagrams/k-probleme-itima-eq2.png" style="width:116px;height:21px;" /></p>
+	<img alt="Σ { {W}, {y}, H }" src="/images/diagrams/k-probleme-itima-eq2.png" style="width:116px;height:21px;" /></p>
 <p>
 	{<var>W</var>} — совокупность управляющих и исполнительных блоков и элементов системы</p>
 <p>
@@ -104,7 +104,7 @@
 <p>
 	Из сказанного выше по поводу целеполагания и управления нетрудно видеть, что функция системы управления, её назначение <var>H</var> и функция основной системы <var>G</var>, совершенно определённым образом связаны:</p>
 <p style="text-align:center;">
-	<img alt="φ: G → H" src="../../images/diagrams/k-probleme-itima-eq3.png" /></p>
+	<img alt="φ: G → H" src="/images/diagrams/k-probleme-itima-eq3.png" /></p>
 <p>
 	а именно, множество параметров функции <var>G</var> должно быть некоторым отображением в множестве параметров функции <var>H</var>.</p>
 <p>
@@ -118,11 +118,11 @@
 	<li>
 		<span class="name">Мертон Р.</span> Социальная теория и социальная структура (фрагменты) / Под общ. ред. <span class="name">В. В. Танчера</span>. — Киев: Ин-т социол., 1996. — 112 с.</li>
 	<li>
-		<span class="name">Ермак В. Д.</span> <a href="sistemnij-podhod">Системы, системные принципы и системный подход</a>. // Социон, № 2, 1997 — № 1, 1998.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/statji/sistemnij-podhod">Системы, системные принципы и системный подход</a>. // Социон, № 2, 1997 — № 1, 1998.</li>
 	<li>
 		<span class="name">Гумилёв Л. Н.</span> Этносфера: история людей и история природы. — М., 1993.</li>
 	<li>
-		<span class="name">Ермак В. Д.</span> <a href="struktura-psihiki">Структура и функционирование психики человека с системной точки зрения</a>. // Соционика, ментология и психология личности, № 3, 1996.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/statji/struktura-psihiki">Структура и функционирование психики человека с системной точки зрения</a>. // Соционика, ментология и психология личности, № 3, 1996.</li>
 	<li>
 		Краткий словарь иностранных слов. — М.: «Сов. Энцикл.», 1966. — 384 с.</li>
 	<li>
@@ -130,7 +130,7 @@
 	<li>
 		<span class="name">Янг Л.</span> Лекции по вариационному исчислению и теории оптимального управления. / Перев. с англ. <span class="name">М. Г. Алуашвили</span> — М.: Изд. «Мир», 1974. — 488 с.</li>
 	<li>
-		<span class="name">Ермак В. Д.</span> <a href="vzaimodejstvije-psihiki-s-mirom">Взаимодействие психики человека с окружающим миром. Аспектная структура информационного потока</a>. // Соционика, ментология и психология личности, № 5, 1997.</li>
+		<span class="name">Ермак В. Д.</span> <a href="/biblioteka/statji/vzaimodejstvije-psihiki-s-mirom">Взаимодействие психики человека с окружающим миром. Аспектная структура информационного потока</a>. // Соционика, ментология и психология личности, № 5, 1997.</li>
 	<li>
 		<span class="name">Юнг К. Г.</span> Тевистокские лекции. Аналитическая психология: её теория и практика / Составл., предисл. и перевод с англ. <span class="name">В. Менжулина</span>. — Киев: СИНТО, 1995. — VII, 236 с.</li>
 </ol></article>
@@ -174,7 +174,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 </body>
 </html>

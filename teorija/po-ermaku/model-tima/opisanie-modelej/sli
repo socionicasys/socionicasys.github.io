@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Даны социальная характеристика и описание ТИМа СЛИ (габен) как расшифровка функционирования модели ТИМ (функций и блоков)." />
 <meta name="keywords" content="габен, СЛИ, соционический тип, описание типа, ТИМ, описание модели, соционика, характеристика ТИМ, функционирование блока, эго, суперэго, суперид, ид" />
-<link rel="prev" href="iee" />
-<link rel="next" href="../../vozrastnoje-razvitije" />
-<script type="text/javascript" src="../../../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/po-ermaku/model-tima/opisanie-modelej/iee" />
+<link rel="next" href="/teorija/po-ermaku/vozrastnoje-razvitije" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>СЛИ («габен») | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,47 +25,47 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../../../index.html">Главная</a></li>
-<li class="active"><a href="../../../../teorija">Теория</a></li>
-<li><a href="../../../../praktika">Практика</a></li>
-<li><a href="../../../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../../../teorija">Теория</a> &raquo; <a href="../../../po-ermaku">Соционика по Ермаку</a> &raquo; <a href="../../model-tima">Модель ТИМa</a> &raquo; <a href="../opisanie-modelej">Описание моделей ТИМа (Ермак, Росланкина)</a> &raquo; <span>СЛИ («габен»)</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/po-ermaku">Соционика по Ермаку</a> &raquo; <a href="/teorija/po-ermaku/model-tima">Модель ТИМa</a> &raquo; <a href="/teorija/po-ermaku/model-tima/opisanie-modelej">Описание моделей ТИМа (Ермак, Росланкина)</a> &raquo; <span>СЛИ («габен»)</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
 	СЛИ (Сенсорно-логический интроверт, «<em>габен</em>»)</h1>
 <table class="model-diagram compact floating"><tbody><tr class="ego"><td>
-				− <img alt="БС" class="inline-icon" height="12" src="../../../../images/symbols/aspect_S.png?1" title="БС" width="12" /></td>
+				− <img alt="БС" class="inline-icon" height="12" src="/images/symbols/aspect_S.png?1" title="БС" width="12" /></td>
 			<td>
-				+ <img alt="ЧЛ" class="inline-icon" height="12" src="../../../../images/symbols/aspect_P.png?1" title="ЧЛ" width="12" /></td>
+				+ <img alt="ЧЛ" class="inline-icon" height="12" src="/images/symbols/aspect_P.png?1" title="ЧЛ" width="12" /></td>
 		</tr><tr class="superego"><td>
-				+ <img alt="ЧЭ" class="inline-icon" height="12" src="../../../../images/symbols/aspect_E.png?1" title="ЧЭ" width="12" /></td>
+				+ <img alt="ЧЭ" class="inline-icon" height="12" src="/images/symbols/aspect_E.png?1" title="ЧЭ" width="12" /></td>
 			<td>
-				− <img alt="БИ" class="inline-icon" height="12" src="../../../../images/symbols/aspect_T.png?1" title="БИ" width="12" /></td>
+				− <img alt="БИ" class="inline-icon" height="12" src="/images/symbols/aspect_T.png?1" title="БИ" width="12" /></td>
 		</tr></tbody><tbody><tr class="superid"><td>
-				− <img alt="БЭ" class="inline-icon" height="12" src="../../../../images/symbols/aspect_R.png?1" title="БЭ" width="12" /></td>
+				− <img alt="БЭ" class="inline-icon" height="12" src="/images/symbols/aspect_R.png?1" title="БЭ" width="12" /></td>
 			<td>
-				+ <img alt="ЧИ" class="inline-icon" height="12" src="../../../../images/symbols/aspect_I.png?1" title="ЧИ" width="12" /></td>
+				+ <img alt="ЧИ" class="inline-icon" height="12" src="/images/symbols/aspect_I.png?1" title="ЧИ" width="12" /></td>
 		</tr><tr class="id"><td>
-				+ <img alt="ЧС" class="inline-icon" height="12" src="../../../../images/symbols/aspect_F.png?1" title="ЧС" width="12" /></td>
+				+ <img alt="ЧС" class="inline-icon" height="12" src="/images/symbols/aspect_F.png?1" title="ЧС" width="12" /></td>
 			<td>
-				− <img alt="БЛ" class="inline-icon" height="12" src="../../../../images/symbols/aspect_L.png?1" title="БЛ" width="12" /></td>
+				− <img alt="БЛ" class="inline-icon" height="12" src="/images/symbols/aspect_L.png?1" title="БЛ" width="12" /></td>
 		</tr></tbody></table><p>
-	<span class="term">Социальная (личностная) характеристика ТИМ: </span>хорошо разбирается, в совершенстве владеет разнообразными методами, эффективными технологическими приемами (физическими, психологическими, информационными и/или др.), конкретной работой {+<img alt="" src="../../../../images/symbols/aspect_P.png" style="width:12px;height:12px;" />} по устранению дискомфорта, неудобств, дисгармонии в окружающем мире {−<img alt="" src="../../../../images/symbols/aspect_S.png" style="width:12px;height:12px;" /><strong> → </strong>+<img alt="" src="../../../../images/symbols/aspect_P.png" style="width:12px;height:12px;" />}; делает это, реагируя на некие позитивные изменения в ближнем окружении, возможности, способности, в том числе, свои {+<img alt="" src="../../../../images/symbols/aspect_I.png" style="width:12px;height:12px;" />}, уверенный в том, что улучшением, налаживанием отношений (в том числе, и между людьми)  можно эти возможности реализовать {+<img alt="" src="../../../../images/symbols/aspect_I.png" style="width:12px;height:12px;" /><strong> → </strong>−<img alt="" src="../../../../images/symbols/aspect_R.png" style="width:12px;height:12px;" />}.</p>
+	<span class="term">Социальная (личностная) характеристика ТИМ: </span>хорошо разбирается, в совершенстве владеет разнообразными методами, эффективными технологическими приемами (физическими, психологическими, информационными и/или др.), конкретной работой {+<img alt="" src="/images/symbols/aspect_P.png" style="width:12px;height:12px;" />} по устранению дискомфорта, неудобств, дисгармонии в окружающем мире {−<img alt="" src="/images/symbols/aspect_S.png" style="width:12px;height:12px;" /><strong> → </strong>+<img alt="" src="/images/symbols/aspect_P.png" style="width:12px;height:12px;" />}; делает это, реагируя на некие позитивные изменения в ближнем окружении, возможности, способности, в том числе, свои {+<img alt="" src="/images/symbols/aspect_I.png" style="width:12px;height:12px;" />}, уверенный в том, что улучшением, налаживанием отношений (в том числе, и между людьми)  можно эти возможности реализовать {+<img alt="" src="/images/symbols/aspect_I.png" style="width:12px;height:12px;" /><strong> → </strong>−<img alt="" src="/images/symbols/aspect_R.png" style="width:12px;height:12px;" />}.</p>
 <hr /><p>
 	 </p>
 <p>
@@ -74,7 +74,7 @@
 	Блок Суперид</h2>
 <table><tbody><tr><td nowrap="nowrap">
 				<p>
-					+<img alt="" src="../../../../images/symbols/aspect_I.png" style="width:12px;height:12px;" /></p>
+					+<img alt="" src="/images/symbols/aspect_I.png" style="width:12px;height:12px;" /></p>
 			</td>
 			<td>
 				<p>
@@ -84,7 +84,7 @@
 	<strong>функционирование</strong> — привлекает информация о позитивных изменениях, конкретных позитивных возможностях, способностях (в том числе, своих); негативная информация часто даже не принимается во внимание (из-за этого производит впечатление инициативного человека) .</p>
 <table><tbody><tr><td nowrap="nowrap">
 				<p>
-					−<img alt="" src="../../../../images/symbols/aspect_R.png" style="width:12px;height:12px;" /></p>
+					−<img alt="" src="/images/symbols/aspect_R.png" style="width:12px;height:12px;" /></p>
 			</td>
 			<td>
 				<p>
@@ -93,12 +93,12 @@
 		</tr></tbody></table><p>
 	<strong>функционирование</strong> — хотел бы считать, что умеет способствовать улучшению отношений между людьми и удачно использовать неформальные контакты, устанавливать и соблюдать необ­ходимую дистанцию в общении; нужда­ется в оценке этого умения.</p>
 <p>
-	<strong>Назначение блока Суперид {+<img alt="" src="../../../../images/symbols/aspect_I.png" style="width:12px;height:12px;" /> → −<img alt="" src="../../../../images/symbols/aspect_R.png" style="width:12px;height:12px;" /></strong><strong>} — активизация</strong> — неосознанно, «автоматически»  активизируется при необходимости реализовать конкретную позитивную возможность {+<img alt="" src="../../../../images/symbols/aspect_I.png" style="width:12px;height:12px;" />}<b> </b>посредством использования, изменения, улучшения официальных и нео­фициальных отношений, в том числе, между людьми {+<img alt="" src="../../../../images/symbols/aspect_I.png" style="width:12px;height:12px;" /><strong> → </strong>−<img alt="" src="../../../../images/symbols/aspect_R.png" style="width:12px;height:12px;" />}.</p>
+	<strong>Назначение блока Суперид {+<img alt="" src="/images/symbols/aspect_I.png" style="width:12px;height:12px;" /> → −<img alt="" src="/images/symbols/aspect_R.png" style="width:12px;height:12px;" /></strong><strong>} — активизация</strong> — неосознанно, «автоматически»  активизируется при необходимости реализовать конкретную позитивную возможность {+<img alt="" src="/images/symbols/aspect_I.png" style="width:12px;height:12px;" />}<b> </b>посредством использования, изменения, улучшения официальных и нео­фициальных отношений, в том числе, между людьми {+<img alt="" src="/images/symbols/aspect_I.png" style="width:12px;height:12px;" /><strong> → </strong>−<img alt="" src="/images/symbols/aspect_R.png" style="width:12px;height:12px;" />}.</p>
 <h2>
 	Блок Ид</h2>
 <table><tbody><tr><td nowrap="nowrap">
 				<p>
-					+<img alt="" src="../../../../images/symbols/aspect_F.png" style="width:12px;height:12px;" /></p>
+					+<img alt="" src="/images/symbols/aspect_F.png" style="width:12px;height:12px;" /></p>
 			</td>
 			<td>
 				<p>
@@ -108,16 +108,16 @@
 	<strong>функционирование</strong> — программа волевой защиты, сопротив­ления силовому воздействию; индивидуальным характером этой функции («моя программа, мой способ защиты, отстаивания себя и своего места в жизни») объясняется впечатление о людях  этого типа как об упрямых, непреклонных в достижении своих целей.</p>
 <table><tbody><tr><td nowrap="nowrap">
 				<p>
-					−<img alt="" src="../../../../images/symbols/aspect_L.png" style="width:12px;height:12px;" /></p>
+					−<img alt="" src="/images/symbols/aspect_L.png" style="width:12px;height:12px;" /></p>
 			</td>
 			<td>
 				<p>
 					<em>реализационная функция (восьмая функция модели); назначение — накопление и использование индивидуального «инструментария»; параметры — четыре: индиви­дуальный опыт, индивидуальные нормы, индивидуальные ситуации и индивидуальное время;</em></p>
 			</td>
 		</tr></tbody></table><p>
-	<strong>функционирование</strong> — программа отпора физическим, психологическим, информационным и др. воздействиям {+<img alt="" src="../../../../images/symbols/aspect_F.png" style="width:12px;height:12px;" />} реализуется построением обобщенных систем, схем, логических структур {−<img alt="" src="../../../../images/symbols/aspect_L.png" style="width:12px;height:12px;" />}, обеспечивающих такое место в структуре реалий жизни, которое гарантировало бы защищенность, в обобщенном смысле — комфорт.</p>
+	<strong>функционирование</strong> — программа отпора физическим, психологическим, информационным и др. воздействиям {+<img alt="" src="/images/symbols/aspect_F.png" style="width:12px;height:12px;" />} реализуется построением обобщенных систем, схем, логических структур {−<img alt="" src="/images/symbols/aspect_L.png" style="width:12px;height:12px;" />}, обеспечивающих такое место в структуре реалий жизни, которое гарантировало бы защищенность, в обобщенном смысле — комфорт.</p>
 <p>
-	<strong>Назначение блока Ид {+<img alt="" src="../../../../images/symbols/aspect_F.png" style="width:12px;height:12px;" /> → −<img alt="" src="../../../../images/symbols/aspect_L.png" style="width:12px;height:12px;" />} — индивидуальная идеология</strong> — неосознанно анализирует глобальные системы, взаимозависимости, строит абстрактные системы {−<img alt="" src="../../../../images/symbols/aspect_L.png" style="width:12px;height:12px;" />} в качестве средства достижения независимос­ти, защищенности {+<img alt="" src="../../../../images/symbols/aspect_F.png" style="width:12px;height:12px;" />}.</p>
+	<strong>Назначение блока Ид {+<img alt="" src="/images/symbols/aspect_F.png" style="width:12px;height:12px;" /> → −<img alt="" src="/images/symbols/aspect_L.png" style="width:12px;height:12px;" />} — индивидуальная идеология</strong> — неосознанно анализирует глобальные системы, взаимозависимости, строит абстрактные системы {−<img alt="" src="/images/symbols/aspect_L.png" style="width:12px;height:12px;" />} в качестве средства достижения независимос­ти, защищенности {+<img alt="" src="/images/symbols/aspect_F.png" style="width:12px;height:12px;" />}.</p>
 <hr /><p>
 	 </p>
 <p>
@@ -126,7 +126,7 @@
 	Блок Суперэго</h2>
 <table><tbody><tr><td nowrap="nowrap">
 				<p>
-					−<img alt="" src="../../../../images/symbols/aspect_T.png" style="width:12px;height:12px;" /></p>
+					−<img alt="" src="/images/symbols/aspect_T.png" style="width:12px;height:12px;" /></p>
 			</td>
 			<td>
 				<p>
@@ -136,7 +136,7 @@
 	<strong>функционирование</strong> — общепринятые, социально-нормативные представления о негативных и позитивных событиях, путях и способах ухода от неприятностей, об опыте и ошибках прошлого.</p>
 <table><tbody><tr><td nowrap="nowrap">
 				<p>
-					+<img alt="" src="../../../../images/symbols/aspect_E.png" style="width:12px;height:12px;" /></p>
+					+<img alt="" src="/images/symbols/aspect_E.png" style="width:12px;height:12px;" /></p>
 			</td>
 			<td>
 				<p>
@@ -145,12 +145,12 @@
 		</tr></tbody></table><p>
 	<strong>функционирование</strong> — состояние свое, конкретного человека или объекта может поддерживать позитивным только на основе личностного опыта таких состояний, без учета ситуаций, норм и временных параметров; поэтому болезненно воспри­нимает замечания об отсутствии эмоциональной отзывчивости в какой-то ситуации, ис­пытывает затруднения  при столкновении с незнакомыми состояниями или отрицательными эмоциями, в общении часто выглядит несколько замкнутым, иногда мрачноватым.</p>
 <p>
-	<strong>Назначение блока Суперэго {−<img alt="" src="../../../../images/symbols/aspect_T.png" style="width:12px;height:12px;" /> → +<img alt="" src="../../../../images/symbols/aspect_E.png" style="width:12px;height:12px;" />} — адаптация в социуме</strong> — руководствуясь только личностным опытом, может создавать позитивное настроение, положительное эмоциональное состояние себе и ближнему окружению {+<img alt="" src="../../../../images/symbols/aspect_E.png" style="width:12px;height:12px;" />}, в качестве предупреждения или выхода из глобальных неприятностей, негативных событий, которые понимает в духе общепринятых норм {−<img alt="" src="../../../../images/symbols/aspect_T.png" style="width:12px;height:12px;" /><strong> → </strong>+<img alt="" src="../../../../images/symbols/aspect_E.png" style="width:12px;height:12px;" />}.</p>
+	<strong>Назначение блока Суперэго {−<img alt="" src="/images/symbols/aspect_T.png" style="width:12px;height:12px;" /> → +<img alt="" src="/images/symbols/aspect_E.png" style="width:12px;height:12px;" />} — адаптация в социуме</strong> — руководствуясь только личностным опытом, может создавать позитивное настроение, положительное эмоциональное состояние себе и ближнему окружению {+<img alt="" src="/images/symbols/aspect_E.png" style="width:12px;height:12px;" />}, в качестве предупреждения или выхода из глобальных неприятностей, негативных событий, которые понимает в духе общепринятых норм {−<img alt="" src="/images/symbols/aspect_T.png" style="width:12px;height:12px;" /><strong> → </strong>+<img alt="" src="/images/symbols/aspect_E.png" style="width:12px;height:12px;" />}.</p>
 <h2>
 	Блок Эго</h2>
 <table><tbody><tr><td nowrap="nowrap">
 				<p>
-					−<img alt="" src="../../../../images/symbols/aspect_S.png" style="width:12px;height:12px;" /></p>
+					−<img alt="" src="/images/symbols/aspect_S.png" style="width:12px;height:12px;" /></p>
 			</td>
 			<td>
 				<p>
@@ -160,7 +160,7 @@
 	<strong>функционирование</strong> — хорошо разбирается в физических, психологических, информационных и др. комфортных и дискомфортных ситуациях, удобствах и неудобствах, гармонии и дисгармонии, соответствии или несоответствии их социальным нормам и правилам, путях эволюции и совершенствования окружающего мира.</p>
 <table><tbody><tr><td nowrap="nowrap">
 				<p>
-					+<img alt="" src="../../../../images/symbols/aspect_P.png" style="width:12px;height:12px;" /></p>
+					+<img alt="" src="/images/symbols/aspect_P.png" style="width:12px;height:12px;" /></p>
 			</td>
 			<td>
 				<p>
@@ -169,13 +169,13 @@
 		</tr></tbody></table><p>
 	<strong>функционирование</strong> — в совершенстве владеет разнообразными методами, эффективными технологическими приемами (физическими, психологическими, информационными и др.), конкретными качественными способами работы; работу, не отвечающую критериям добротности не любит и не одобряет.</p>
 <p>
-	<strong>Назначение блока Эго {−<img alt="" src="../../../../images/symbols/aspect_S.png" style="width:12px;height:12px;" /> → +<img alt="" src="../../../../images/symbols/aspect_E.png" style="width:12px;height:12px;" />} — личностная (социальная) идеология</strong> — эффективной работой {+<img alt="" src="../../../../images/symbols/aspect_P.png" style="width:12px;height:12px;" />} устранять дискомфорт, неудобства, дисгармонию (физическую и/или психологическую и/или информационную, др.), в окружающем мире {−<img alt="" src="../../../../images/symbols/aspect_S.png" style="width:12px;height:12px;" /><strong> → </strong>+<img alt="" src="../../../../images/symbols/aspect_P.png" style="width:12px;height:12px;" />}.</p>
+	<strong>Назначение блока Эго {−<img alt="" src="/images/symbols/aspect_S.png" style="width:12px;height:12px;" /> → +<img alt="" src="/images/symbols/aspect_E.png" style="width:12px;height:12px;" />} — личностная (социальная) идеология</strong> — эффективной работой {+<img alt="" src="/images/symbols/aspect_P.png" style="width:12px;height:12px;" />} устранять дискомфорт, неудобства, дисгармонию (физическую и/или психологическую и/или информационную, др.), в окружающем мире {−<img alt="" src="/images/symbols/aspect_S.png" style="width:12px;height:12px;" /><strong> → </strong>+<img alt="" src="/images/symbols/aspect_P.png" style="width:12px;height:12px;" />}.</p>
 <p>
 	 </p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="iee">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="../../vozrastnoje-razvitije">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/iee">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/teorija/po-ermaku/vozrastnoje-razvitije">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -184,46 +184,46 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li><a href="../../../dlja-novichkov">Соционика от новичка до эксперта</a></li>
-<li class="active"><a href="../../../po-ermaku">Соционика по Ермаку</a>
+<li><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a></li>
+<li class="active"><a href="/teorija/po-ermaku">Соционика по Ермаку</a>
 <ul>
-<li><a href="../../obzor">Краткий обзор науки</a></li>
-<li><a href="../../sistemnyj-podhod">Системный подход</a></li>
-<li><a href="../../inform-potok">Информационный поток</a></li>
-<li class="active"><a href="../../model-tima">Модель ТИМa</a>
+<li><a href="/teorija/po-ermaku/obzor">Краткий обзор науки</a></li>
+<li><a href="/teorija/po-ermaku/sistemnyj-podhod">Системный подход</a></li>
+<li><a href="/teorija/po-ermaku/inform-potok">Информационный поток</a></li>
+<li class="active"><a href="/teorija/po-ermaku/model-tima">Модель ТИМa</a>
 <ul>
-<li><a href="http://socionicasys.org/teorija/po-ermaku/model-tima/bloki-i-superbloki">Блоки и суперблоки</a></li>
-<li><a href="../funkcii">Функции</a></li>
-<li><a href="../rac-irrac">(Ир-)рациональность</a></li>
-<li><a href="../extra-intro">Экстраверсия/интроверсия</a></li>
-<li class="active"><a href="../opisanie-modelej">Описание моделей ТИМа (Ермак, Росланкина)</a>
+<li><a href="/teorija/po-ermaku/model-tima/bloki-i-superbloki">Блоки и суперблоки</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/funkcii">Функции</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/rac-irrac">(Ир-)рациональность</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/extra-intro">Экстраверсия/интроверсия</a></li>
+<li class="active"><a href="/teorija/po-ermaku/model-tima/opisanie-modelej">Описание моделей ТИМа (Ермак, Росланкина)</a>
 <ul>
-<li><a href="ile">ИЛЭ («дон кихот»)</a></li>
-<li><a href="sei">СЭИ («дюма»)</a></li>
-<li><a href="ese">ЭСЭ («гюго»)</a></li>
-<li><a href="lii">ЛИИ («робеспьер»)</a></li>
-<li><a href="eie">ЭИЭ («гамлет»)</a></li>
-<li><a href="lsi">ЛСИ («максим горький»)</a></li>
-<li><a href="sle">СЛЭ («жуков»)</a></li>
-<li><a href="iei">ИЭИ («есенин»)</a></li>
-<li><a href="see">СЭЭ («цезарь»)</a></li>
-<li><a href="ili">ИЛИ («бальзак»)</a></li>
-<li><a href="lie">ЛИЭ («джек лондон»)</a></li>
-<li><a href="esi">ЭСИ («драйзер»)</a></li>
-<li><a href="lse">ЛСЭ («штирлиц»)</a></li>
-<li><a href="eii">ЭИИ («достоевский»)</a></li>
-<li><a href="iee">ИЭЭ («гексли»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/ile">ИЛЭ («дон кихот»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/sei">СЭИ («дюма»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/ese">ЭСЭ («гюго»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/lii">ЛИИ («робеспьер»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/eie">ЭИЭ («гамлет»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/lsi">ЛСИ («максим горький»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/sle">СЛЭ («жуков»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/iei">ИЭИ («есенин»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/see">СЭЭ («цезарь»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/ili">ИЛИ («бальзак»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/lie">ЛИЭ («джек лондон»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/esi">ЭСИ («драйзер»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/lse">ЛСЭ («штирлиц»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/eii">ЭИИ («достоевский»)</a></li>
+<li><a href="/teorija/po-ermaku/model-tima/opisanie-modelej/iee">ИЭЭ («гексли»)</a></li>
 <li class="selected"><span>СЛИ («габен»)</span></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="../../vozrastnoje-razvitije">Возрастное развитие</a></li>
-<li><a href="../../i-timy">Интегральные ТИМы</a></li>
-<li><a href="../../otnoshenija">Межтипные отношения</a></li>
-<li><a href="../../identifikacija">Идентификация ТИМа</a></li>
+<li><a href="/teorija/po-ermaku/vozrastnoje-razvitije">Возрастное развитие</a></li>
+<li><a href="/teorija/po-ermaku/i-timy">Интегральные ТИМы</a></li>
+<li><a href="/teorija/po-ermaku/otnoshenija">Межтипные отношения</a></li>
+<li><a href="/teorija/po-ermaku/identifikacija">Идентификация ТИМа</a></li>
 </ul>
 </li>
 </ul>
@@ -235,9 +235,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Блажен тот, кто ничего не знает: он не рискует быть непонятым»</p>	</blockquote>
-	<p class="random-quote-author">Конфуций</p>
-	<p class="random-quote-note">( ЧИ)</p>
+		<p>«Если вас поразила красотой какая-нибудь женщина, но вы не можете вспомнить, во что она была одета, — значит, она была одета идеально»</p>	</blockquote>
+	<p class="random-quote-author">Унгаро</p>
+	<p class="random-quote-note">(БС, ЧЭ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -279,7 +279,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/

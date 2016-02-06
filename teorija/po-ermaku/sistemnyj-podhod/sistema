@@ -4,16 +4,16 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Подробно рассмотрены понятия модели и системы, системный подход к исследованию человека и моделирование психики человека - как основание соционики (теории информационного метаболизма психики)." />
 <meta name="keywords" content="соционика, системный подход, система, модель, объект иссследования, совокупность элементов, исследование человека, моделирование психики, информационный метаболизм, ТИМ" />
-<link rel="prev" href="../sistemnyj-podhod" />
-<link rel="next" href="sistemnye-principy" />
-<script type="text/javascript" src="../../../assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="../../../scripts/hyphenate.js?201408101352"></script>
+<link rel="prev" href="/teorija/po-ermaku/sistemnyj-podhod" />
+<link rel="next" href="/teorija/po-ermaku/sistemnyj-podhod/sistemnye-principy" />
+<script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
 <title>Система и модель | Школа системной соционики</title>
-	<link rel="alternate" type="application/atom+xml" href="../../../atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="../../../styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="../../../styles/libertine.css?201408101352" media="all" />
-	<link rel="shortcut icon" href="../../../favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="../../../apple-touch-icon.png" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
 	<script src="/scripts/html5shiv.js?201408101352"></script>
 	<link rel="stylesheet" type="text/css" href="/styles/ie.css?201408101352">
@@ -25,25 +25,25 @@
 <body id="body">
 	<div id="wrap">
 		<header id="main-header">
-			<a id="logo-link" href="../../../index.html">
+			<a id="logo-link" href="/">
 				<h1>Школа системной соционики</h1>
 				<h2>«Практика&nbsp;&mdash; критерий истины»</h2>
 			</a>
 		</header>
 		<nav id="major-navigation">
 			<ul id="yw2">
-<li><a href="../../../index.html">Главная</a></li>
-<li class="active"><a href="../../../teorija">Теория</a></li>
-<li><a href="../../../praktika">Практика</a></li>
-<li><a href="../../../biblioteka">Библиотека</a></li>
-<li><a href="http://socionicasys.org/forum/">Форум</a></li>
-<li><a href="../../../praktika/testy-proverki-znanij">Тесты</a></li>
+<li><a href="/">Главная</a></li>
+<li class="active"><a href="/teorija">Теория</a></li>
+<li><a href="/praktika">Практика</a></li>
+<li><a href="/biblioteka">Библиотека</a></li>
+<li><a href="/forum/">Форум</a></li>
+<li><a href="/praktika/testy-proverki-znanij">Тесты</a></li>
 </ul>		</nav>
 		<div id="content-area" class = "narrow">
 			<div id="content-wrap">
 		<nav id="breadcrumbs">
 		<div class="breadcrumbs">
-<a href="../../../teorija">Теория</a> &raquo; <a href="../../po-ermaku">Соционика по Ермаку</a> &raquo; <a href="../sistemnyj-podhod">Системный подход</a> &raquo; <span>Система и модель</span></div>	</nav>
+<a href="/teorija">Теория</a> &raquo; <a href="/teorija/po-ermaku">Соционика по Ермаку</a> &raquo; <a href="/teorija/po-ermaku/sistemnyj-podhod">Системный подход</a> &raquo; <span>Система и модель</span></div>	</nav>
 		<div id="content" class="hyphenate">
 		<article >
 	<h1>
@@ -75,7 +75,7 @@
 </ol><p>
 	Следует понимать, что ни один объект не может существовать (функционировать) изолированно, замкнуто. В качестве причин можно выделить необходимость получать вещество и энергию, отдавать отходы (метаболизм, энтропия), также имеют место другие, например, эволюционные факторы. Раньше или позже в развивающемся мире перед объектом возникает проблема, справиться с которой самостоятельно он не в состоянии и вынужден взаимодействовать с другими объектами, цели которых не противоречат его целям. Так возникает необходимость взаимодействия. В реальном мире все взаимосвязано и взаимодействует. Так вот:</p>
 <p class="definition">
-	Модели взаимодействия объектов, которые сами, при этом, модели, называются <span class="term">системами</span><a class="footnote" href="sistema#footnote-1" id="backref-1" title="Данное определение отражает понятие системы с позиции системного подхода в соционике, основным объектом рассмотрения которого является психика человека, представленная моделью типа информационного метаболизма">1</a>.</p>
+	Модели взаимодействия объектов, которые сами, при этом, модели, называются <span class="term">системами</span><a class="footnote" href="#footnote-1" id="backref-1" title="Данное определение отражает понятие системы с позиции системного подхода в соционике, основным объектом рассмотрения которого является психика человека, представленная моделью типа информационного метаболизма">1</a>.</p>
 <p>
 	Надо отметить, что приведенное выше концептуальное введение понятия системы как модели взаимодействия моделей объектов, конечно, не единственно возможное. Как было сказано выше, в литературе понятие системы и вводится, и трактуется по-разному. Так, один из создателей теории систем <span class="name">Л. фон Берталанфи</span> в 1937 году так определил: «Система — комплекс элементов, находящихся во взаимодействии». Известно и такое определение: «система — совокупность взаимосвязанных элементов, которые объединены единством цели и функциональной целостностью, при этом свойство самой системы не сводится к сумме свойств элементов».</p>
 <p>
@@ -103,7 +103,7 @@
 <p>
 	Системный подход к человеку с неизбежностью приводит к построению модели взаимодействия человека с окружающим миром, т. е. системы «человек—окружающий мир» (рис. 1). Для этого мы условно выделяем человека из окружающей его среды, обозначаем его элементом системы. Затем выделяем существенно важные для целей исследования связи с окружающим миром (системные коммуниканты). Окружающий мир обозначаем вторым элементом системы, включив в него всё существенно важное для исследования (других людей, живые и неживые объекты и т. п.).</p>
 <p style="text-align:center;">
-	<img alt="Взаимодействие человека как системы с окружающим миром" height="277" src="../../../images/diagrams/interaction.png?2" width="500" /><br />
+	<img alt="Взаимодействие человека как системы с окружающим миром" height="277" src="/images/diagrams/interaction.png?2" width="500" /><br />
 	Рис. 1. Взаимодействие человека с окружающим миром.</p>
 <p>
 	Межэлементный (системный) обмен в системе «человек—окружающий мир» можно представить таким образом:</p>
@@ -114,15 +114,15 @@
 </ul><p>
 	Всем, кто работает с психикой человека, соционика предлагает глубокий по своим возможностям «инструментарий» — модели типов информационного метаболизма (ТИМ) психики.</p>
 <p>
-	<small>По материалам книги: <span class="name">Ермак В. Д.</span> <a href="../../../biblioteka/knigi#ermak-klassicheskaja-socionika">Классическая соционика. Системная концепция теории информационного метаболизма психики</a>.</small></p>
+	<small>По материалам книги: <span class="name">Ермак В. Д.</span> <a href="/biblioteka/knigi#ermak-klassicheskaja-socionika">Классическая соционика. Системная концепция теории информационного метаболизма психики</a>.</small></p>
 <hr /><p id="footnote-1">
-	<a class="footnote" href="sistema#backref-1">1</a> Данное определение отражает понятие системы с позиции системного подхода в соционике, основным объектом рассмотрения которого является психика человека, представленная моделью типа информационного метаболизма.</p>
+	<a class="footnote" href="#backref-1">1</a> Данное определение отражает понятие системы с позиции системного подхода в соционике, основным объектом рассмотрения которого является психика человека, представленная моделью типа информационного метаболизма.</p>
 <p>
-	<span style="font-size:14px;line-height:16.8px;background-color:rgb(255,255,255);">См. также  </span><a href="../../../biblioteka/statji/sistemnij-podhod" style="font-size:14px;line-height:16.8px;background-color:rgb(255,255,255);"><span style="font-size:16px;line-height:16.8px;background-color:rgb(255,255,255);">Ермак В. Д. </span><span style="font-size:16px;line-height:16.8px;background-color:rgb(255,255,255);">Системы. Системные принципы. Системный подход</span></a></p>
+	<span style="font-size:14px;line-height:16.8px;background-color:rgb(255,255,255);">См. также  </span><a href="http://socionicasys.org/biblioteka/statji/sistemnij-podhod" style="font-size:14px;line-height:16.8px;background-color:rgb(255,255,255);"><span style="font-size:16px;line-height:16.8px;background-color:rgb(255,255,255);">Ермак В. Д. </span><span style="font-size:16px;line-height:16.8px;background-color:rgb(255,255,255);">Системы. Системные принципы. Системный подход</span></a></p>
 <nav id="nav-controls">
 	<ul>
-				<li id="prev-link"><a href="../sistemnyj-podhod">« Предыдущая страница</a></li>
-						<li id="next-link"><a href="sistemnye-principy">Следующая страница »</a></li>
+				<li id="prev-link"><a href="/teorija/po-ermaku/sistemnyj-podhod">« Предыдущая страница</a></li>
+						<li id="next-link"><a href="/teorija/po-ermaku/sistemnyj-podhod/sistemnye-principy">Следующая страница »</a></li>
 			</ul>
 </nav>
 </article>
@@ -131,24 +131,24 @@
 <aside id="secondary-navigation">
 	<nav>
 		<ul id="yw1">
-<li class="active"><a href="../../../teorija">Теория</a>
+<li class="active"><a href="/teorija">Теория</a>
 <ul>
-<li><a href="../../dlja-novichkov">Соционика от новичка до эксперта</a></li>
-<li class="active"><a href="../../po-ermaku">Соционика по Ермаку</a>
+<li><a href="/teorija/dlja-novichkov">Соционика от новичка до эксперта</a></li>
+<li class="active"><a href="/teorija/po-ermaku">Соционика по Ермаку</a>
 <ul>
-<li><a href="../obzor">Краткий обзор науки</a></li>
-<li class="active"><a href="../sistemnyj-podhod">Системный подход</a>
+<li><a href="/teorija/po-ermaku/obzor">Краткий обзор науки</a></li>
+<li class="active"><a href="/teorija/po-ermaku/sistemnyj-podhod">Системный подход</a>
 <ul>
 <li class="selected"><span>Система и модель</span></li>
-<li><a href="sistemnye-principy">Системные принципы</a></li>
+<li><a href="/teorija/po-ermaku/sistemnyj-podhod/sistemnye-principy">Системные принципы</a></li>
 </ul>
 </li>
-<li><a href="../inform-potok">Информационный поток</a></li>
-<li><a href="../model-tima">Модель ТИМa</a></li>
-<li><a href="../vozrastnoje-razvitije">Возрастное развитие</a></li>
-<li><a href="../i-timy">Интегральные ТИМы</a></li>
-<li><a href="../otnoshenija">Межтипные отношения</a></li>
-<li><a href="../identifikacija">Идентификация ТИМа</a></li>
+<li><a href="/teorija/po-ermaku/inform-potok">Информационный поток</a></li>
+<li><a href="/teorija/po-ermaku/model-tima">Модель ТИМa</a></li>
+<li><a href="/teorija/po-ermaku/vozrastnoje-razvitije">Возрастное развитие</a></li>
+<li><a href="/teorija/po-ermaku/i-timy">Интегральные ТИМы</a></li>
+<li><a href="/teorija/po-ermaku/otnoshenija">Межтипные отношения</a></li>
+<li><a href="/teorija/po-ermaku/identifikacija">Идентификация ТИМа</a></li>
 </ul>
 </li>
 </ul>
@@ -160,9 +160,9 @@
 <section class="random-quote">
 	<h1>Мысли человечества в аспектах</h1>
 	<blockquote class="hyphenate">
-		<p>«Гнев есть кратковременное безумие»</p>	</blockquote>
-	<p class="random-quote-author">Гораций</p>
-	<p class="random-quote-note">(ЧЭ)</p>
+		<p>«В жизни есть две трагедии. Одна — не добиться исполнения своего самого сокровенного желания. Вторая — добиться»</p>	</blockquote>
+	<p class="random-quote-author">Джордж Бернард Шоу</p>
+	<p class="random-quote-note">(ЧИ)</p>
 </section>
 <!--/noindex-->
 </aside>
@@ -204,7 +204,7 @@
         } else { f(); }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="http://mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/28748261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika -->
 <script type="text/javascript">
 /*<![CDATA[*/
