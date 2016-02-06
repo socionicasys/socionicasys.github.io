@@ -178,7 +178,7 @@ body:before {
 }
 
 #logo-link {
-	background: url('/images/Logo.png?4') no-repeat;
+	background: url('/images/Logo.png') no-repeat;
 	height: 5em;
 	text-decoration: none;
 }
@@ -215,7 +215,7 @@ body:before {
 	float: left;
 	width: 100%;
 	padding: 0.6em 0 0.5em 8.5em;
-	background: url('/images/Logo.png?4') no-repeat 0.5em -5.75em;
+	background: url('/images/Logo.png') no-repeat 0.5em -5.75em;
 	border-bottom: 3px solid #6ebb21;
 }
 
@@ -492,7 +492,7 @@ body:before {
 
 #content ol.literature {
 	text-align: left;
-} 
+}
 
 #content dt {
 	font-weight: bold;

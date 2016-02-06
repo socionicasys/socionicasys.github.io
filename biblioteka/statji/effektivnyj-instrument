@@ -4,11 +4,11 @@
 	<meta charset="UTF-8" />
 	<meta name="description" content="Предлагается экспериментальная программа подготовки (обучения и стажировки) экспертов-консультантов, ориентированная на освоение соционики как основного «инструмента» анализа и прогноза функционирования психики." />
 <meta name="keywords" content="соционика, эксперт, теория информационного метаболизма психики, психология, социология, системология, информатика, ТИМ, идентификация ТИМ, типировщик, диагностика ТИМ, определение ТИМ, типирование, практическая соционика, прикладная соционика" />
-<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js"></script>
 <title>Соционика — эффективный инструмент экспертно-консультативнной работы | Школа системной соционики</title>
 	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css" media="all" />
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>

@@ -5,11 +5,11 @@
 	<meta name="description" content="Описана концепция системной соционики. Рассмотрено понятие информационного метаболизма и его исследование при помощи инструмента моделирования. Приведены основные сведения по темам: аспекты информации, модель ТИМа, применение соционики." />
 <meta name="keywords" content="системная соционика, ШСС, информационный метаболизм, соционика, ТИМ, модель А, аспекты информации, функция, параметры функций, размерность функций, знак функций, применение соционики." />
 <script type="text/javascript" src="/assets/131831c9/jquery.min.js"></script>
-<script type="text/javascript" src="/scripts/hyphenate.js?201408101352"></script>
+<script type="text/javascript" src="/scripts/hyphenate.js"></script>
 <title>Что такое системная соционика? | Школа системной соционики</title>
 	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
-	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css?201408101352" media="all" />
-	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css?201408101352" media="all" />
+	<link rel="stylesheet" type="text/css" title="Trebuchet" href="/styles/main.css" media="all" />
+	<link rel="stylesheet alternate" type="text/css" title="Libertine" href="/styles/libertine.css" media="all" />
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	<!--[if lt IE 9]>
